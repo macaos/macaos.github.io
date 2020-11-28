@@ -1,0 +1,29 @@
+{
+  "info": {
+    "cover": "aaa.png",
+    "titleen": "0000000000.",
+    "titleko": "0000000000",
+    "descko": "0000000000",
+    "descen": "0000000000"
+  },
+  "sentense": [
+    {
+      "level": "",
+      "en": "Now, I'm gonna ask you one of our more telling questions for all of our interns.",
+      "ko": "이제 우리 인턴에게 묻는 가장 까다로운 질문을 하나 할게요",
+      "timeen": "743|4177"
+    },
+    {
+      "level": "",
+      "en": "And take your time.",
+      "ko": "시간이 걸려도 좋아요",
+      "timeen": "4882|5981"
+    },
+    {
+      "level": "",
+      "en": "Where do you see yourself in 10 years?",
+      "ko": "10년 후 본인의 모습은 어떨까요?",
+      "timeen": "6710|8410"
+    }
+  ]
+}

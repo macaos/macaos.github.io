@@ -1,0 +1,29 @@
+{
+  "info": {
+    "cover": "aaa.png",
+    "titleen": "0000000000.",
+    "titleko": "0000000000",
+    "descko": "0000000000",
+    "descen": "0000000000"
+  },
+  "sentense": [
+    {
+      "level": "",
+      "en": "How old's that briefcase?",
+      "ko": "그 서류 가방은 언제 거예요?",
+      "timeen": "562|2030"
+    },
+    {
+      "level": "",
+      "en": "They don't make it anymore.",
+      "ko": "요즘엔 안 만들어",
+      "timeen": "2899|4565"
+    },
+    {
+      "level": "",
+      "en": "I'm a little in love with it.",
+      "ko": "그거 정말 맘에 들어요",
+      "timeen": "5362|7299"
+    }
+  ]
+}

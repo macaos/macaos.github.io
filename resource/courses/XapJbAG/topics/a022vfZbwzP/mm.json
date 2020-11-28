@@ -1,0 +1,29 @@
+{
+  "info": {
+    "cover": "aaa.png",
+    "titleen": "0000000000.",
+    "titleko": "0000000000",
+    "descko": "0000000000",
+    "descen": "0000000000"
+  },
+  "sentense": [
+    {
+      "level": "",
+      "en": "I think we did it in less than two minutes.",
+      "ko": "2분 아래로 끝냈네요",
+      "timeen": "692|3525"
+    },
+    {
+      "level": "",
+      "en": "Want the door open or closed?",
+      "ko": "문 닫을까요 열어 놓을까요?",
+      "timeen": "4523|6923"
+    },
+    {
+      "level": "",
+      "en": "Doesn't matter.",
+      "ko": "상관없어요",
+      "timeen": "7592|9022"
+    }
+  ]
+}

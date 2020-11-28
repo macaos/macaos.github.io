@@ -1,0 +1,29 @@
+{
+  "info": {
+    "cover": "aaa.png",
+    "titleen": "0000000000.",
+    "titleko": "0000000000",
+    "descko": "0000000000",
+    "descen": "0000000000"
+  },
+  "sentense": [
+    {
+      "level": "",
+      "en": "I was sick a few years back. I'm not anymore.",
+      "ko": "몇 년 전에 아팠는데 지금은 완쾌됐고요",
+      "timeen": "525|3225"
+    },
+    {
+      "level": "",
+      "en": "And I finally met a man I actually wanna hang out with.",
+      "ko": "그리고 같이 어울리고 싶은 남자를 만났어요",
+      "timeen": "3958|7791"
+    },
+    {
+      "level": "",
+      "en": "Lucky me.",
+      "ko": "행운남이네요",
+      "timeen": "8391|9756"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "info": {
+    "cover": "aaa.png",
+    "titleen": "0000000000.",
+    "titleko": "0000000000",
+    "descko": "0000000000",
+    "descen": "0000000000"
+  },
+  "sentense": [
+    {
+      "level": "",
+      "en": "There's been a ton of research on this.",
+      "ko": "노인 고용에 관해 많은 연구 조사가 있었어요",
+      "timeen": "774|2771"
+    },
+    {
+      "level": "",
+      "en": "they're all retired.",
+      "ko": "다들 은퇴한 사람들이에요",
+      "timeen": "3776|5471"
+    },
+    {
+      "level": "",
+      "en": "And I would like one to work directly with you.",
+      "ko": "그중 한 명을 보스한테 배정할 거예요",
+      "timeen": "6309|9137"
+    }
+  ]
+}

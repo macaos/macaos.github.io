@@ -1,0 +1,29 @@
+{
+  "info": {
+    "cover": "aaa.png",
+    "titleen": "0000000000.",
+    "titleko": "0000000000",
+    "descko": "0000000000",
+    "descen": "0000000000"
+  },
+  "sentense": [
+    {
+      "level": "",
+      "en": "There's gonna be a couple of interviews today, Ben.",
+      "ko": "벤, 오늘 두어 사람하고 면접을 볼 거예요",
+      "timeen": "709|3279"
+    },
+    {
+      "level": "",
+      "en": "We wanna make sure that we both find the right fit.",
+      "ko": "함께 어울려 일할 수 있는지 서로 확인할 기회예요",
+      "timeen": "3911|6841"
+    },
+    {
+      "level": "",
+      "en": "We hope you have some fun here.",
+      "ko": "즐기면서 일하려고 하죠",
+      "timeen": "7546|9211"
+    }
+  ]
+}

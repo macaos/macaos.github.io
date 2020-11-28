@@ -1,0 +1,29 @@
+{
+  "info": {
+    "cover": "aaa.png",
+    "titleen": "0000000000.",
+    "titleko": "0000000000",
+    "descko": "0000000000",
+    "descen": "0000000000"
+  },
+  "sentense": [
+    {
+      "level": "",
+      "en": "You guys have to remember, the homepage has to read in a glance.",
+      "ko": "홈페이지는 한눈에 볼 수 있어야 한다는 걸 꼭 기억해 둬",
+      "timeen": "586|3885"
+    },
+    {
+      "level": "",
+      "en": "If I could, what do you want me to see?",
+      "ko": "만약 읽을 수 있다 치면 뭘 보여 주고 싶어?",
+      "timeen": "4684|7086"
+    },
+    {
+      "level": "",
+      "en": "Tell me that thing again.",
+      "ko": "한 번 더 말해 줘",
+      "timeen": "7888|9252"
+    }
+  ]
+}

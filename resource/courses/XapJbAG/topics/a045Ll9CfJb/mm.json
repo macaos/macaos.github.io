@@ -1,0 +1,29 @@
+{
+  "info": {
+    "cover": "aaa.png",
+    "titleen": "0000000000.",
+    "titleko": "0000000000",
+    "descko": "0000000000",
+    "descen": "0000000000"
+  },
+  "sentense": [
+    {
+      "level": "",
+      "en": "What are we doing here? We got the day off.",
+      "ko": "우리가 지금 뭐 하는 거죠? 하루 쉬는 날이고",
+      "timeen": "512|2446"
+    },
+    {
+      "level": "",
+      "en": "We're traveling in first-class.",
+      "ko": "일등석 타고 여행 중인데",
+      "timeen": "3146|4546"
+    },
+    {
+      "level": "",
+      "en": "Let's at least have a little fun.",
+      "ko": "좀 즐기자고요",
+      "timeen": "5214|6813"
+    }
+  ]
+}

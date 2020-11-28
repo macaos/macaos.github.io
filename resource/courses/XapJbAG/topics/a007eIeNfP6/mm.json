@@ -1,0 +1,29 @@
+{
+  "info": {
+    "cover": "aaa.png",
+    "titleen": "0000000000.",
+    "titleko": "0000000000",
+    "descko": "0000000000",
+    "descen": "0000000000"
+  },
+  "sentense": [
+    {
+      "level": "",
+      "en": "These pants are awesome if you have hips.",
+      "ko": "골반이 크시면 이 바지가 좋을 거예요",
+      "timeen": "688|3254"
+    },
+    {
+      "level": "",
+      "en": "Super slimming.",
+      "ko": "정말 날씬하게 보일 겁니다",
+      "timeen": "4121|5722"
+    },
+    {
+      "level": "",
+      "en": "Okay, let me just review this with you.",
+      "ko": "네, 다시 한번 확인할게요",
+      "timeen": "6389|8688"
+    }
+  ]
+}

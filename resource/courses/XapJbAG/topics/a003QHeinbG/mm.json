@@ -1,0 +1,29 @@
+{
+  "info": {
+    "cover": "aaa.png",
+    "titleen": "I was driving at about 40 miles per hour.",
+    "titleko": "나는 40마일로 운전하고 있었어요",
+    "descko": "엄마의 생일선물을 고민하는 남자친구를 위해 여자친구가 제안한 방법은?",
+    "descen": "How about baking a birthday cake for her?"
+  },
+  "sentense": [
+    {
+      "level": "",
+      "en": "The tech stuff might take a bit to figure out.",
+      "ko": "신기술을 배우는 데는 시간이 좀 걸리겠죠",
+      "timeen": "943|3581"
+    },
+    {
+      "level": "",
+      "en": "I had to call my 9-year-old grandson just to find out what a USB connector was.",
+      "ko": "9살 먹은 제 손자한테 전화해서 USB가 뭔지 물어야 했거든요",
+      "timeen": "4280|9348"
+    },
+    {
+      "level": "",
+      "en": "But I'll get there. Eager to learn.",
+      "ko": "하지만 배울 수 있어요 배우고 싶어요",
+      "timeen": "9949|11816"
+    }
+  ]
+}

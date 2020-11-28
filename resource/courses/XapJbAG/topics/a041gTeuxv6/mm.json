@@ -1,0 +1,29 @@
+{
+  "info": {
+    "cover": "aaa.png",
+    "titleen": "0000000000.",
+    "titleko": "0000000000",
+    "descko": "0000000000",
+    "descen": "0000000000"
+  },
+  "sentense": [
+    {
+      "level": "",
+      "en": "Will you wake me in the morning, or is that too much to ask?",
+      "ko": "아침에 깨워달라고 하면 과한 부탁일까요?",
+      "timeen": "508|3641"
+    },
+    {
+      "level": "",
+      "en": "Too much.",
+      "ko": "몹시 과해",
+      "timeen": "4444|5376"
+    },
+    {
+      "level": "",
+      "en": "Understood. I'll just set an alarm on my phone.",
+      "ko": "알았어요, 휴대폰 알람 켜놓죠",
+      "timeen": "6242|8810"
+    }
+  ]
+}

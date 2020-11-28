@@ -1,0 +1,29 @@
+{
+  "info": {
+    "cover": "aaa.png",
+    "titleen": "0000000000.",
+    "titleko": "0000000000",
+    "descko": "0000000000",
+    "descen": "0000000000"
+  },
+  "sentense": [
+    {
+      "level": "",
+      "en": "You see why I take customer service calls?",
+      "ko": "내가 고객 전화를 받는 이유를 알겠지?",
+      "timeen": "724|2824"
+    },
+    {
+      "level": "",
+      "en": "I mean, it's so good. You learn so much.",
+      "ko": "정말 좋아 많은 걸 배워",
+      "timeen": "3524|5991"
+    },
+    {
+      "level": "",
+      "en": "Okay, what's up? What am I doing?",
+      "ko": "그래, 뭘 해야 하지?",
+      "timeen": "6824|7891"
+    }
+  ]
+}

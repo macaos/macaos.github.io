@@ -1,0 +1,29 @@
+{
+  "info": {
+    "cover": "aaa.png",
+    "titleen": "0000000000.",
+    "titleko": "0000000000",
+    "descko": "0000000000",
+    "descen": "0000000000"
+  },
+  "sentense": [
+    {
+      "level": "",
+      "en": "Jules, I apologize if I overstepped in some way.",
+      "ko": "줄스, 무례했다면 사과할게요",
+      "timeen": "425|3456"
+    },
+    {
+      "level": "",
+      "en": "Please don't apologize.",
+      "ko": "사과하지 마세요",
+      "timeen": "4159|5525"
+    },
+    {
+      "level": "",
+      "en": "You have done nothing wrong.",
+      "ko": "잘못한 것 없어요",
+      "timeen": "6193|7889"
+    }
+  ]
+}

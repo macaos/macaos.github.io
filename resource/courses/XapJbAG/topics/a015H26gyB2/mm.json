@@ -1,0 +1,29 @@
+{
+  "info": {
+    "cover": "aaa.png",
+    "titleen": "0000000000.",
+    "titleko": "0000000000",
+    "descko": "0000000000",
+    "descen": "0000000000"
+  },
+  "sentense": [
+    {
+      "level": "",
+      "en": "I need you for two minutes, uninterrupted.",
+      "ko": "2분만 집중해줘요",
+      "timeen": "692|2993"
+    },
+    {
+      "level": "",
+      "en": "Remember a few weeks ago, we talked about the senior intern program?",
+      "ko": "몇 주 전에 시니어 인턴 프로그램 얘기했던 것 기억나죠?",
+      "timeen": "3828|7025"
+    },
+    {
+      "level": "",
+      "en": "Really? We had a whole, big conversation about it.",
+      "ko": "정말요? 한참을 얘기했는데",
+      "timeen": "7861|10125"
+    }
+  ]
+}

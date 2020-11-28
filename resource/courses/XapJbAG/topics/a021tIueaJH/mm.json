@@ -1,0 +1,29 @@
+{
+  "info": {
+    "cover": "aaa.png",
+    "titleen": "0000000000.",
+    "titleko": "0000000000",
+    "descko": "0000000000",
+    "descen": "0000000000"
+  },
+  "sentense": [
+    {
+      "level": "",
+      "en": "I mean, we're super cas here.",
+      "ko": "내말은! 여긴 완전 캐쥬얼을 추구해요.",
+      "timeen": "462|2329"
+    },
+    {
+      "level": "",
+      "en": "I'm comfortable in a suit, if it's okay.",
+      "ko": "괜찮다면 난 양복이 편해요",
+      "timeen": "3063|5726"
+    },
+    {
+      "level": "",
+      "en": "No, it's fine. Old-school.",
+      "ko": "네, 괜찮아요 옛날 방식이죠",
+      "timeen": "6328|9127"
+    }
+  ]
+}

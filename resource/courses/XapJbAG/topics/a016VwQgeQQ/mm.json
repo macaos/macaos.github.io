@@ -1,0 +1,29 @@
+{
+  "info": {
+    "cover": "aaa.png",
+    "titleen": "0000000000.",
+    "titleko": "0000000000",
+    "descko": "0000000000",
+    "descen": "0000000000"
+  },
+  "sentense": [
+    {
+      "level": "",
+      "en": "I told you I felt like we needed to do an outreach program.",
+      "ko": "커뮤니티 프로그램이 필요하다고 말했잖아요",
+      "timeen": "703|3403"
+    },
+    {
+      "level": "",
+      "en": "You definitely seemed to be liking the idea, so I set it in motion. It's gonna be great.",
+      "ko": "그땐 좋은 아이디어라고 해서 바로 실행에 옮겼죠. 좋을 거예요.",
+      "timeen": "4070|7835"
+    },
+    {
+      "level": "",
+      "en": "Hold, please. You're hiring senior citizen interns?",
+      "ko": "잠깐, 노인 인턴을 고용한다고?",
+      "timeen": "8738|12536"
+    }
+  ]
+}
