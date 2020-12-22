@@ -10,19 +10,19 @@
     {
       "level": "",
       "en": "No, you are right.",
-      "ko": "아뇨, 맞아요",
+      "ko": "아뇨, 당신이(고객님의 말이) 맞아요",
       "timeen": "578|1907"
     },
     {
       "level": "",
       "en": "That package should have arrived by now.",
-      "ko": "지금쯤이면 도착해야 했는데",
+      "ko": "그 물건은 지금쯤 도착해야 하네요",
       "timeen": "2644|4877"
     },
     {
       "level": "",
       "en": "Let me track that for you.",
-      "ko": "제가 택배 추적해 볼게요",
+      "ko": "제가 한번 추적해볼게요",
       "timeen": "5578|7278"
     }
   ]

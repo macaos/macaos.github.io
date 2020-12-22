@@ -1,0 +1,47 @@
+{
+    "info": {
+        "color": "#E65B56",
+        "titleen": "I’m going to take the yoga class.",
+        "titleko": "나 요가 수업을 들을 거야.",
+        "descko": "",
+        "descen": ""
+    },
+    "sentense": [
+        {
+            "level": "",
+            "en": "Mina, will you attend any after-school programs? ",
+            "ko": "미나야, 너 방과 후 프로그램에 참석할 거니? ",
+            "timeen": "775|6342"
+        },
+        {
+            "level": "",
+            "en": "Sure. I’m going to take the yoga class.",
+            "ko": "그럼. 나 요가 수업을 들을 거야.",
+            "timeen": "8110|12445"
+        },
+        {
+            "level": "",
+            "en": "Really? Me, too. When should I sign up?",
+            "ko": "정말? 나도 그래. 내가 언제 등록해야 하니? ",
+            "timeen": "13811|19977"
+        },
+        {
+            "level": "",
+            "en": "Sign up starts at 4 o’clock this afternoon.",
+            "ko": "등록은 오늘 오후 4시에 시작이야.",
+            "timeen": "21009|25844"
+        },
+        {
+            "level": "",
+            "en": "Thanks. When does the yoga class start? ",
+            "ko": "고마워. 요가 수업은 언제 시작하니? ",
+            "timeen": "27211|32010"
+        },
+        {
+            "level": "",
+            "en": "It begins at 4:30 p.m. every Friday.",
+            "ko": "매주 금요일 오후 4시 30분에 시작해.",
+            "timeen": "33377|39011"
+        }
+    ]
+}

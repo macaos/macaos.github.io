@@ -1,0 +1,53 @@
+{
+    "info": {
+        "color": "#E65B56",
+        "titleen": "I can’t find it. ",
+        "titleko": "제가 그것을 찾을 수가 없어요. ",
+        "descko": "",
+        "descen": ""
+    },
+    "sentense": [
+        {
+            "level": "",
+            "en": "Dad, did you see my blanket? ",
+            "ko": "아빠, 제 담요 보셨어요? ",
+            "timeen": "752|4019"
+        },
+        {
+            "level": "",
+            "en": "I can’t find it. ",
+            "ko": "제가 그것을 찾을 수가 없어요. ",
+            "timeen": "5518|7318"
+        },
+        {
+            "level": "",
+            "en": "What does it look like, Amy?",
+            "ko": "그게 어떻게 생겼니, Amy?",
+            "timeen": "8652|11051"
+        },
+        {
+            "level": "",
+            "en": "It has a dog on it.",
+            "ko": "개 한 마리가 그려져 있어요.",
+            "timeen": "12318|14518"
+        },
+        {
+            "level": "",
+            "en": "Does it have anything else?",
+            "ko": "또 다른 건 없니?",
+            "timeen": "15718|18050"
+        },
+        {
+            "level": "",
+            "en": "It also has my name under the dog. ",
+            "ko": "개의 아래쪽에 제 이름이 쓰여 있어요. ",
+            "timeen": "19418|23117"
+        },
+        {
+            "level": "",
+            "en": "Okay. Let’s find it together.",
+            "ko": "그래. 함께 찾아보자꾸나.",
+            "timeen": "24250|27853"
+        }
+    ]
+}

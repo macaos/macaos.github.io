@@ -1,0 +1,53 @@
+{
+    "info": {
+        "color": "#E65B56",
+        "titleen": "My mom made it for me. ",
+        "titleko": "우리 엄마가 그걸 만들어 주셨어. ",
+        "descko": "",
+        "descen": ""
+    },
+    "sentense": [
+        {
+            "level": "",
+            "en": "Wow, Sumin. What a lovely dress! ",
+            "ko": "와, 수민아. 너 드레스 멋지다!",
+            "timeen": "724|6157"
+        },
+        {
+            "level": "",
+            "en": "Actually, my mom made it for me. ",
+            "ko": "사실은 우리 엄마가 그걸 만들어 주셨어. ",
+            "timeen": "7461|11726"
+        },
+        {
+            "level": "",
+            "en": "Really? I like that style.",
+            "ko": "진짜? 스타일이 마음에 들어.",
+            "timeen": "12857|16859"
+        },
+        {
+            "level": "",
+            "en": "Thanks.",
+            "ko": "고마워.",
+            "timeen": "17992|18994"
+        },
+        {
+            "level": "",
+            "en": "Does she work in fashion?",
+            "ko": "엄마가 패션 쪽에서 일하시니?",
+            "timeen": "20159|23323"
+        },
+        {
+            "level": "",
+            "en": "Yes, she designs children’s clothes. ",
+            "ko": "응. 그녀는 아동복을 디자인하셔.",
+            "timeen": "24757|29492"
+        },
+        {
+            "level": "",
+            "en": "That sounds great!",
+            "ko": "멋지시다!",
+            "timeen": "31092|33326"
+        }
+    ]
+}

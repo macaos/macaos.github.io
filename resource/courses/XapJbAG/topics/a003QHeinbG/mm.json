@@ -10,19 +10,31 @@
     {
       "level": "",
       "en": "The tech stuff might take a bit to figure out.",
-      "ko": "신기술을 배우는 데는 시간이 좀 걸리겠죠",
-      "timeen": "943|3581"
+      "ko": "기술관련된 것은 이해 하는데 시간이 약간 걸릴 수 도 있어요",
+      "timeen": "943|3581",
+      "words": [
+        [
+          "Figure out",
+          "이해하다"
+        ]
+      ]
     },
     {
       "level": "",
       "en": "I had to call my 9-year-old grandson just to find out what a USB connector was.",
-      "ko": "9살 먹은 제 손자한테 전화해서 USB가 뭔지 물어야 했거든요",
-      "timeen": "4280|9348"
+      "ko": "USB커넥터가 뭔지 알기위해 9살짜리 손자에게 전화를 한 적도 있거든요",
+      "timeen": "4280|9348",
+      "words": [
+        [
+          "find out",
+          "(해답을) 얻어내다, 발견하다, 생각해 내다"
+        ]
+      ]
     },
     {
       "level": "",
       "en": "But I'll get there. Eager to learn.",
-      "ko": "하지만 배울 수 있어요 배우고 싶어요",
+      "ko": "하지만 잘 하게 될거에요. 열심히 배울겁니다.",
       "timeen": "9949|11816"
     }
   ]
