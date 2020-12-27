@@ -17,12 +17,18 @@
       "level": "",
       "en": "I'm loyal, I'm trustworthy, and I'm good in a crisis.",
       "ko": "충성심도 있고 믿음직하고 위기관리 능력도 뛰어나요",
-      "timeen": "4201|7600"
+      "timeen": "4201|7600",
+      "words": [
+        [
+          "trustworthy",
+          "신뢰할 수 있는"
+        ]
+      ]
     },
     {
       "level": "",
       "en": "And I love that you're right here in Brooklyn.",
-      "ko": "회사가 브루클린에 있다는 것도 정말 좋아요",
+      "ko": "그리고 귀사(회사)가 브루클린에 있다는 것도 정말 좋아요",
       "timeen": "8267|10201"
     }
   ]
