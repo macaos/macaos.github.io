@@ -1,0 +1,53 @@
+{
+    "info": {
+        "color": "#E65B56",
+        "titleen": "Do you have any plans this weekend?",
+        "titleko": "이번 주말에 뭐 할 일 있니?",
+        "descko": "",
+        "descen": ""
+    },
+    "sentense": [
+        {
+            "level": "",
+            "en": "Diane, do you have any plans this weekend?",
+            "ko": "Diane, 이번 주말에 뭐 할 일 있니?",
+            "timeen": "1041|6709"
+        },
+        {
+            "level": "",
+            "en": "Nothing special. Why?",
+            "ko": "특별한 건 없어. 왜?",
+            "timeen": "7972|10675"
+        },
+        {
+            "level": "",
+            "en": "My club will have a “Clean the Earth” campaign and we need some help. ",
+            "ko": "내가 있는 동아리에서 “Clean the Earth” 캠페인을 할 건데 도움이 좀 필요해서. ",
+            "timeen": "12006|20575"
+        },
+        {
+            "level": "",
+            "en": "What can I do to help you?",
+            "ko": "내가 어떤 걸 도와줄 수 있을까?",
+            "timeen": "21941|25038"
+        },
+        {
+            "level": "",
+            "en": "I plan to draw some posters on Saturday. ",
+            "ko": "토요일에 내가 포스터를 몇 장 그릴 계획인데. ",
+            "timeen": "26176|31505"
+        },
+        {
+            "level": "",
+            "en": "Are you good at drawing?",
+            "ko": "너 그리는데 소질이 있니?",
+            "timeen": "32940|35607"
+        },
+        {
+            "level": "",
+            "en": "Yes, I am. Let’s do it together.",
+            "ko": "응. 우리 같이 하자.",
+            "timeen": "37208|42307"
+        }
+    ]
+}

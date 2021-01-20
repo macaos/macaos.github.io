@@ -1,0 +1,88 @@
+{
+    "info": {
+        "color": "#E65B56",
+        "titleen": "Can you read the name on it?",
+        "titleko": "거기에 쓰여있는 이름을 읽을 수 있니?",
+        "descko": "길에 떨어진 신용카드를 발견하고 어떻게 행동했을까요?",
+        "descen": "How about baking a birthday cake for her?"
+    },
+    "sentense": [
+        {
+            "level": "2",
+            "en": "Mike. Look! What's that on the ground?",
+            "en_": "Mike. Look! What's that on the ground?",
+            "ko": "마이크. 봐! 땅 위에 저게 뭐야?",
+            "timeen": "1000|3899"
+        },
+        {
+            "level": "2",
+            "en": "It looks like a credit card or something.",
+            "en_": "It looks like a credit card or something.",
+            "ko": "신용카드나 뭐 비슷한 것 같은데.",
+            "timeen": "4485|6757"
+        },
+        {
+            "level": "2",
+            "en": "No, it's somebody's ID card.",
+            "en_": "No, it's somebody's ID card.",
+            "ko": "아니, 누군가의 신분증이다.",
+            "timeen": "7418|10014"
+        },
+        {
+            "level": "2",
+            "en": "Can you read the name on it?",
+            "en_": "Can you read the name on it?",
+            "ko": "거기에 쓰여있는 이름을 읽을 수 있니?",
+            "timeen": "10729|12023"
+        },
+        {
+            "level": "2",
+            "en": "Yeah, it says 'Frank Cook.'",
+            "en_": "Yeah, it says 'Frank Cook.'",
+            "ko": "응, '프랭크 쿡' 이라고 쓰여있어.",
+            "timeen": "12691|15185"
+        },
+        {
+            "level": "2",
+            "en": "He must have lost it. What should we do with it?",
+            "en_": "He must have lost it. What should we do with it?",
+            "ko": "그가 잃어버린 게 틀림없어. 이 것을 어떻게 해야 하지?",
+            "timeen": "15725|18914"
+        },
+        {
+            "level": "2",
+            "en": "Let's take it to the police station.",
+            "en_": "Let's take it to the police station.",
+            "ko": "경찰서에 갖다 주자.",
+            "timeen": "19554|21503"
+        },
+        {
+            "level": "2",
+            "en": "There's no police station around here.",
+            "en_": "There's no police station around here.",
+            "ko": "이 주변에 경찰서가 없는데.",
+            "timeen": "22055|24295"
+        },
+        {
+            "level": "2",
+            "en": "You're right. Well, what can we do?",
+            "en_": "You're right. Well, what can we do?",
+            "ko": "맞아. 그러면, 어떻게 하지?",
+            "timeen": "24846|27933"
+        },
+        {
+            "level": "2",
+            "en": "Over there. There's a mailbox.",
+            "en_": "Over there. There's a mailbox.",
+            "ko": "저기 봐. 우체통이 있다.",
+            "timeen": "28499|31188"
+        },
+        {
+            "level": "2",
+            "en": "And the card does have his address on it.",
+            "en_": "And the card does have his address on it.",
+            "ko": "그리고 카드에는 그 사람의 주소가 쓰여있잖아.",
+            "timeen": "31811|34181"
+        }
+    ]
+}

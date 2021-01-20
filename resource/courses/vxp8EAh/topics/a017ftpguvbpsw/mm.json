@@ -1,0 +1,59 @@
+{
+    "info": {
+        "color": "#E65B56",
+        "titleen": "What time does the concert begin?",
+        "titleko": "콘서트가 몇 시에 시작하니?",
+        "descko": "",
+        "descen": ""
+    },
+    "sentense": [
+        {
+            "level": "",
+            "en": "Junho, What time does the concert begin?",
+            "ko": "준호야, 콘서트가 몇 시에 시작하니?",
+            "timeen": "992|5256"
+        },
+        {
+            "level": "",
+            "en": "It begins at 7:30.",
+            "ko": "7시 30분에 시작이야.",
+            "timeen": "6557|9393"
+        },
+        {
+            "level": "",
+            "en": "7:30? I think we should leave home now.",
+            "ko": "7시 30분? 내 생각에 우리가 지금 집을 나서야 할 거 같아. ",
+            "timeen": "10893|16027"
+        },
+        {
+            "level": "",
+            "en": "It’s too early. ",
+            "ko": "너무 이른데. ",
+            "timeen": "17395|19226"
+        },
+        {
+            "level": "",
+            "en": "It’s not even 6 o’clock yet.",
+            "ko": "아직 6시도 안 됐어.",
+            "timeen": "20860|24125"
+        },
+        {
+            "level": "",
+            "en": "But there are lots of cars on the road around this time of the day. ",
+            "ko": "그렇지만 하루 중 이 시간 즈음에는 길에 차들이 많잖아. ",
+            "timeen": "25691|32758"
+        },
+        {
+            "level": "",
+            "en": "Yeah, then why don’t we go by subway?",
+            "ko": "그래, 그럼 우리 지하철로 가는 건 어때?",
+            "timeen": "34058|38961"
+        },
+        {
+            "level": "",
+            "en": "You’re right. Let’s take the subway.",
+            "ko": "네 말이 맞네. 지하철을 타자.",
+            "timeen": "40195|44059"
+        }
+    ]
+}

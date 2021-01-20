@@ -1,0 +1,65 @@
+{
+    "info": {
+        "color": "#E65B56",
+        "titleen": "Look at this shirt.",
+        "titleko": "이 셔츠 좀 봐",
+        "descko": "",
+        "descen": ""
+    },
+    "sentense": [
+        {
+            "level": "",
+            "en": "Mina. Look at this shirt. ",
+            "ko": "미나야. 이 셔츠 좀 봐. ",
+            "timeen": "169|2224"
+        },
+        {
+            "level": "",
+            "en": "I designed it in my art class. ",
+            "ko": "내가 미술 시간에 디자인 했어. ",
+            "timeen": "3658|5624"
+        },
+        {
+            "level": "",
+            "en": "Wow! It looks great. ",
+            "ko": "와! 멋져 보인다. ",
+            "timeen": "7157|9260"
+        },
+        {
+            "level": "",
+            "en": "I like the star in the middle.",
+            "ko": "나는 중간에 있는 그 별이 마음에 들어. ",
+            "timeen": "10823|12760"
+        },
+        {
+            "level": "",
+            "en": "Me, too. ",
+            "ko": "나도 그래. ",
+            "timeen": "14123|14859"
+        },
+        {
+            "level": "",
+            "en": "I’m The star is our school symbol.",
+            "ko": "그 별이 우리 학교의 상징이야.",
+            "timeen": "16259|18559"
+        },
+        {
+            "level": "",
+            "en": "What is B.O.B. under the star?",
+            "ko": "그 별 아래에 있는 B.O.B는 뭐야?",
+            "timeen": "19992|23092"
+        },
+        {
+            "level": "",
+            "en": "Oh, it means “Best of the Best.",
+            "ko": "오, 그건 “Best of the Best(최고 중의 최고)”라는 뜻이야. ",
+            "timeen": "24592|27592"
+        },
+        {
+            "level": "",
+            "en": "I see.",
+            "ko": "알겠어.",
+            "timeen": "29291|30191"
+        }
+    ]
+}

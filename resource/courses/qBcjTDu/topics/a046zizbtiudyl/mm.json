@@ -1,0 +1,95 @@
+{
+    "info": {
+        "color": "#E65B56",
+        "titleen": "I don't think we have enough time.",
+        "titleko": "난 우리에게 시간이 충분하다고 생각하지 않아.",
+        "descko": "수학여행 중 버스 출발 3시간 전에 친구와 할 수 있는 일은?",
+        "descen": "How about baking a birthday cake for her?"
+    },
+    "sentense": [
+        {
+            "level": "2",
+            "en": "We've got three hours before the tour bus leaves. ",
+            "en_": "We've got three hours before the tour bus leaves. ",
+            "ko": "관광버스가 출발할 때까지 3시간 남았어. ",
+            "timeen": "1000|4319"
+        },
+        {
+            "level": "2",
+            "en": "What do you want to do?",
+            "en_": "What do you want to do?",
+            "ko": "무엇을 하고 싶니?",
+            "timeen": "6123|7282"
+        },
+        {
+            "level": "2",
+            "en": "How about getting something to eat?",
+            "en_": "How about getting something to eat?",
+            "ko": "뭐 좀 먹는 게 어때?",
+            "timeen": "9674|11459"
+        },
+        {
+            "level": "2",
+            "en": "Bob! Is food all you ever think about? ",
+            "en_": "Bob! Is food all you ever think about? ",
+            "ko": "밥, 기껏 생각하는 것이 경우 먹는 거냐? ",
+            "timeen": "13794|16680"
+        },
+        {
+            "level": "2",
+            "en": "Let's go back to that little bookstore.",
+            "en_": "Let's go back to that little bookstore.",
+            "ko": "저 작은 서점으로 돌아가자.",
+            "timeen": "18682|20534"
+        },
+        {
+            "level": "2",
+            "en": "Absolutely not. You've already bought five books. ",
+            "en_": "Absolutely not. You've already bought five books. ",
+            "ko": "그럴 수 없어. 넌 벌써 책 다섯 권이나 샀어. ",
+            "timeen": "22836|27090"
+        },
+        {
+            "level": "2",
+            "en": "How about taking a boat ride around the lake?",
+            "en_": "How about taking a boat ride around the lake?",
+            "ko": "호수에서 유람선을 타는 것은 어때?",
+            "timeen": "28901|31260"
+        },
+        {
+            "level": "2",
+            "en": "I don't think we have enough time.",
+            "en_": "I don't think we have enough time.",
+            "ko": "난 우리에게 시간이 충분하다고 생각하지 않아.",
+            "timeen": "33679|35397"
+        },
+        {
+            "level": "2",
+            "en": "Sure we do. The next boat leaves in thirty minutes. ",
+            "en_": "Sure we do. The next boat leaves in thirty minutes. ",
+            "ko": "시간은 충분해. 다음 배가 30분 안에 떠나거든. ",
+            "timeen": "37833|41570"
+        },
+        {
+            "level": "2",
+            "en": "And the sign says the trip lasts an hour and a half.",
+            "en_": "And the sign says the trip lasts an hour and a half.",
+            "ko": "그리고 표지판에 한번 타는데 한 시간 30분 걸린다고 쓰여있어.",
+            "timeen": "43138|46374"
+        },
+        {
+            "level": "2",
+            "en": "We've got plenty of time then, so let's do it.",
+            "en_": "We've got plenty of time then, so let's do it.",
+            "ko": "우리 시간은 충분하네. 그럼 그렇게 하자.",
+            "timeen": "48876|52196"
+        },
+        {
+            "level": "2",
+            "en": "And maybe they sell hotdogs on the boat!",
+            "en_": "And maybe they sell hotdogs on the boat!",
+            "ko": "그리고 아마 보트에서 핫도그를 팔 거야!",
+            "timeen": "54631|57317"
+        }
+    ]
+}

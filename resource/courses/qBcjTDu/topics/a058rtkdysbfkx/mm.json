@@ -1,0 +1,87 @@
+{
+    "info": {
+        "color": "#E65B56",
+        "titleen": "This is a simple action which indicates agreement.",
+        "titleko": "이것은 동의한다는 것을 나타내는 간단한 동작입니다.",
+        "descko": "다음은 무엇에 대한 설명일까요?",
+        "descen": "How about baking a birthday cake for her?"
+    },
+    "sentense": [
+        {
+            "level": "2",
+            "en": "This is a simple action which indicates agreement by striking one’s palms together repeatedly.",
+            "en_": "This is a simple action which indicates agreement by striking one’s palms together repeatedly.",
+            "ko": "이것은 두 손바닥을 서로 반복적으로 맞부딪침으로써 동의한다는 것을 나타내는 간단한 동작입니다.",
+            "timeen": "1000|7596"
+        },
+        {
+            "level": "2",
+            "en": "This can be done softly to show polite approval,",
+            "en_": "This can be done softly to show polite approval,",
+            "ko": "이것은 정중하게 찬성한다는 것을 보여주기 위해 차분하게 할 수 있거나",
+            "timeen": "8670|12168",
+            "words": [
+                [
+                    "polite",
+                    "공손한, 정중한, 예의 바른"
+                ],
+                [
+                    "approval( ↔ disapproval)",
+                    "찬성, 동의, 승인"
+                ]
+            ]
+        },
+        {
+            "level": "2",
+            "en": "or be done while standing and yelling to show overwhelming support.",
+            "en_": "or be done while standing and yelling to show overwhelming support.",
+            "ko": "혹은 압도적으로 지지한다는 것을 보여주기 위해 선 채로 고함을 지르면서도 할 수 있습니다.",
+            "timeen": "13179|17893",
+            "words": [
+                [
+                    "overwhelming",
+                    "압도적인, 너무도 강력한, 저항하기 힘든"
+                ],
+                [
+                    "overwhelming support",
+                    "압도적 지지"
+                ]
+            ]
+        },
+        {
+            "level": "2",
+            "en": "This honor is given in response to past achievements.",
+            "en_": "This honor is given in response to past achievements.",
+            "ko": "지난 업적에 답해서 이 경의 표시를 합니다.",
+            "timeen": "19049|22963"
+        },
+        {
+            "level": "2",
+            "en": "Famous public figures may receive it when they first appear on stage, before they make a speech",
+            "en_": "Famous public figures may receive it when they first appear on stage, before they make a speech",
+            "ko": "유명한 대중적인 인물들이 무대에 처음으로 나올 때 혹은 연설을 하기 전에",
+            "timeen": "24011|30259"
+        },
+        {
+            "level": "2",
+            "en": "or just before their first speaking part.",
+            "en_": "or just before their first speaking part.",
+            "ko": "또는 연설의 첫 부분 직전에 그것을 받습니다.",
+            "timeen": "31045|34020"
+        },
+        {
+            "level": "2",
+            "en": "On some occasions, it can also occur in the middle of an event.",
+            "en_": "On some occasions, it can also occur in the middle of an event.",
+            "ko": "어떤 경우에는 행사의 중간 부분에서 그것을 할 수 있습니다.",
+            "timeen": "35647|40175"
+        },
+        {
+            "level": "2",
+            "en": "It is customary to give this to performers after a performance.",
+            "en_": "It is customary to give this to performers after a performance.",
+            "ko": "공연이 끝난 후에 공연자에게 이것을 하는 것이 관례입니다.(정답:박수)",
+            "timeen": "41410|45750"
+        }
+    ]
+}

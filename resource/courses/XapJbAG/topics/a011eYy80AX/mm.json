@@ -9,14 +9,20 @@
   "sentense": [
     {
       "level": "",
-      "en": "You guys have to remember, the homepage has to read in a glance.",
-      "ko": "홈페이지는 한눈에 볼 수 있어야 한다는 걸 꼭 기억해 둬",
-      "timeen": "586|3885"
+      "en": "Okay, you guys have to remember, the homepage has to read in a glance.",
+      "ko": "자, 기억해야 될 게, 홈페이지는 한눈에 볼 수 있어야 한다는 거에요.",
+      "timeen": "586|3885",
+      "words": [
+        [
+          "in a glance",
+          "한눈에, 슬쩍봐도 눈에 띄도록 "
+        ]
+      ]
     },
     {
       "level": "",
       "en": "If I could, what do you want me to see?",
-      "ko": "만약 읽을 수 있다 치면 뭘 보여 주고 싶어?",
+      "ko": "하지만 내가 (볼수 있다)가정하고, 나한테 뭘 보여주고 싶은거지?",
       "timeen": "4684|7086"
     },
     {

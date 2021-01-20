@@ -10,19 +10,25 @@
     {
       "level": "",
       "en": "This is your gift for a job well done.",
-      "ko": "고마워서 안마해 드리는 거예요",
-      "timeen": "544|3280"
+      "ko": "이것은 노고에 대한 보답이에요.",
+      "timeen": "544|3280",
+      "words": [
+        [
+          "job well done",
+          "잘한 일, 노고"
+        ]
+      ]
     },
     {
       "level": "",
       "en": "I wondered who you were.",
-      "ko": "누구신가 했어요",
+      "ko": "누구신가 궁금했어요",
       "timeen": "4146|5510"
     },
     {
       "level": "",
       "en": "Then someone told me you were an intern.",
-      "ko": "인턴이라고 하더군요",
+      "ko": "누군가가 인턴이라고 말해주더군요",
       "timeen": "6380|8347"
     }
   ]

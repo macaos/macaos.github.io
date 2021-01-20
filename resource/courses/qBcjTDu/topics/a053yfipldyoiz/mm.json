@@ -1,0 +1,95 @@
+{
+    "info": {
+        "color": "#E65B56",
+        "titleen": "Do you want us to cancel the order?",
+        "titleko": "주문을 취소하길 원하세요?",
+        "descko": "주문한 책이 2주나 늦어진다는 연락을 받은 그녀는 주문을 취소했을까요?",
+        "descen": "How about baking a birthday cake for her?"
+    },
+    "sentense": [
+        {
+            "level": "2",
+            "en": "Hello?",
+            "en_": "Hello?",
+            "ko": "여보세요?",
+            "timeen": "1000|1625"
+        },
+        {
+            "level": "2",
+            "en": "Is this Marjorie Blane?",
+            "en_": "Is this Marjorie Blane?",
+            "ko": "마조리 블레인 씨인가요?",
+            "timeen": "2407|3758"
+        },
+        {
+            "level": "2",
+            "en": "Yes, this is she.",
+            "en_": "Yes, this is she.",
+            "ko": "네, 저예요.",
+            "timeen": "4454|5848"
+        },
+        {
+            "level": "2",
+            "en": "Hi, Ms. Blane. This is Connor's Bookstore.",
+            "en_": "Hi, Ms. Blane. This is Connor's Bookstore.",
+            "ko": "블래인 양 안녕하세요. 여기는 캐너 서점입니다.",
+            "timeen": "6658|9872"
+        },
+        {
+            "level": "2",
+            "en": "Oh, hi. Did the book I ordered come in?",
+            "en_": "Oh, hi. Did the book I ordered come in?",
+            "ko": "아, 안녕하세요. 제가 주문한 책이 왔어요?",
+            "timeen": "10511|13653"
+        },
+        {
+            "level": "2",
+            "en": "That's why I'm calling. We've just received a message from the publishing company. ",
+            "en_": "That's why I'm calling. We've just received a message from the publishing company. ",
+            "ko": "그것 때문에 전화드렸어요. 출판사에서 방금 메시지를 받았어요.",
+            "timeen": "14633|19767"
+        },
+        {
+            "level": "2",
+            "en": "There will be a delay on your order.",
+            "en_": "There will be a delay on your order.",
+            "ko": "주문한 책이 좀 늦어지겠다고 합니다.",
+            "timeen": "20455|22611"
+        },
+        {
+            "level": "2",
+            "en": "Oh, no. I need it for a paper I'm writing.",
+            "en_": "Oh, no. I need it for a paper I'm writing.",
+            "ko": "아, 안됩니다. 지금 쓰고 있는 논문을 위해 필요합니다.",
+            "timeen": "23299|26962"
+        },
+        {
+            "level": "2",
+            "en": "I'm afraid it will be another two weeks before it's available.",
+            "en_": "I'm afraid it will be another two weeks before it's available.",
+            "ko": "도착하기까지는 앞으로도 2주는 있어야 할 것으로 생각됩니다.",
+            "timeen": "27650|30890"
+        },
+        {
+            "level": "2",
+            "en": "Two weeks? This is terrible.",
+            "en_": "Two weeks? This is terrible.",
+            "ko": "2주요? 정말로 큰일이군요.",
+            "timeen": "31591|34157"
+        },
+        {
+            "level": "2",
+            "en": "What would you like us to do? Do you want us to cancel the order?",
+            "en_": "What would you like us to do? Do you want us to cancel the order?",
+            "ko": "어떻게 하면 되겠습니까? 주문을 취소하길 원하세요?",
+            "timeen": "34845|38773"
+        },
+        {
+            "level": "2",
+            "en": "Well, I really want the book, so I'll wait for it.",
+            "en_": "Well, I really want the book, so I'll wait for it.",
+            "ko": "음, 난 그 책이 꼭 필요해요, 그러니까 기다릴게요.",
+            "timeen": "39395|44288"
+        }
+    ]
+}

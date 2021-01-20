@@ -16,13 +16,23 @@
     {
       "level": "",
       "en": "We wanna make sure that we both find the right fit.",
-      "ko": "함께 어울려 일할 수 있는지 서로 확인할 기회예요",
-      "timeen": "3911|6841"
+      "ko": "우리 양쪽이 서로 딱 맞는 사람인지 확실히 하고 싶어요.",
+      "timeen": "3911|6841",
+      "words": [
+        [
+          "make sure",
+          "확실하게 하다, ~임을 확인하다"
+        ],
+        [
+          "right fit",
+          "딱 맞는 사람"
+        ]
+      ]
     },
     {
       "level": "",
       "en": "We hope you have some fun here.",
-      "ko": "즐기면서 일하려고 하죠",
+      "ko": "(우리는 당신이) 즐기면서 일하셨으면 해요.",
       "timeen": "7546|9211"
     }
   ]

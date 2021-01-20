@@ -10,8 +10,14 @@
     {
       "level": "",
       "en": "I need you for two minutes, uninterrupted.",
-      "ko": "2분만 집중해줘요",
-      "timeen": "692|2993"
+      "ko": "2분만 집중해줘요(시간을 내줘요)",
+      "timeen": "692|2993",
+      "words": [
+        [
+          "uninterrupted",
+          "중단되지 않는, 연속된"
+        ]
+      ]
     },
     {
       "level": "",
@@ -22,7 +28,7 @@
     {
       "level": "",
       "en": "Really? We had a whole, big conversation about it.",
-      "ko": "정말요? 한참을 얘기했는데",
+      "ko": "정말요? 우리 그것에 대해 심도있는 대화를 했는데",
       "timeen": "7861|10125"
     }
   ]
