@@ -1,0 +1,47 @@
+{
+    "info": {
+        "color": "#E65B56",
+        "titleen": "Hello, nice to meet you. ",
+        "titleko": "안녕하세요, 만나서 반가워요. ",
+        "descko": "",
+        "descen": ""
+    },
+    "sentense": [
+        {
+            "level": "",
+            "en": "Hello, nice to meet you. ",
+            "ko": "안녕하세요, 만나서 반가워요. ",
+            "timeen": "431|2455"
+        },
+        {
+            "level": "",
+            "en": "I’m Jessica Houston. ",
+            "ko": "저는 Jessica Houston입니다. ",
+            "timeen": "3788|5488"
+        },
+        {
+            "level": "",
+            "en": "I am your new English teacher. ",
+            "ko": "저는 여러분의 새 영어 선생님이에요. ",
+            "timeen": "6687|8688"
+        },
+        {
+            "level": "",
+            "en": "My hometown is Sydney, Australia.",
+            "ko": "제 고향은 호주 시드니입니다. ",
+            "timeen": "9954|12587"
+        },
+        {
+            "level": "",
+            "en": "My hobby is taking pictures. ",
+            "ko": "제 취미는 사진 찍는 거예요. ",
+            "timeen": "13957|16190"
+        },
+        {
+            "level": "",
+            "en": "Let’s have lots of fun together.",
+            "ko": "우리 함께 재밌는 시간 가져 봐요.",
+            "timeen": "17590|20089"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+  "info": {
+    "cover": "aaa.png",
+    "titleen": "0000000000.",
+    "titleko": "0000000000",
+    "descko": "0000000000",
+    "descen": "0000000000"
+  },
+  "sentense": [
+    {
+      "level": "",
+      "en": "And what was amazing is, she never really changed.",
+      "ko": "놀라운 건 아내는 항상 한결같았다는 거예요",
+      "timeen": "453|3585"
+    },
+    {
+      "level": "",
+      "en": "That's a hard thing to pull off.",
+      "ko": "그러기 쉽지 않죠",
+      "timeen": "4289|6453"
+    },
+    {
+      "level": "",
+      "en": "She handled life like it was easy.",
+      "ko": "삶을 아주 쉽게 다뤘어요",
+      "timeen": "7153|9250"
+    }
+  ]
+}

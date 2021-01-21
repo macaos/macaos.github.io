@@ -1,0 +1,29 @@
+{
+  "info": {
+    "cover": "aaa.png",
+    "titleen": "0000000000.",
+    "titleko": "0000000000",
+    "descko": "0000000000",
+    "descen": "0000000000"
+  },
+  "sentense": [
+    {
+      "level": "",
+      "en": "I received an e-mail about an interview for the senior intern program.",
+      "ko": "나는 고령 인턴 프로그램을 위한 면접 이메일을 받았어요",
+      "timeen": "536|4436"
+    },
+    {
+      "level": "",
+      "en": "Excellent. Take a seat around the corner, and someone from talent acquisition will come get you.",
+      "ko": "네, 저기 코너에 앉아 계세요 인재 인수팀(채용팀)에서 누군가가 모시러 나올 거예요",
+      "timeen": "5237|9204"
+    },
+    {
+      "level": "",
+      "en": "Thank you.",
+      "ko": "고마워요",
+      "timeen": "10003|11169"
+    }
+  ]
+}

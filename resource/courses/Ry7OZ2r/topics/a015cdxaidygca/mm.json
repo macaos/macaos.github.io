@@ -1,0 +1,53 @@
+{
+    "info": {
+        "color": "#E65B56",
+        "titleen": "How are you doing?",
+        "titleko": "오늘 어때?",
+        "descko": "",
+        "descen": ""
+    },
+    "sentense": [
+        {
+            "level": "",
+            "en": "Hi, Mike. ",
+            "ko": "Mike, 안녕. ",
+            "timeen": "762|2094"
+        },
+        {
+            "level": "",
+            "en": "How are you doing?",
+            "ko": "오늘 어때?",
+            "timeen": "3228|4962"
+        },
+        {
+            "level": "",
+            "en": "I’m doing very well. Thanks.",
+            "ko": "좋아. 고마워.",
+            "timeen": "5797|9295"
+        },
+        {
+            "level": "",
+            "en": "I’d like to tell you some good news.",
+            "ko": "네게 좋은 소식을 전하고 싶어.",
+            "timeen": "10095|13893"
+        },
+        {
+            "level": "",
+            "en": "What is it?",
+            "ko": "뭔데?",
+            "timeen": "14995|16397"
+        },
+        {
+            "level": "",
+            "en": "Emma won the first prize in the speech contest. ",
+            "ko": "Emma가 말하기 대회에서 우승했어.",
+            "timeen": "17695|22466"
+        },
+        {
+            "level": "",
+            "en": "Great! I will call her to congratulate her right now.",
+            "ko": "멋지다! 지금 당장 그녀를 축하해 주기 위해 전화 해야겠다.",
+            "timeen": "23830|31129"
+        }
+    ]
+}

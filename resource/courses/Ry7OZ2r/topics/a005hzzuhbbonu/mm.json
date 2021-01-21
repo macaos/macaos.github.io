@@ -1,0 +1,53 @@
+{
+    "info": {
+        "color": "#E65B56",
+        "titleen": "The game starts at 7 p.m. ",
+        "titleko": "경기가 오후 7시에 시작하잖아. ",
+        "descko": "",
+        "descen": ""
+    },
+    "sentense": [
+        {
+            "level": "",
+            "en": "Suji, are we still going to the baseball game on Saturday evening?",
+            "ko": "수지야, 우리 토요일 저녁에 야구 경기 보러 가는 거 맞지?",
+            "timeen": "536|5659"
+        },
+        {
+            "level": "",
+            "en": "Of course. Where and when should we meet?",
+            "ko": "물론이지. 언제 어디에서 만날까?",
+            "timeen": "7223|10259"
+        },
+        {
+            "level": "",
+            "en": "The game starts at 7 p.m. ",
+            "ko": "경기가 오후 7시에 시작하잖아. ",
+            "timeen": "11592|13925"
+        },
+        {
+            "level": "",
+            "en": "So, let’s meet in front of the stadium at 6:30. ",
+            "ko": "그러니까 6시 반에 경기장 앞에서 만나자. ",
+            "timeen": "15392|18891"
+        },
+        {
+            "level": "",
+            "en": "How about 6:00? ",
+            "ko": "6시는 어떨까? ",
+            "timeen": "20025|21024"
+        },
+        {
+            "level": "",
+            "en": "Let’s have burgers for dinner together.",
+            "ko": "같이 저녁으로 버거를 먹자.",
+            "timeen": "22425|24790"
+        },
+        {
+            "level": "",
+            "en": "Great. See you then.",
+            "ko": "좋아. 그때 보자.",
+            "timeen": "25957|27824"
+        }
+    ]
+}

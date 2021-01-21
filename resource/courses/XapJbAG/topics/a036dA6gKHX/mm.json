@@ -1,0 +1,29 @@
+{
+  "info": {
+    "cover": "aaa.png",
+    "titleen": "0000000000.",
+    "titleko": "0000000000",
+    "descko": "0000000000",
+    "descen": "0000000000"
+  },
+  "sentense": [
+    {
+      "level": "",
+      "en": "I've read about these househusbands.",
+      "ko": "남성 주부 얘기를 읽었는데",
+      "timeen": "453|2219"
+    },
+    {
+      "level": "",
+      "en": "It's interesting how that all worked just now.",
+      "ko": "실제로 보니 흥미로웠어요",
+      "timeen": "2852|5486"
+    },
+    {
+      "level": "",
+      "en": "They actually prefer to be called stay-at-home dads.",
+      "ko": "본인들은 집에 있는 아빠라 불리는 걸 선호해요",
+      "timeen": "6252|9083"
+    }
+  ]
+}

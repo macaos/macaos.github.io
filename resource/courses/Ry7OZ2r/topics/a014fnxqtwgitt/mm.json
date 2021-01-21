@@ -1,0 +1,47 @@
+{
+    "info": {
+        "color": "#E65B56",
+        "titleen": "Do you want to play games together? ",
+        "titleko": "너 함께 놀이하기를 원하니?",
+        "descko": "",
+        "descen": ""
+    },
+    "sentense": [
+        {
+            "level": "",
+            "en": "I can’t wait for the class field trip tomorrow! ",
+            "ko": "나 내일 있는 학급 체험학습이 정말 기대 돼. ",
+            "timeen": "814|6348"
+        },
+        {
+            "level": "",
+            "en": "Me, too. Do you want to play games together? ",
+            "ko": "나도 그래. 너 함께 놀이하기를 원하니?",
+            "timeen": "7478|12747"
+        },
+        {
+            "level": "",
+            "en": "Yeah, let’s play Catch the Tail.",
+            "ko": "응, 우리 꼬리잡기 놀이를 하자.",
+            "timeen": "13881|18680"
+        },
+        {
+            "level": "",
+            "en": "Good idea. ",
+            "ko": "좋은 생각이네. ",
+            "timeen": "20181|21549"
+        },
+        {
+            "level": "",
+            "en": "And how about Hide and Seek?",
+            "ko": "그리고 숨바꼭질은 어때?",
+            "timeen": "22710|25848"
+        },
+        {
+            "level": "",
+            "en": "Sounds great! Tomorrow will be fun.",
+            "ko": "좋아! 내일 재밌겠다.",
+            "timeen": "27316|31749"
+        }
+    ]
+}

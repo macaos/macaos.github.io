@@ -1,0 +1,95 @@
+{
+    "info": {
+        "color": "#E65B56",
+        "titleen": "I got one like that last year.",
+        "titleko": "지난해 그것과 같은 것을 샀어요.",
+        "descko": "아들을 위해 엄마가 선택한 케이크 모양은?",
+        "descen": "How about baking a birthday cake for her?"
+    },
+    "sentense": [
+        {
+            "level": "2",
+            "en": "May I help you?",
+            "en_": "May I help you?",
+            "ko": "(무엇을) 도와드릴 까요?",
+            "timeen": "1000|1887"
+        },
+        {
+            "level": "2",
+            "en": "Yes, I'd like to buy a cake for my son's birthday.",
+            "en_": "Please, I'd like to buy a cake for my son's birthday.",
+            "ko": "네, 제 아들 생일 케이크를 사고 싶어요.",
+            "timeen": "3430|6676"
+        },
+        {
+            "level": "2",
+            "en": "If he likes sports, then the one with the baseball and bat might be good.",
+            "en_": "If he likes sports, then the one with the baseball and bat might be good.",
+            "ko": "만약 아이가 스포츠를 좋아한다면, 야구공과 방망이가 있는 것이 좋겠군요.",
+            "timeen": "8305|12635"
+        },
+        {
+            "level": "2",
+            "en": "Yes, he is crazy about baseball. ",
+            "en_": "Yes, he is crazy about baseball. ",
+            "ko": "예, 그 아이는 야구에 미쳤어요. ",
+            "timeen": "14313|16557"
+        },
+        {
+            "level": "2",
+            "en": "But I got one like that last year.",
+            "en_": "But I got one like that last year.",
+            "ko": "그러나, 지난해 그것과 같은 것을 샀어요.",
+            "timeen": "18194|20100"
+        },
+        {
+            "level": "2",
+            "en": "Well, he probably wouldn't like the dancer.",
+            "en_": "Well, he probably wouldn't like the dancer.",
+            "ko": "글쎄요, 그 아이가 설마 댄서를 좋아하지는 않겠지요.",
+            "timeen": "21674|24733"
+        },
+        {
+            "level": "2",
+            "en": "No, but my daughter would.",
+            "en_": "No, but my daughter would.",
+            "ko": "아니요, 하지만 내 딸은 좋아해요.",
+            "timeen": "26525|28379"
+        },
+        {
+            "level": "2",
+            "en": "How about the one with the car on it?",
+            "en_": "How about the one with the car on it?",
+            "ko": "그럼 그것(케이크) 위에 차가 있는 것은 어떨까요?",
+            "timeen": "30106|32267"
+        },
+        {
+            "level": "2",
+            "en": "Hmm... I don't think so. Oh, look at this one with the drum on it.",
+            "en_": "Hmm... I don't think so. Oh, look at this one with the drum on it.",
+            "ko": "음... 그렇게 생각하지 않아요(별로에요). 오, 드럼이 있는 것 좀 보아요.",
+            "timeen": "33922|40061"
+        },
+        {
+            "level": "2",
+            "en": "Does he like music?",
+            "en_": "Does he like music?",
+            "ko": "그 아이가 음악을 좋아합니까?",
+            "timeen": "41649|42670"
+        },
+        {
+            "level": "2",
+            "en": "He loves it. Whenever he listens to music, he beats time with his pencils.",
+            "en_": "He loves it. Whenever he listens to music, he beats time with his pencils.",
+            "ko": "그는 음악을 사랑해요. 그가 음악을 들을 때마다 연필로 박자를 맞춰요. ",
+            "timeen": "43207|48578"
+        },
+        {
+            "level": "2",
+            "en": "I'll take that one.",
+            "en_": "I'll take that one.",
+            "ko": "저것을 살게요.",
+            "timeen": "50138|51080"
+        }
+    ]
+}

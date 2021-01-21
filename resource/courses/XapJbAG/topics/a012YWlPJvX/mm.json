@@ -1,0 +1,39 @@
+{
+  "info": {
+    "cover": "aaa.png",
+    "titleen": "0000000000.",
+    "titleko": "0000000000",
+    "descko": "0000000000",
+    "descen": "0000000000"
+  },
+  "sentense": [
+    {
+      "level": "",
+      "en": "There's gonna be a couple of interviews today, Ben.",
+      "ko": "벤, 오늘 두어 사람하고 면접을 볼 거예요",
+      "timeen": "709|3279"
+    },
+    {
+      "level": "",
+      "en": "We wanna make sure that we both find the right fit.",
+      "ko": "우리 양쪽이 서로 딱 맞는 사람인지 확실히 하고 싶어요.",
+      "timeen": "3911|6841",
+      "words": [
+        [
+          "make sure",
+          "확실하게 하다, ~임을 확인하다"
+        ],
+        [
+          "right fit",
+          "딱 맞는 사람"
+        ]
+      ]
+    },
+    {
+      "level": "",
+      "en": "We hope you have some fun here.",
+      "ko": "(우리는 당신이) 즐기면서 일하셨으면 해요.",
+      "timeen": "7546|9211"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+    "info": {
+        "color": "#E65B56",
+        "titleen": "Are you going to join a school club, Matt?",
+        "titleko": "너 학교 동아리에 가입할 거니?",
+        "descko": "",
+        "descen": ""
+    },
+    "sentense": [
+        {
+            "level": "",
+            "en": "Are you going to join a school club, Matt?",
+            "ko": "Matt야, 너 학교 동아리에 가입할 거니?",
+            "timeen": "1144|6046"
+        },
+        {
+            "level": "",
+            "en": "Yes, I want to join the drum club, but I can’t play drums.",
+            "ko": "응, 나는 드럼 동아리에 가입하고 싶은데 내가 드럼 연주를 못 해. ",
+            "timeen": "7746|15879"
+        },
+        {
+            "level": "",
+            "en": "That’s okay. ",
+            "ko": "그건 괜찮아. ",
+            "timeen": "17275|19147"
+        },
+        {
+            "level": "",
+            "en": "You can learn about it in the club.",
+            "ko": "동아리에서 배우면 되지.",
+            "timeen": "20610|24510"
+        },
+        {
+            "level": "",
+            "en": "What about you, Mina? Do you want to join a club?",
+            "ko": "미나 너는? 동아리에 들어가기를 원하니?",
+            "timeen": "25979|32245"
+        },
+        {
+            "level": "",
+            "en": "Yeah, I’m going to join the photo club. ",
+            "ko": "응, 나는 사진 동아리에 들어갈 거야. ",
+            "timeen": "33611|38747"
+        },
+        {
+            "level": "",
+            "en": "What do you think? ",
+            "ko": "어떻게 생각하니?",
+            "timeen": "40448|42011"
+        },
+        {
+            "level": "",
+            "en": "That’s a good idea.",
+            "ko": "그거 좋은 생각이다.",
+            "timeen": "43848|46877"
+        }
+    ]
+}

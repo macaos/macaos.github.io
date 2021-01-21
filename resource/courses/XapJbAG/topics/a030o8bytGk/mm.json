@@ -1,0 +1,29 @@
+{
+  "info": {
+    "cover": "aaa.png",
+    "titleen": "0000000000.",
+    "titleko": "0000000000",
+    "descko": "0000000000",
+    "descen": "0000000000"
+  },
+  "sentense": [
+    {
+      "level": "",
+      "en": "Oh, my God. Somebody cleaned up that desk.",
+      "ko": "맙소사, 누가 저 책상을 치웠네",
+      "timeen": "604|3335"
+    },
+    {
+      "level": "",
+      "en": "I swear, I was gonna stay late and do this myself.",
+      "ko": "어제 늦게까지 남아서 직접 치울 작정이었어",
+      "timeen": "4070|7134"
+    },
+    {
+      "level": "",
+      "en": "Wasn't me.",
+      "ko": "나 아니에요(내가 치운 건 아니에요)",
+      "timeen": "7904|9139"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+    "info": {
+        "color": "#E65B56",
+        "titleen": "Could you take off your shoes, sir?",
+        "titleko": "신발 좀 벗어 주시겠습니까?",
+        "descko": "공항 X-ray검사기에서 신발을 벗어야 하는 이유는?",
+        "descen": "How about baking a birthday cake for her?"
+    },
+    "sentense": [
+        {
+            "en": "Could you take off your shoes, sir?",
+            "en_": "Could you ____ ___ your shoes, sir?",
+            "timeen": "1030|2656",
+            "ko": "신발 좀 벗어 주시겠습니까?",
+            "timeko": "59349|61360"
+        },
+        {
+            "en": "Why?",
+            "en_": "Why?",
+            "timeen": "4549|5141",
+            "ko": "왜요?",
+            "timeko": "63976|64443"
+        },
+        {
+            "en": "We need to run your shoes through the X-ray scanner.",
+            "en_": "We need to ___ your shoes _______ the X-ray scanner.",
+            "timeen": "6872|9567",
+            "ko": "신발도 X-ray검사기로 체크를 해봐야 되서요.",
+            "timeko": "66410|69348"
+        },
+        {
+            "en": "They're sneakers. How can I hide anything in them?",
+            "en_": "They're sneakers. How can I hide anything in them?",
+            "timeen": "11509|14330",
+            "ko": "이거 그냥 스니커즈인데요. 여기다 뭘 숨길수 있겟어요?",
+            "timeko": "71931|75978"
+        },
+        {
+            "en": "We have to check them. It's airport policy.",
+            "en_": "We have to check them. It's airport policy.",
+            "timeen": "16123|18630",
+            "ko": "꼭 체크를 해야됩니다. 공항 규정이라서요.",
+            "timeko": "78652|82021"
+        },
+        {
+            "en": "Okay, okay. I will do what you say.",
+            "en_": "Okay, okay. I will do what you say.",
+            "timeen": "20324|22852",
+            "ko": "네네. 원하는대로 하죠.",
+            "timeko": "84801|86575"
+        },
+        {
+            "en": "Sir, please step aside. ",
+            "en_": "Sir, please step aside. ",
+            "timeen": "24556|26116",
+            "ko": "손님, 옆으로 잠시 비켜주시겟습니까.",
+            "timeko": "89012|91972"
+        },
+        {
+            "en": "Do you have any metal in your pockets?",
+            "en_": "Do you have any metal in your pockets?",
+            "timeen": "27977|30065",
+            "ko": "주머니에 금속물품 가지고 계신가요?",
+            "timeko": "94556|96943"
+        },
+        {
+            "en": "Oh, my keys.",
+            "en_": "Oh, my keys.",
+            "timeen": "32008|33188",
+            "ko": "아, 제 열쇠요.",
+            "timeko": "99298|100582"
+        },
+        {
+            "en": "You have to take everything out of your pockets.",
+            "en_": "You have to take everything out of your pockets.",
+            "timeen": "34838|37769",
+            "ko": "주머니에 있는것들 전부 꺼내 주십시오.",
+            "timeko": "102606|105225"
+        },
+        {
+            "en": "Come on. People are waiting in line.",
+            "en_": "Come on. People are waiting in line.",
+            "timeen": "39437|41642",
+            "ko": "이런, 사람들 뒤에서 기다리는데요.",
+            "timeko": "107818|110130"
+        },
+        {
+            "en": "I'm sorry. These are the rules. ",
+            "en_": "I'm sorry. These are the rules. ",
+            "timeen": "43284|45538",
+            "ko": "죄송합니다. 이게 규정이거든요.",
+            "timeko": "112336|114885"
+        },
+        {
+            "en": "Please take everything out and walk through the metal detector.",
+            "en_": "Please take everything out and walk through the metal detector.",
+            "timeen": "47371|50687",
+            "ko": "모두 꺼내신 다음 탐색기를 지나가 주세요.",
+            "timeko": "117454|120189"
+        },
+        {
+            "en": "Phew, it's not so easy to fly overseas, these days.",
+            "en_": "Phew, it's not so easy to ___ _________, these days.",
+            "timeen": "52590|55906",
+            "ko": "휴, 요즘은 외국 여행하기가 쉽지 않네요.",
+            "timeko": "122324|125196"
+        },
+        {
+            "en": "This way, sir.",
+            "en_": "This way, sir.",
+            "timeen": "57658|58804",
+            "ko": "이쪽입니다.",
+            "timeko": "127340|128224"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+  "info": {
+    "cover": "aaa.png",
+    "titleen": "0000000000.",
+    "titleko": "0000000000",
+    "descko": "0000000000",
+    "descen": "0000000000"
+  },
+  "sentense": [
+    {
+      "level": "",
+      "en": "It's good to hear your voice.",
+      "ko": "목소리 들으니 반가워요",
+      "timeen": "473|2509"
+    },
+    {
+      "level": "",
+      "en": "It was great meeting you today.",
+      "ko": "오늘 만나서 반가웠어요",
+      "timeen": "3309|5410"
+    },
+    {
+      "level": "",
+      "en": "I called you quicker than you thought I would.",
+      "ko": "생각보다 빨리 전화했죠?",
+      "timeen": "6275|8375"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "info": {
+    "cover": "aaa.png",
+    "titleen": "0000000000.",
+    "titleko": "0000000000",
+    "descko": "0000000000",
+    "descen": "0000000000"
+  },
+  "sentense": [
+    {
+      "level": "",
+      "en": "Hey, come on in the kitchen.",
+      "ko": "주방으로 오세요",
+      "timeen": "486|2052"
+    },
+    {
+      "level": "",
+      "en": "Can I get you something before you hit the road?",
+      "ko": "가시기 전에 뭐 좀 만들어 드릴까요?",
+      "timeen": "2722|4555"
+    },
+    {
+      "level": "",
+      "en": "Want a cup of coffee or a bite to eat?",
+      "ko": "커피나 요기하실 거요",
+      "timeen": "5254|8121"
+    }
+  ]
+}

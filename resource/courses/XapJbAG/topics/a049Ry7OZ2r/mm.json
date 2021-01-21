@@ -1,0 +1,29 @@
+{
+  "info": {
+    "cover": "aaa.png",
+    "titleen": "0000000000.",
+    "titleko": "0000000000",
+    "descko": "0000000000",
+    "descen": "0000000000"
+  },
+  "sentense": [
+    {
+      "level": "",
+      "en": "You know those are, like, 15 bucks each?",
+      "ko": "이거 하나에 15달러씩 하는 것 알아요?",
+      "timeen": "496|2696"
+    },
+    {
+      "level": "",
+      "en": "I run a very big Internet company.",
+      "ko": "난 아주 큰 인터넷 회사의 사장이에요",
+      "timeen": "3495|5730"
+    },
+    {
+      "level": "",
+      "en": "Let's go crazy.",
+      "ko": "미친 듯이 쓰자고요",
+      "timeen": "5827|7294"
+    }
+  ]
+}

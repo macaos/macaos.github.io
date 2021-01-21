@@ -1,0 +1,35 @@
+{
+  "info": {
+    "cover": "aaa.png",
+    "titleen": "0000000000.",
+    "titleko": "0000000000",
+    "descko": "0000000000",
+    "descen": "0000000000"
+  },
+  "sentense": [
+    {
+      "level": "",
+      "en": "Something big going on in there?",
+      "ko": "뭐 중요한 얘기라도 하던가요?",
+      "timeen": "526|2359"
+    },
+    {
+      "level": "",
+      "en": "I couldn't say.",
+      "ko": "모르겠어요(말할 수 없어요)",
+      "timeen": "3123|4694"
+    },
+    {
+      "level": "",
+      "en": "You were in there a long time.",
+      "ko": "오랫동안 있었잖아요",
+      "timeen": "5425|7524"
+    },
+    {
+      "level": "",
+      "en": "I can't hear a thing.",
+      "ko": "한마디도 못 들었어요",
+      "timeen": "8224|9657"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+    "info": {
+        "color": "#E65B56",
+        "titleen": "Are tickets for the opera still available?",
+        "titleko": "아직도 오페라 표를 구입할 수 있나요?",
+        "descko": "오페라 표를 어떻게 할인받았나요?",
+        "descen": "How about baking a birthday cake for her?"
+    },
+    "sentense": [
+        {
+            "level": "2",
+            "en": "Hi, are tickets for the opera still available?",
+            "en_": "Hi, are tickets for the opera still available?",
+            "ko": "안녕하세요, 아직도 오페라 표를 구입할 수 있나요?",
+            "timeen": "1000|4206"
+        },
+        {
+            "level": "2",
+            "en": "Yes, we have some, but near the back.",
+            "en_": "Yes, we have some, but near the back.",
+            "ko": "네, 몇 장 있습니다만 뒤쪽 근처인데요.",
+            "timeen": "4948|7916"
+        },
+        {
+            "level": "2",
+            "en": "That’s okay. How much are they?",
+            "en_": "That’s okay. How much are they?",
+            "ko": "됐어요. 표가 얼마지요?",
+            "timeen": "8724|10884"
+        },
+        {
+            "level": "2",
+            "en": "They’re $50 each for adults and $35 each for children.",
+            "en_": "They’re $50 each for adults and $35 each for children.",
+            "ko": "성인은 한 장에 50달러고, 어린이는 한 장에 35달러입니다.",
+            "timeen": "11586|16197"
+        },
+        {
+            "level": "2",
+            "en": "I’ll take two adult tickets, please. I have a membership card.",
+            "en_": "I’ll take two adult tickets, please. I have a membership card. ",
+            "ko": "성인용 표로 2장 주세요. 회원 카드가 있는데요.",
+            "timeen": "16979|21603"
+        },
+        {
+            "level": "2",
+            "en": "I get 20% off with it, don’t I?",
+            "en_": "I get 20% off with it, don’t I?",
+            "ko": "그것으로 20% 할인되지요, 그렇죠?",
+            "timeen": "22186|25088"
+        },
+        {
+            "level": "2",
+            "en": "Yes, you do. You can get the discount for both with your card.",
+            "en_": "Yes, you do. You can get the discount for both with your card.",
+            "ko": "네, 그래요. 당신 카드로 두 장 모두 할인을 받을 수 있어요.",
+            "timeen": "25936|30627"
+        },
+        {
+            "level": "2",
+            "en": "Wonderful. I also have a 10% off coupon here.",
+            "en_": "Wonderful. I also have a 10% off coupon here. ",
+            "ko": "잘 됐네요. 그리고 또 10%의 할인 쿠폰도 여기 있어요. ",
+            "timeen": "31316|35476"
+        },
+        {
+            "level": "2",
+            "en": "Can I use it with my membership card?",
+            "en_": "Can I use it with my membership card? ",
+            "ko": "회원 카드에 덧붙여서 그것도 사용할 수 있나요?",
+            "timeen": "36404|38524"
+        },
+        {
+            "level": "2",
+            "en": "I’m afraid not. The card and the coupon cannot be used together.",
+            "en_": "I’m afraid not. The card and the coupon cannot be used together.",
+            "ko": "안 되겠는데요. 카드와 쿠폰을 함께 사용할 수는 없어요.",
+            "timeen": "39464|44274"
+        },
+        {
+            "level": "2",
+            "en": "Okay, here’s my membership card.",
+            "en_": "Okay, here’s my membership card. ",
+            "ko": "알겠어요, 여기 제 회원 카드요.",
+            "timeen": "45122|47414"
+        },
+        {
+            "level": "2",
+            "en": "Alright. One moment, please.",
+            "en_": "Alright. One moment, please. ",
+            "ko": "됐어요. 잠시만 기다리세요.",
+            "timeen": "48342|50608"
+        }
+    ]
+}
