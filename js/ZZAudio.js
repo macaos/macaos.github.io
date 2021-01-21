@@ -41,7 +41,9 @@ class ZZAudio {
     changeAudio(src, forType) {
         audioLoadedDataLoading = true;
         audioLoadedDataForType = forType;
-        ZZAudioElement.setAttribute("src", src);
+
+        ZZAudioElement.src = src;
+        // ZZAudioElement.setAttribute("src", src);
     }
     presetSrc(src) {
         alert('a')
@@ -61,6 +63,7 @@ class ZZAudio {
         currentPlayInfo.repeat = (inInfo.repeat) ? inInfo.repeat : 1;
         currentPlayInfo.interval = (inInfo.interval) ? inInfo.interval : 0;
         currentPlayInfo.speed = (inInfo.speed) ? inInfo.speed : 1;
+
         // 새로운 URL인 경우
         if (zzutils.strEnd20(currentPlayInfo.src) !== zzutils.strEnd20(ZZAudioElement.currentSrc)) {
             // console.log('new url',this.utils.strEnd20(currentPlayInfo.src), this.utils.strEnd20(audioElement.currentSrc))
@@ -68,6 +71,7 @@ class ZZAudio {
             this.changeAudio(currentPlayInfo.src, 'forPlay');
             return;
         }
+
         // if(!isAudioInit){
         //     return;
         // }
