@@ -28,8 +28,8 @@ class ZZAudio {
 
     addEvent() {
         ZZAudioElement.addEventListener("loadeddata", () => {
-            this.audioLoadedDataLoading = false;
-            if (this.audioLoadedDataForType === 'forPlay') {
+            audioLoadedDataLoading = false;
+            if (audioLoadedDataForType === 'forPlay') {
                 this._play();
             }
 
@@ -39,8 +39,8 @@ class ZZAudio {
         ZZAudioElement.volume = inVol;
     }
     changeAudio(src, forType) {
-        this.audioLoadedDataLoading = true;
-        this.audioLoadedDataForType = forType;
+        audioLoadedDataLoading = true;
+        audioLoadedDataForType = forType;
         ZZAudioElement.setAttribute("src", src);
     }
     presetSrc(src) {
@@ -54,18 +54,18 @@ class ZZAudio {
     }
     play(inInfo) {
         console.log('playparam2', inInfo)
-        this.currentPlayInfo.src = (inInfo.src) ? inInfo.src : null;
-        this.currentPlayInfo.st = (inInfo.st) ? inInfo.st : null;
-        this.currentPlayInfo.et = (inInfo.et) ? inInfo.et : null;
-        this.currentPlayInfo.callback = (inInfo.callback) ? inInfo.callback : null;
-        this.currentPlayInfo.repeat = (inInfo.repeat) ? inInfo.repeat : 1;
-        this.currentPlayInfo.interval = (inInfo.interval) ? inInfo.interval : 0;
-        this.currentPlayInfo.speed = (inInfo.speed) ? inInfo.speed : 1;
+        currentPlayInfo.src = (inInfo.src) ? inInfo.src : null;
+        currentPlayInfo.st = (inInfo.st) ? inInfo.st : null;
+        currentPlayInfo.et = (inInfo.et) ? inInfo.et : null;
+        currentPlayInfo.callback = (inInfo.callback) ? inInfo.callback : null;
+        currentPlayInfo.repeat = (inInfo.repeat) ? inInfo.repeat : 1;
+        currentPlayInfo.interval = (inInfo.interval) ? inInfo.interval : 0;
+        currentPlayInfo.speed = (inInfo.speed) ? inInfo.speed : 1;
         // 새로운 URL인 경우
-        if (zzutils.strEnd20(this.currentPlayInfo.src) !== zzutils.strEnd20(ZZAudioElement.currentSrc)) {
-            // console.log('new url',this.utils.strEnd20(this.currentPlayInfo.src), this.utils.strEnd20(audioElement.currentSrc))
-            // ZZAudioElement.setAttribute("src",this.currentPlayInfo.src);
-            this.changeAudio(this.currentPlayInfo.src, 'forPlay');
+        if (zzutils.strEnd20(currentPlayInfo.src) !== zzutils.strEnd20(ZZAudioElement.currentSrc)) {
+            // console.log('new url',this.utils.strEnd20(currentPlayInfo.src), this.utils.strEnd20(audioElement.currentSrc))
+            // ZZAudioElement.setAttribute("src",currentPlayInfo.src);
+            this.changeAudio(currentPlayInfo.src, 'forPlay');
             return;
         }
         // if(!isAudioInit){
@@ -75,14 +75,14 @@ class ZZAudio {
         this._play();
     }
     _play() {
-        if (this.audioLoadedDataLoading) {
+        if (audioLoadedDataLoading) {
             console.log('loading sound...')
             return;
         }
-        if (this.currentPlayInfo.st) {
-            ZZAudioElement.currentTime = this.currentPlayInfo.st / 1000;
+        if (currentPlayInfo.st) {
+            ZZAudioElement.currentTime = currentPlayInfo.st / 1000;
         }
-        ZZAudioElement.playbackRate = this.currentPlayInfo.speed;
+        ZZAudioElement.playbackRate = currentPlayInfo.speed;
         this.startTick();
         ZZAudioElement.play();
     }
@@ -93,21 +93,21 @@ class ZZAudio {
 
     }
     _pause() {
-        if (this.currentPlayInfo.callback) this.currentPlayInfo.callback();
+        if (currentPlayInfo.callback) currentPlayInfo.callback();
     }
     startTick() {
         this.endTick();
-        this.intervalObj = setInterval(() => {
-            // console.log(ZZAudioElement.currentTime*1000, this.currentPlayInfo);
-            if (this.currentPlayInfo && this.currentPlayInfo.et &&
-                ZZAudioElement.currentTime * 1000 > this.currentPlayInfo.et) {
+        intervalObj = setInterval(() => {
+            // console.log(ZZAudioElement.currentTime*1000, currentPlayInfo);
+            if (currentPlayInfo && currentPlayInfo.et &&
+                ZZAudioElement.currentTime * 1000 > currentPlayInfo.et) {
                 this.pause();
                 this._pause();
             }
         }, 100);
     }
     endTick() {
-        if (this.intervalObj) clearInterval(this.intervalObj);
+        if (intervalObj) clearInterval(intervalObj);
     }
 
 }
