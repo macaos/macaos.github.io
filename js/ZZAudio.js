@@ -1,23 +1,30 @@
 var ZZAudioElement;
 
 class ZZAudio {
+
+    audioLoadedDataForType;// :'forPlay'|'forJustChange'// 사운드를 로드한 이유
+    audioLoadedDataLoading;// 사운드를 로딩 중 인가?
+    intervalObj;
+    currentPlayInfo;
     constructor() {
+        // log=v1
         ZZAudioElement = document.createElement("audio");
         document.body.appendChild(ZZAudioElement);
+        this.audioLoadedDataForType = '';// :'forPlay'|'forJustChange'// 사운드를 로드한 이유
+        this.audioLoadedDataLoading = false;// 사운드를 로딩 중 인가?
+        this.intervalObj = null;
+        this.currentPlayInfo = {
+            src: null,
+            st: null,
+            et: null,
+            callback: null,
+            repeat: 1,
+            interval: 0,
+            speed: 1,
+        }
         this.addEvent();
     }
-    audioLoadedDataForType = '';// :'forPlay'|'forJustChange'// 사운드를 로드한 이유
-    audioLoadedDataLoading = false;// 사운드를 로딩 중 인가?
-    intervalObj = null;
-    currentPlayInfo = {
-        src: null,
-        st: null,
-        et: null,
-        callback: null,
-        repeat: 1,
-        interval: 0,
-        speed: 1,
-    }
+
 
     addEvent() {
         ZZAudioElement.addEventListener("loadeddata", () => {
