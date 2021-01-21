@@ -11,6 +11,11 @@ var currentPlayInfo = {
     interval: 0,
     speed: 1,
 }
+var zzutils = {
+    strEnd20: (str) => {
+        return str.substr(str.length - 20, str.length);
+    }
+}
 
 class ZZAudio {
     constructor() {
@@ -57,7 +62,7 @@ class ZZAudio {
         this.currentPlayInfo.interval = (inInfo.interval) ? inInfo.interval : 0;
         this.currentPlayInfo.speed = (inInfo.speed) ? inInfo.speed : 1;
         // 새로운 URL인 경우
-        if (this.utils.strEnd20(this.currentPlayInfo.src) !== this.utils.strEnd20(ZZAudioElement.currentSrc)) {
+        if (zzutils.strEnd20(this.currentPlayInfo.src) !== zzutils.strEnd20(ZZAudioElement.currentSrc)) {
             // console.log('new url',this.utils.strEnd20(this.currentPlayInfo.src), this.utils.strEnd20(audioElement.currentSrc))
             // ZZAudioElement.setAttribute("src",this.currentPlayInfo.src);
             this.changeAudio(this.currentPlayInfo.src, 'forPlay');
@@ -104,11 +109,7 @@ class ZZAudio {
     endTick() {
         if (this.intervalObj) clearInterval(this.intervalObj);
     }
-    utils = {
-        strEnd20: (str) => {
-            return str.substr(str.length - 20, str.length);
-        }
-    }
+
 }
 
 window.addEventListener('DOMContentLoaded', (event) => {
