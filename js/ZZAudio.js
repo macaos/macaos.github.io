@@ -27,13 +27,15 @@ class ZZAudio {
     }
 
     addEvent() {
-        ZZAudioElement.addEventListener("loadeddata", () => {
+
+        ZZAudioElement.onloadeddata = () => {
+
             audioLoadedDataLoading = false;
             if (audioLoadedDataForType === 'forPlay') {
                 this._play();
             }
 
-        }, false);
+        }
     }
     setVolume(inVol) {
         ZZAudioElement.volume = inVol;
@@ -41,12 +43,11 @@ class ZZAudio {
     changeAudio(src, forType) {
         audioLoadedDataLoading = true;
         audioLoadedDataForType = forType;
-
         ZZAudioElement.src = src;
+
         // ZZAudioElement.setAttribute("src", src);
     }
     presetSrc(src) {
-        alert('a')
         this.changeAudio(src, 'forJustChange');
     }
     playEffect(inID) {
@@ -55,6 +56,7 @@ class ZZAudio {
         el.play();
     }
     play(inInfo) {
+
         console.log('playparam2', inInfo)
         currentPlayInfo.src = (inInfo.src) ? inInfo.src : null;
         currentPlayInfo.st = (inInfo.st) ? inInfo.st : null;
@@ -66,9 +68,13 @@ class ZZAudio {
 
         // 새로운 URL인 경우
         if (zzutils.strEnd20(currentPlayInfo.src) !== zzutils.strEnd20(ZZAudioElement.currentSrc)) {
+
             // console.log('new url',this.utils.strEnd20(currentPlayInfo.src), this.utils.strEnd20(audioElement.currentSrc))
             // ZZAudioElement.setAttribute("src",currentPlayInfo.src);
             this.changeAudio(currentPlayInfo.src, 'forPlay');
+            setTimeout(() => {
+                ZZAudioElement.play();
+            });
             return;
         }
 
@@ -79,15 +85,19 @@ class ZZAudio {
         this._play();
     }
     _play() {
+        // alert('p-audioLoadedDataLoading :: ' + audioLoadedDataLoading)
         if (audioLoadedDataLoading) {
             console.log('loading sound...')
             return;
         }
+        // alert('p-b3')
         if (currentPlayInfo.st) {
             ZZAudioElement.currentTime = currentPlayInfo.st / 1000;
         }
+        // alert('p-b4')
         ZZAudioElement.playbackRate = currentPlayInfo.speed;
         this.startTick();
+        // alert('p-b5')
         ZZAudioElement.play();
     }
     pause() {
@@ -115,7 +125,15 @@ class ZZAudio {
     }
 
 }
-
+let domRemInterval = null;
+// let domRemIntervalCnt = 0;
 window.addEventListener('DOMContentLoaded', (event) => {
     window.zzaudio = new ZZAudio();
+    if (domRemInterval) clearInterval(domRemInterval);
+    domRemInterval = setInterval(() => {
+        if ($('iframe[ng-non-bindable]').length > 0) {
+            $('iframe[ng-non-bindable]').remove();
+            clearInterval(domRemInterval);
+        }
+    }, 500);
 });
