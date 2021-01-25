@@ -129,11 +129,11 @@ let domRemInterval = null;
 // let domRemIntervalCnt = 0;
 window.addEventListener('DOMContentLoaded', (event) => {
     window.zzaudio = new ZZAudio();
-    if (domRemInterval) clearInterval(domRemInterval);
-    domRemInterval = setInterval(() => {
-        if ($('iframe[ng-non-bindable]').length > 0) {
-            $('iframe[ng-non-bindable]').remove();
-            clearInterval(domRemInterval);
-        }
-    }, 500);
+    // if (domRemInterval) clearInterval(domRemInterval);
+    // domRemInterval = setInterval(() => {
+    //     if ($('iframe[ng-non-bindable]').length > 0) {
+    //         $('iframe[ng-non-bindable]').remove();
+    //         clearInterval(domRemInterval);
+    //     }
+    // }, 500);
 });
