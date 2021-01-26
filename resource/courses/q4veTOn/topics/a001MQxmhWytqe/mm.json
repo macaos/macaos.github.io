@@ -1,0 +1,29 @@
+{
+  "info": {
+    "cover": "aaa.png",
+    "titleen": "I was driving at about 40 miles per hour.",
+    "titleko": "나는 40마일로 운전하고 있었어요",
+    "descko": "엄마의 생일선물을 고민하는 남자친구를 위해 여자친구가 제안한 방법은?",
+    "descen": "How about baking a birthday cake for her?"
+  },
+  "sentense": [
+    {
+      "level": "",
+      "en": "There's nothing to tell.",
+      "ko": "얘기할 것도 없어",
+      "timeen": "471|2169"
+    },
+    {
+      "level": "",
+      "en": "It's just some guy I work with.",
+      "ko": "그냥 나랑 같이 일하는 남자일 뿐이란 말이야",
+      "timeen": "2834|4838"
+    },
+    {
+      "level": "",
+      "en": "come on, you're going out with a guy.",
+      "ko": "솔직해봐, 너 그남자랑 데이트 하고 있잖아",
+      "timeen": "5504|8370"
+    }
+  ]
+}

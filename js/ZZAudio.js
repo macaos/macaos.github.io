@@ -32,6 +32,7 @@ class ZZAudio {
 
             audioLoadedDataLoading = false;
             if (audioLoadedDataForType === 'forPlay') {
+
                 this._play();
             }
 
@@ -68,7 +69,7 @@ class ZZAudio {
 
         // 새로운 URL인 경우
         if (zzutils.strEnd20(currentPlayInfo.src) !== zzutils.strEnd20(ZZAudioElement.currentSrc)) {
-
+            $('.audio-loading').show();
             // console.log('new url',this.utils.strEnd20(currentPlayInfo.src), this.utils.strEnd20(audioElement.currentSrc))
             // ZZAudioElement.setAttribute("src",currentPlayInfo.src);
             this.changeAudio(currentPlayInfo.src, 'forPlay');
@@ -85,6 +86,7 @@ class ZZAudio {
         this._play();
     }
     _play() {
+        $('.audio-loading').hide();
         // alert('p-audioLoadedDataLoading :: ' + audioLoadedDataLoading)
         if (audioLoadedDataLoading) {
             console.log('loading sound...')
@@ -128,6 +130,7 @@ class ZZAudio {
 let domRemInterval = null;
 // let domRemIntervalCnt = 0;
 window.addEventListener('DOMContentLoaded', (event) => {
+    $('.audio-loading').hide();
     window.zzaudio = new ZZAudio();
     // if (domRemInterval) clearInterval(domRemInterval);
     // domRemInterval = setInterval(() => {
