@@ -11,19 +11,41 @@
       "level": "",
       "en": "There's been a ton of research on this.",
       "ko": "이것(노인 고용)에 관해 많은 연구 조사가 있었어",
-      "timeen": "774|2771"
+      "timeen": "774|2771",
+      "words": [
+        [
+          "a ton of",
+          "많은"
+        ],
+        [
+          "research",
+          "연구, 학술조사"
+        ]
+      ]
     },
     {
       "level": "",
       "en": "they're all retired.",
       "ko": "다들 은퇴한 사람들이야",
-      "timeen": "3776|5471"
+      "timeen": "3776|5471",
+      "words": [
+        [
+          "retired",
+          "은퇴하다, 퇴직하다"
+        ]
+      ]
     },
     {
       "level": "",
       "en": "And I would like one to work directly with you.",
       "ko": "그리고 한 명을 너 직속으로 배정할 거야",
-      "timeen": "6309|9137"
+      "timeen": "6309|9137",
+      "words": [
+        [
+          "directly",
+          "곧장, 즉시로, 똑바로, 직속으로"
+        ]
+      ]
     }
   ]
 }

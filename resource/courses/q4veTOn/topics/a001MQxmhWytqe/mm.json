@@ -23,7 +23,13 @@
       "level": "",
       "en": "come on, you're going out with a guy.",
       "ko": "솔직해봐, 너 그남자랑 데이트 하고 있잖아",
-      "timeen": "5504|8370"
+      "timeen": "5504|8370",
+      "words": [
+        [
+          "go out with ~",
+          "~와 사귀다"
+        ]
+      ]
     }
   ]
 }

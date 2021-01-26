@@ -9,21 +9,39 @@
   "sentense": [
     {
       "level": "",
-      "en": "Translation, Believe me, I've tried everything.",
-      "ko": "다시 말해 정말 안 해 본 게 없어요",
-      "timeen": "556|3655"
+      "en": "Then I look down, and I realize there's a phone.",
+      "ko": "그러곤 아래를 내려다보니까, 전화기가 있다는 거지",
+      "timeen": "953|4236",
+      "words": [
+        [
+          "look dwon",
+          "내려다보다, 아래를 보다"
+        ]
+      ]
     },
     {
       "level": "",
-      "en": "And then, of course, there are the funerals.",
-      "ko": "그리고 장례식이 있죠",
-      "timeen": "4555|8221"
+      "en": "All of a sudden, the phone starts to ring",
+      "ko": "갑자기 전화가 울리기 시작하는거야",
+      "timeen": "5147|8369",
+      "words": [
+        [
+          "all of a sudden",
+          "갑자기"
+        ]
+      ]
     },
     {
       "level": "",
-      "en": "So many more than I could imagine.",
-      "ko": "상상했던 것보다 훨씬 많아요",
-      "timeen": "9054|11287"
+      "en": "And it turns out it's my mother.",
+      "ko": "그것은 (전화를 건 사람이) 알고 보니 우리 엄마였어",
+      "timeen": "9333|11207",
+      "words": [
+        [
+          "turn out",
+          "알고 보니까, ~라고 밝혀지다"
+        ]
+      ]
     }
   ]
 }

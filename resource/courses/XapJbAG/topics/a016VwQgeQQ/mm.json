@@ -22,14 +22,26 @@
     {
       "level": "",
       "en": "You definitely seemed to be liking the idea, so I set it in motion. It's gonna be great.",
-      "ko": "너가 분명희 아이디어를 좋아하는 것처럼 보여서, 바로 실행에 옮겼어. 정말 좋을 꺼야.",
-      "timeen": "4070|7835"
+      "ko": "너가 분명히 아이디어를 좋아하는 것처럼 보여서, 바로 실행에 옮겼어. 정말 좋을 꺼야.",
+      "timeen": "4070|7835",
+      "words": [
+        [
+          "definitely",
+          "분명히, 명확히, 확실히"
+        ]
+      ]
     },
     {
       "level": "",
       "en": "Hold, please. You're hiring senior citizen interns?",
       "ko": "잠깐, 시니어 인턴을 고용한다고?",
-      "timeen": "8738|12536"
+      "timeen": "8738|12536",
+      "words": [
+        [
+          "hiring",
+          "고용하다, 빌리다"
+        ]
+      ]
     }
   ]
 }

@@ -29,7 +29,13 @@
       "level": "",
       "en": "Really? We had a whole, big conversation about it.",
       "ko": "정말요? 우리 그것에 대해 심도있는 대화를 했는데",
-      "timeen": "7861|10125"
+      "timeen": "7861|10125",
+      "words": [
+        [
+          "conversation",
+          "대화, 회화, 담화"
+        ]
+      ]
     }
   ]
 }
