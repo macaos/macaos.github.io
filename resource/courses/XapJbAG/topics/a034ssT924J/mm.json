@@ -11,7 +11,13 @@
       "level": "",
       "en": "Jules' driver is M.I.A.",
       "ko": "운전기사가 행방불명됐어요",
-      "timeen": "464|2097"
+      "timeen": "464|2097",
+      "words": [
+        [
+          "M.I.A.",
+          "시야에서 놓쳤다(군사용어 Missing in action), 미아, 행방불명"
+        ]
+      ]
     },
     {
       "level": "",

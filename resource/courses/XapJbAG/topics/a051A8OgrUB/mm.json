@@ -17,13 +17,29 @@
       "level": "",
       "en": "He was polite and respectful and super smart.",
       "ko": "예의 바르고 존중할 줄 아는 똑똑한 사람이었어요",
-      "timeen": "6076|10581"
+      "timeen": "6076|10581",
+      "words": [
+        [
+          "polite",
+          "공손한, 예절 바른, 세련된, 품위 있는"
+        ],
+        [
+          "respectful",
+          "경의를 표하는, 공손한, 정중한"
+        ]
+      ]
     },
     {
       "level": "",
       "en": "And I hired him.",
       "ko": "그래서 고용했어요",
-      "timeen": "11313|12681"
+      "timeen": "11313|12681",
+      "words": [
+        [
+          "hired",
+          "고용한"
+        ]
+      ]
     }
   ]
 }

@@ -11,7 +11,17 @@
       "level": "",
       "en": "Yeah, I mean, she works on all cylinders all the time.",
       "ko": "사장님은 늘 전력을 다해 일해요",
-      "timeen": "431|2992"
+      "timeen": "431|2992",
+      "words": [
+        [
+          "work on all cylinders",
+          "전력을 다해 일하다"
+        ],
+        [
+          "all the time",
+          "항상"
+        ]
+      ]
     },
     {
       "level": "",

@@ -11,19 +11,41 @@
       "level": "",
       "en": "Our tech guys work until 2:00, 3:00 in the morning.",
       "ko": "프로그래머들은 새벽 2, 3시까지 일해요",
-      "timeen": "587|3290"
+      "timeen": "587|3290",
+      "words": [
+        [
+          "tech guys",
+          "기술자"
+        ]
+      ]
     },
     {
       "level": "",
       "en": "Customer service is slammed.",
       "ko": "고객 서비스는 감당 못 할 수준이고요",
-      "timeen": "4358|6696"
+      "timeen": "4358|6696",
+      "words": [
+        [
+          "slammed",
+          "해야 할 일이 많은"
+        ]
+      ]
     },
     {
       "level": "",
       "en": "We're running out of inventory.",
       "ko": "재고도 떨어져 가고",
-      "timeen": "7777|9202"
+      "timeen": "7777|9202",
+      "words": [
+        [
+          "run out of",
+          "~을 다 써버리다, ~이 없어지다, 바닥나다"
+        ],
+        [
+          "inventory",
+          "목록, 재고품, 물품"
+        ]
+      ]
     }
   ]
 }

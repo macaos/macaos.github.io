@@ -11,7 +11,17 @@
       "level": "",
       "en": "How about if you, just as an experiment, try letting me help you.",
       "ko": "그냥 실험 삼아 내가 도와주게 해줘요 ",
-      "timeen": "422|3759"
+      "timeen": "422|3759",
+      "words": [
+        [
+          "experiment",
+          "실험 "
+        ],
+        [
+          "letting",
+          "임대, ~하게 해주다, ~할 것을 허용하다"
+        ]
+      ]
     },
     {
       "level": "",
@@ -23,7 +33,21 @@
       "level": "",
       "en": "I can offer my assistance in this area.",
       "ko": "그 부분은 내가 도와줄 수 있어요",
-      "timeen": "7694|10197"
+      "timeen": "7694|10197",
+      "words": [
+        [
+          "offer",
+          "제공하다, 제출하다, 제안"
+        ],
+        [
+          "assistance",
+          "도움, 원조, 지원"
+        ],
+        [
+          "area",
+          "범위, 부분, 지역"
+        ]
+      ]
     }
   ]
 }

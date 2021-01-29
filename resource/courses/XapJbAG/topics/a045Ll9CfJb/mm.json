@@ -23,7 +23,13 @@
       "level": "",
       "en": "Let's at least have a little fun.",
       "ko": "좀 즐기자고요",
-      "timeen": "5214|6813"
+      "timeen": "5214|6813",
+      "words": [
+        [
+          "least",
+          "최소(의), 적어도, 하다못해"
+        ]
+      ]
     }
   ]
 }

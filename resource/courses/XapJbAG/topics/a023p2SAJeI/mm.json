@@ -10,20 +10,38 @@
     {
       "level": "",
       "en": "How long can a woman be mad at you for?",
-      "ko": "대체 여자가 한번 삐치면 얼마나 가죠?",
-      "timeen": "623|2555"
+      "ko": "대체 여자가 한번 삐치면(화나면) 얼마나 가죠?",
+      "timeen": "623|2555",
+      "words": [
+        [
+          "be mad at",
+          "~에게 화가 나다, 화를 내다"
+        ]
+      ]
     },
     {
       "level": "",
       "en": "Well, it kind of depends on what you did.",
       "ko": "그거야 무슨 짓을 했느냐에 달렸지",
-      "timeen": "3525|5523"
+      "timeen": "3525|5523",
+      "words": [
+        [
+          "depend",
+          "의존하다, 나름이다, 의지하다"
+        ]
+      ]
     },
     {
       "level": "",
       "en": "Well, first of all, nothing on purpose.",
       "ko": "우선 의도적으로 한 일은 아니었어요",
-      "timeen": "6359|8759"
+      "timeen": "6359|8759",
+      "words": [
+        [
+          "nothing on purpose",
+          "고의가 아닌, 의도적이 아닌"
+        ]
+      ]
     }
   ]
 }

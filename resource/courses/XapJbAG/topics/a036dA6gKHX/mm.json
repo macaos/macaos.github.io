@@ -11,7 +11,13 @@
       "level": "",
       "en": "I've read about these househusbands.",
       "ko": "남성 주부 얘기를 읽었는데",
-      "timeen": "453|2219"
+      "timeen": "453|2219",
+      "words": [
+        [
+          "househusband",
+          "전업남편, 남성주부"
+        ]
+      ]
     },
     {
       "level": "",
@@ -23,7 +29,17 @@
       "level": "",
       "en": "They actually prefer to be called stay-at-home dads.",
       "ko": "본인들은 집에 있는 아빠라 불리는 걸 선호해요",
-      "timeen": "6252|9083"
+      "timeen": "6252|9083",
+      "words": [
+        [
+          "stay-at-home",
+          "집에 있는, 외출을 잘 안하는 사람"
+        ],
+        [
+          "prefer",
+          "~을(더) 좋아하다, 선호하다"
+        ]
+      ]
     }
   ]
 }

@@ -11,7 +11,17 @@
       "level": "",
       "en": "Jules, I apologize if I overstepped in some way.",
       "ko": "줄스, 무례했다면 사과할게요",
-      "timeen": "425|3456"
+      "timeen": "425|3456",
+      "words": [
+        [
+          "overstep 도를넘다",
+          "지나치게가다, 밟고넘다"
+        ],
+        [
+          "apologize 사과하다",
+          "사죄하다"
+        ]
+      ]
     },
     {
       "level": "",

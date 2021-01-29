@@ -23,7 +23,17 @@
       "level": "",
       "en": "She was a middle school principal. Beloved.",
       "ko": "중학교 교장이었죠. 사랑받았어요.",
-      "timeen": "6110|9274"
+      "timeen": "6110|9274",
+      "words": [
+        [
+          "principal",
+          "장, 우두머리, 교장, 사장, 원금"
+        ],
+        [
+          "beloved",
+          "가장 사랑하는, 소중한-가장 사랑하는 사람"
+        ]
+      ]
     }
   ]
 }

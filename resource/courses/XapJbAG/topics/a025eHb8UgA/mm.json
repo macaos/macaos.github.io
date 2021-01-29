@@ -11,7 +11,17 @@
       "level": "",
       "en": "Am I too inexperienced at running a business?",
       "ko": "내가 이 사업을 운영하기에 경험이 부족한가?",
-      "timeen": "587|3088"
+      "timeen": "587|3088",
+      "words": [
+        [
+          "inexperienced",
+          "경험이 부족한, 미숙한"
+        ],
+        [
+          "inexperienced driver/staff",
+          "경험이 부족한 운전자/직원"
+        ]
+      ]
     },
     {
       "level": "",
@@ -23,7 +33,13 @@
       "level": "",
       "en": "My methods aren't by the book?",
       "ko": "내가 교과서처럼 제대로 안 해서인가?",
-      "timeen": "6091|7860"
+      "timeen": "6091|7860",
+      "words": [
+        [
+          "method",
+          "방법, 순서, 방법론"
+        ]
+      ]
     }
   ]
 }

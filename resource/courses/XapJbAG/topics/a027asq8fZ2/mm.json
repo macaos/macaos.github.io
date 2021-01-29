@@ -11,7 +11,17 @@
       "level": "",
       "en": "The VCs made up a list of potential CEOs.",
       "ko": "벤처 캐피털이 CEO 후보 명단을 작성했어요",
-      "timeen": "543|4078"
+      "timeen": "543|4078",
+      "words": [
+        [
+          "VC",
+          "벤처 캐피털"
+        ],
+        [
+          "potential",
+          "가능성이 있는, 잠재적인"
+        ]
+      ]
     },
     {
       "level": "",
@@ -23,7 +33,13 @@
       "level": "",
       "en": "Explore it, then decide.",
       "ko": "검토한 후에 결정해요",
-      "timeen": "7543|9978"
+      "timeen": "7543|9978",
+      "words": [
+        [
+          "decide",
+          "결정하다, 결심하다"
+        ]
+      ]
     },
     {
       "level": "",

@@ -11,13 +11,25 @@
       "level": "",
       "en": "I noticed my intern sure keeps busy.",
       "ko": "내 인턴이 꽤 바쁜거 같아 보이네.",
-      "timeen": "590|2923"
+      "timeen": "590|2923",
+      "words": [
+        [
+          "keep",
+          "(특정 상태위치를)유지하다, ~을 계속하다"
+        ]
+      ]
     },
     {
       "level": "",
       "en": "Mr. Congeniality. He's a very big hit.",
       "ko": "친화 왕 인기 짱이에요",
-      "timeen": "3692|6623"
+      "timeen": "3692|6623",
+      "words": [
+        [
+          "congeniality",
+          "친화성, (성질·취미 등의) 일치, 합치"
+        ]
+      ]
     },
     {
       "level": "",
