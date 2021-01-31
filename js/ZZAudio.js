@@ -24,6 +24,7 @@ class ZZAudio {
         document.body.appendChild(ZZAudioElement);
 
         this.addEvent();
+
     }
 
     addEvent() {
@@ -51,14 +52,13 @@ class ZZAudio {
     presetSrc(src) {
         this.changeAudio(src, 'forJustChange');
     }
-    playEffect(inID) {
+    playEffect(inID, inVol) {
         const el = document.getElementById(inID);
         el.currentTime = 0;
+        el.volume = inVol;
         el.play();
     }
     play(inInfo) {
-
-        console.log('playparam2', inInfo)
         currentPlayInfo.src = (inInfo.src) ? inInfo.src : null;
         currentPlayInfo.st = (inInfo.st) ? inInfo.st : null;
         currentPlayInfo.et = (inInfo.et) ? inInfo.et : null;
@@ -139,4 +139,5 @@ window.addEventListener('DOMContentLoaded', (event) => {
     //         clearInterval(domRemInterval);
     //     }
     // }, 500);
+
 });

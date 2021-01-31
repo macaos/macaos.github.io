@@ -9,21 +9,31 @@
   "sentense": [
     {
       "level": "",
-      "en": "Translation, Believe me, I've tried everything.",
-      "ko": "다시 말해 정말 안 해 본 게 없어요",
-      "timeen": "556|3655"
+      "en": "which is very-very weird, because she never calls me",
+      "ko": "그게 정말 이상하단 얘기야 엄마는 절대 전화를 않하거든",
+      "timeen": "842|4336"
     },
     {
       "level": "",
-      "en": "And then, of course, there are the funerals.",
-      "ko": "그리고 장례식이 있죠",
-      "timeen": "4555|8221"
+      "en": "Carol moved her stuff out today. ",
+      "ko": "캐럴이 오늘 짐을 가져갔대",
+      "timeen": "5105|6873",
+      "words": [
+        [
+          "stuff",
+          "물건, 물질, (빽빽히) 채워 넣다, (재빨리, 되는대로) 쑤셔 넣다"
+        ],
+        [
+          "move out",
+          "이사 가다"
+        ]
+      ]
     },
     {
       "level": "",
-      "en": "So many more than I could imagine.",
-      "ko": "상상했던 것보다 훨씬 많아요",
-      "timeen": "9054|11287"
+      "en": "Let me get you some coffee.",
+      "ko": "커피 사 올게",
+      "timeen": "7674|8871"
     }
   ]
 }
