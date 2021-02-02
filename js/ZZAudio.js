@@ -132,6 +132,7 @@ let domRemInterval = null;
 window.addEventListener('DOMContentLoaded', (event) => {
     $('.audio-loading').hide();
     window.zzaudio = new ZZAudio();
+
     // if (domRemInterval) clearInterval(domRemInterval);
     // domRemInterval = setInterval(() => {
     //     if ($('iframe[ng-non-bindable]').length > 0) {
