@@ -141,3 +141,13 @@ window.addEventListener('DOMContentLoaded', (event) => {
     // }, 500);
 
 });
+
+function gotoNewPage(url) {
+    var link = document.createElement("a");
+    link.href = url;
+    link.style = "visibility:hidden";
+    link.target = "_blank";
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+}
