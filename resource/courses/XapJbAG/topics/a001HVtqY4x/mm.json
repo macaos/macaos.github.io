@@ -1,8 +1,8 @@
 {
   "info": {
     "cover": "aaa.png",
-    "titleen": "I was driving at about 40 miles per hour.",
-    "titleko": "나는 40마일로 운전하고 있었어요",
+    "titleen": "I've tried everything",
+    "titleko": "뭐든 다 해봤어요",
     "descko": "엄마의 생일선물을 고민하는 남자친구를 위해 여자친구가 제안한 방법은?",
     "descen": "How about baking a birthday cake for her?"
   },
@@ -10,20 +10,42 @@
     {
       "level": "",
       "en": "Translation, Believe me, I've tried everything.",
-      "ko": "다시 말해 정말 안 해 본 게 없어요",
-      "timeen": "556|3655"
+      "ko": "다시 말해(번역하자면), 절 믿어요, 뭐든 다 해봤어요",
+      "timeen": "556|3655",
+      "words": [
+        [
+          "I've tried everything",
+          "뭐든 다 해봤어요"
+        ]
+      ]
     },
     {
       "level": "",
       "en": "And then, of course, there are the funerals.",
       "ko": "그리고 장례식이 있죠",
-      "timeen": "4555|8221"
+      "timeen": "4555|8221",
+      "words": [
+        [
+          "funeral",
+          "장례식"
+        ]
+      ]
     },
     {
       "level": "",
       "en": "So many more than I could imagine.",
       "ko": "상상했던 것보다 훨씬 많아요",
-      "timeen": "9054|11287"
+      "timeen": "9054|11287",
+      "words": [
+        [
+          "more than",
+          "~보다 많이,~이상(의)"
+        ],
+        [
+          "imagine",
+          "상상하다,(마음속으로)그리다"
+        ]
+      ]
     }
   ]
 }
