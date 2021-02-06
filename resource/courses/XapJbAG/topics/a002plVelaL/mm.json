@@ -1,8 +1,8 @@
 {
   "info": {
     "cover": "aaa.png",
-    "titleen": "I was driving at about 40 miles per hour.",
-    "titleko": "나는 40마일로 운전하고 있었어요",
+    "titleen": "Don't get me wrong",
+    "titleko": "오해하진 마",
     "descko": "엄마의 생일선물을 고민하는 남자친구를 위해 여자친구가 제안한 방법은?",
     "descen": "How about baking a birthday cake for her?"
   },
@@ -11,7 +11,13 @@
       "level": "",
       "en": "Don't get me wrong, I'm not an unhappy person.",
       "ko": "오해하진 마세요 난 불행한 사람은 아니에요",
-      "timeen": "649|3616"
+      "timeen": "649|3616",
+      "words": [
+        [
+          "Don't get me wrong",
+          "오해하진 마"
+        ]
+      ]
     },
     {
       "level": "",
@@ -19,6 +25,10 @@
       "ko": "정반대죠",
       "timeen": "4445|5980",
       "words": [
+        [
+          "quite",
+          "꽤, 상당히, 완전히, 더없이"
+        ],
         [
           "contrary",
           "정반대되는, ~와는 다른"
@@ -29,7 +39,13 @@
       "level": "",
       "en": "I just know there's a hole in my life, and I need to fill it.",
       "ko": "그저 내 인생에 어딘가 빈 구석이 있고 그걸 채우고 싶을 따름이에요",
-      "timeen": "6814|10051"
+      "timeen": "6814|10051",
+      "words": [
+        [
+          "hole in my life",
+          "내 인생에"
+        ]
+      ]
     }
   ]
 }
