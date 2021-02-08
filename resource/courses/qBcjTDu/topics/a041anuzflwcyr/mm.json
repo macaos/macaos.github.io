@@ -46,7 +46,7 @@
             "en": "Okay, okay. I will do what you say.",
             "en_": "Okay, okay. I will do what you say.",
             "timeen": "20324|22852",
-            "ko": "네네. 원하는대로 하죠.",
+            "ko": "네네. 원하는대로 하죠.(당신의 말은 무엇이든 하겠다)",
             "timeko": "84801|86575"
         },
         {
@@ -54,7 +54,13 @@
             "en_": "Sir, please step aside. ",
             "timeen": "24556|26116",
             "ko": "손님, 옆으로 잠시 비켜주시겟습니까.",
-            "timeko": "89012|91972"
+            "timeko": "89012|91972",
+            "words": [
+                [
+                    "aside",
+                    "한쪽으로,(길을)비켜,(나중에 쓰려고)따로"
+                ]
+            ]
         },
         {
             "en": "Do you have any metal in your pockets?",

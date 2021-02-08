@@ -37,7 +37,13 @@
             "en_": "I already ____ ___ ___ ____ ____.",
             "timeen": "17015|19273",
             "ko": "작년에 이미 하나 사 드렸어.",
-            "timeko": "76443|78504"
+            "timeko": "76443|78504",
+            "words": [
+                [
+                    "last year",
+                    "작년"
+                ]
+            ]
         },
         {
             "level": "1",
@@ -61,7 +67,21 @@
             "en_": "And my sister is _______ __ ___ ______ a polka dot skirt or a blouse.",
             "timeen": "28607|33129",
             "ko": "그리고 나의 여동생은 폴카 점이 있는 스커트나 블라우스를 살 계획을 하고 있을 꺼야.",
-            "timeko": "87612|92440"
+            "timeko": "87612|92440",
+            "words": [
+                [
+                    "either A or B",
+                    "A 와 B 둘 중 하나"
+                ],
+                [
+                    "both A and B",
+                    "A 와 B 둘 다"
+                ],
+                [
+                    "neither A or B",
+                    "A 와 B 둘 다 아닌"
+                ]
+            ]
         },
         {
             "level": "2",
