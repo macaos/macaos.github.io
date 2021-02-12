@@ -19,28 +19,52 @@
             "en": "Yes, my puppy's got something wrong with his paw.",
             "en_": "Yes, my puppy's got something wrong with his paw.",
             "ko": "네, 내 강아지 발(바닥)에 무슨 문제가 있나 봐요.",
-            "timeen": "4512|7848"
+            "timeen": "4512|7848",
+            "words": [
+                [
+                    "paw",
+                    "발, 손, 발로 치다"
+                ]
+            ]
         },
         {
             "level": "2",
             "en": "Let me see. Which one?",
             "en_": "Let me see. Which one?",
             "ko": "어디 봅시다. 어느 쪽이요?",
-            "timeen": "10123|12549"
+            "timeen": "10123|12549",
+            "words": [
+                [
+                    "which",
+                    "어느것(쪽), 어느것이든"
+                ]
+            ]
         },
         {
             "level": "2",
             "en": "The right, front one. He's been limping for two days.",
             "en_": "The right, front one. He's been limping for two days.",
             "ko": "오른쪽 앞발이요. 이틀 동안이나 계속 다리를 절고 있어요.",
-            "timeen": "15152|19347"
+            "timeen": "15152|19347",
+            "words": [
+                [
+                    "limp",
+                    "절뚝거리다"
+                ]
+            ]
         },
         {
             "level": "2",
             "en": "I can see it hurts. He's licking it.",
             "en_": "I can see it hurts. He's licking it.",
             "ko": "다친 거 같군요. 강아지가 핥고 있군요.",
-            "timeen": "21621|24528"
+            "timeen": "21621|24528",
+            "words": [
+                [
+                    "licking",
+                    "핥음"
+                ]
+            ]
         },
         {
             "level": "2",
@@ -82,7 +106,13 @@
             "en": "Let me get some instruments. I'll be right back",
             "en_": "Let me get some instruments. I'll be right back",
             "ko": "도구들 좀 챙겨서, 바로 오겠습니다.",
-            "timeen": "50207|52554"
+            "timeen": "50207|52554",
+            "words": [
+                [
+                    "instruments",
+                    "(특히 섬세하거나 과학적인 작업에 쓰는) 기구"
+                ]
+            ]
         }
     ]
 }

@@ -12,7 +12,13 @@
             "en": "Wow, this health club has great facilities.",
             "en_": "Wow, this health club has great facilities.",
             "ko": "와우~ 이 헬스클럽은 기구들이 아주 좋구나.",
-            "timeen": "1000|4827"
+            "timeen": "1000|4827",
+            "words": [
+                [
+                    "facilities",
+                    "설비, 시설"
+                ]
+            ]
         },
         {
             "level": "2",
@@ -26,14 +32,34 @@
             "en": "You're in great shape. You must exercise regularly.",
             "en_": "You're in great shape. You must exercise regularly.",
             "ko": "너 몸 상태가 아주 좋구나. 넌 분명히 규칙적으로 운동을 할 거야.",
-            "timeen": "11449|14998"
+            "timeen": "11449|14998",
+            "words": [
+                [
+                    "regularly",
+                    "규칙적으로, 질서 있게, 반듯하게, 격식대로, 정식으로"
+                ],
+                [
+                    "exercise",
+                    "운동, 체조, 연습, 연습하다"
+                ],
+                [
+                    "shape",
+                    "모양, 자태, "
+                ]
+            ]
         },
         {
             "level": "2",
             "en": "Thanks, I exercise three times a week with my best friend, Jenny. That's her over there.",
             "en_": "Thanks, I exercise three times a week with my best friend, Jenny. That's her over there.",
             "ko": "고마워, 난 내 가장 친한 친구 제니랑 일주일에 세 번 운동해. 저기 그녀가 있다.",
-            "timeen": "16561|22878"
+            "timeen": "16561|22878",
+            "words": [
+                [
+                    "over there",
+                    "저쪽에, 저쪽에서(는)"
+                ]
+            ]
         },
         {
             "level": "2",
@@ -47,21 +73,39 @@
             "en": "No, she's on the stationary bike.",
             "en_": "No, she's on the stationary bike.",
             "ko": "아니. 그녀는 고정된 자전거에 있어.",
-            "timeen": "27633|30437"
+            "timeen": "27633|30437",
+            "words": [
+                [
+                    "stationary",
+                    "정지한, 고정된"
+                ]
+            ]
         },
         {
             "level": "2",
             "en": "Which one is she? The one with the striped T-shirt?",
             "en_": "Which one is she? The one with the striped T-shirt?",
             "ko": "어떤 사람이 그녀야? 줄무늬 티셔츠 입고 있는 사람?",
-            "timeen": "31595|35182"
+            "timeen": "31595|35182",
+            "words": [
+                [
+                    "striped",
+                    "줄무늬가 있는"
+                ]
+            ]
         },
         {
             "level": "2",
             "en": "The striped T-shirt? No. She's wearing a plain one.",
             "en_": "The striped T-shirt? No. She's wearing a plain one.",
             "ko": "줄 무늬 티셔츠? 아니. 그녀는 민무늬 옷을 입고 있어.",
-            "timeen": "36777|41148"
+            "timeen": "36777|41148",
+            "words": [
+                [
+                    "plain",
+                    "평범한, 꾸밈없는"
+                ]
+            ]
         },
         {
             "level": "2",

@@ -33,7 +33,6 @@ class ZZAudio {
 
             audioLoadedDataLoading = false;
             if (audioLoadedDataForType === 'forPlay') {
-
                 this._play();
             }
 
@@ -44,11 +43,13 @@ class ZZAudio {
     }
     changeAudio(src, forType) {
         // alert('play5');
+        // alert(src + forType);
         audioLoadedDataLoading = true;
         audioLoadedDataForType = forType;
         ZZAudioElement.src = src;
         if (forType === 'forPlay') {
             setTimeout(() => {
+
                 ZZAudioElement.play();
             }, 500);
         }

@@ -19,14 +19,26 @@
             "en": "Would you tell me what you saw when the accident happened?",
             "en_": "Would you tell me what you saw when the accident happened?",
             "ko": "사고가 났을 때 무엇을 보았는지 말씀해 주시겠습니까?",
-            "timeen": "5222|8355"
+            "timeen": "5222|8355",
+            "words": [
+                [
+                    "accident",
+                    "우연히 일어난 일, 사고"
+                ]
+            ]
         },
         {
             "level": "2",
             "en": "Yes, I was driving home from work. It was getting dark.",
             "en_": "Yes, I was driving home from work. It was getting dark.",
             "ko": "네, 직장에서 집으로 운전하고있었습니다. 어두어지고 있었어요.",
-            "timeen": "11429|16209"
+            "timeen": "11429|16209",
+            "words": [
+                [
+                    "getting dark",
+                    "어두워지는 중"
+                ]
+            ]
         },
         {
             "level": "2",
@@ -40,14 +52,30 @@
             "en": "Suddenly, a red sports car passed by me really fast.",
             "en_": "Suddenly, a red sports car passed by me really fast.",
             "ko": "갑자기, 빨간 스포츠카가 정말 빨리 지나갔습니다.",
-            "timeen": "23996|28254"
+            "timeen": "23996|28254",
+            "words": [
+                [
+                    "passed",
+                    "지나가 버린, (시험에)합격한"
+                ]
+            ]
         },
         {
             "level": "2",
             "en": "After a few seconds, I heard a crash and saw that the car had hit a tree.",
             "en_": "After a few seconds, I heard a crash and saw that the car had hit a tree.",
             "ko": "몇 초 후, 나는 충돌을 들었고 차가 나무에 부딪힌 것을 보았다.",
-            "timeen": "31261|36514"
+            "timeen": "31261|36514",
+            "words": [
+                [
+                    "a few",
+                    "어느 정도, 조그(a little)"
+                ],
+                [
+                    "heard",
+                    "hear의과거(분사)"
+                ]
+            ]
         },
         {
             "level": "2",
@@ -68,7 +96,17 @@
             "en": "so it must have been going a lot faster than that.",
             "en_": "so it must have been going a lot faster than that.",
             "ko": "그것은 그 속도보다 훨씬 빨랐습니다. ",
-            "timeen": "52163|55221"
+            "timeen": "52163|55221",
+            "words": [
+                [
+                    "must have been",
+                    "현재에 대해 강한 추측을 하면 'must'를 사용하고 과거에 대해 강한 추측을 하면 'must have p.p.'를 사용"
+                ],
+                [
+                    "a lot",
+                    "다수, 다량, 많이"
+                ]
+            ]
         },
         {
             "level": "2",
@@ -82,7 +120,21 @@
             "en": "I stopped my car, and checked whether anyone was hurt.",
             "en_": "I stopped my car, and checked whether anyone was hurt.",
             "ko": "나는 차를 멈추고 누가 다쳤는지 확인했습니다.",
-            "timeen": "64290|67601"
+            "timeen": "64290|67601",
+            "words": [
+                [
+                    "whether",
+                    "~인지 어떤지"
+                ],
+                [
+                    "anyone",
+                    "누구라도, 누구도, 누군가"
+                ],
+                [
+                    "hurt",
+                    "상처, 상처를 입히다, 부상, 부상을 입히다, 다치다"
+                ]
+            ]
         },
         {
             "level": "2",
@@ -96,7 +148,13 @@
             "en": "so I called 911, and that ambulance arrived here just before you.",
             "en_": "so I called 911, and that ambulance arrived here just before you.",
             "ko": "그래서 나는 911에 전화했고, 구급차가 여기 당신옆에 도착했습니다.",
-            "timeen": "75064|80083"
+            "timeen": "75064|80083",
+            "words": [
+                [
+                    "arrive",
+                    "도착하다"
+                ]
+            ]
         },
         {
             "level": "2",

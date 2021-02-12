@@ -12,7 +12,13 @@
             "en_": "Could you ____ ___ your shoes, sir?",
             "timeen": "1030|2656",
             "ko": "신발 좀 벗어 주시겠습니까?",
-            "timeko": "59349|61360"
+            "timeko": "59349|61360",
+            "words": [
+                [
+                    "take off",
+                    "(옷,신발 등을)벗기다, 이륙하다, (특히 서둘러)떠나다"
+                ]
+            ]
         },
         {
             "en": "Why?",
@@ -26,21 +32,47 @@
             "en_": "We need to ___ your shoes _______ the X-ray scanner.",
             "timeen": "6872|9567",
             "ko": "신발도 X-ray검사기로 체크를 해봐야 되서요.",
-            "timeko": "66410|69348"
+            "timeko": "66410|69348",
+            "words": [
+                [
+                    "through",
+                    "~을 통하여, ~을 지나서"
+                ],
+                [
+                    "need",
+                    "필요, 소용, 요구, 필요한 것"
+                ]
+            ]
         },
         {
             "en": "They're sneakers. How can I hide anything in them?",
             "en_": "They're sneakers. How can I hide anything in them?",
             "timeen": "11509|14330",
             "ko": "이거 그냥 스니커즈인데요. 여기다 뭘 숨길수 있겟어요?",
-            "timeko": "71931|75978"
+            "timeko": "71931|75978",
+            "words": [
+                [
+                    "sneakers",
+                    "스니커즈 운동화"
+                ],
+                [
+                    "anything",
+                    "pron, 무엇이든, 무엇인가, 아무것도"
+                ]
+            ]
         },
         {
             "en": "We have to check them. It's airport policy.",
             "en_": "We have to check them. It's airport policy.",
             "timeen": "16123|18630",
             "ko": "꼭 체크를 해야됩니다. 공항 규정이라서요.",
-            "timeko": "78652|82021"
+            "timeko": "78652|82021",
+            "words": [
+                [
+                    "policy",
+                    "n, 보험 증서, 일종의 도박"
+                ]
+            ]
         },
         {
             "en": "Okay, okay. I will do what you say.",
@@ -67,7 +99,17 @@
             "en_": "Do you have any metal in your pockets?",
             "timeen": "27977|30065",
             "ko": "주머니에 금속물품 가지고 계신가요?",
-            "timeko": "94556|96943"
+            "timeko": "94556|96943",
+            "words": [
+                [
+                    "metal",
+                    "금속, 레일"
+                ],
+                [
+                    "pocket",
+                    "(호)주머니, 포켓"
+                ]
+            ]
         },
         {
             "en": "Oh, my keys.",
@@ -102,21 +144,47 @@
             "en_": "Please take everything out and walk through the metal detector.",
             "timeen": "47371|50687",
             "ko": "모두 꺼내신 다음 탐색기를 지나가 주세요.",
-            "timeko": "117454|120189"
+            "timeko": "117454|120189",
+            "words": [
+                [
+                    "detector",
+                    "탐지기, 탐지장치"
+                ]
+            ]
         },
         {
             "en": "Phew, it's not so easy to fly overseas, these days.",
             "en_": "Phew, it's not so easy to ___ _________, these days.",
             "timeen": "52590|55906",
             "ko": "휴, 요즘은 외국 여행하기가 쉽지 않네요.",
-            "timeko": "122324|125196"
+            "timeko": "122324|125196",
+            "words": [
+                [
+                    "phew",
+                    "쳇, 휴"
+                ],
+                [
+                    "overseas",
+                    "해외의, 해외로"
+                ],
+                [
+                    "these days",
+                    "근래에, 요즘에는"
+                ]
+            ]
         },
         {
             "en": "This way, sir.",
             "en_": "This way, sir.",
             "timeen": "57658|58804",
             "ko": "이쪽입니다.",
-            "timeko": "127340|128224"
+            "timeko": "127340|128224",
+            "words": [
+                [
+                    "this way",
+                    "이쪽으로"
+                ]
+            ]
         }
     ]
 }
