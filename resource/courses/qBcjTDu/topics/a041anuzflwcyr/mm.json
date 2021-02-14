@@ -31,7 +31,7 @@
             "en": "We need to run your shoes through the X-ray scanner.",
             "en_": "We need to ___ your shoes _______ the X-ray scanner.",
             "timeen": "6872|9567",
-            "ko": "신발도 X-ray검사기로 체크를 해봐야 되서요.",
+            "ko": "신발도 X-ray검사기로 체크를 해봐야 돼서요.",
             "timeko": "66410|69348",
             "words": [
                 [
@@ -48,7 +48,7 @@
             "en": "They're sneakers. How can I hide anything in them?",
             "en_": "They're sneakers. How can I hide anything in them?",
             "timeen": "11509|14330",
-            "ko": "이거 그냥 스니커즈인데요. 여기다 뭘 숨길수 있겟어요?",
+            "ko": "이거 그냥 스니커즈인데요. 여기다 뭘 숨길수 있겠어요?",
             "timeko": "71931|75978",
             "words": [
                 [
@@ -65,7 +65,7 @@
             "en": "We have to check them. It's airport policy.",
             "en_": "We have to check them. It's airport policy.",
             "timeen": "16123|18630",
-            "ko": "꼭 체크를 해야됩니다. 공항 규정이라서요.",
+            "ko": "꼭 체크를 해야 됩니다. 공항 규정이라서요.",
             "timeko": "78652|82021",
             "words": [
                 [
@@ -78,14 +78,14 @@
             "en": "Okay, okay. I will do what you say.",
             "en_": "Okay, okay. I will do what you say.",
             "timeen": "20324|22852",
-            "ko": "네네. 원하는대로 하죠.(당신의 말은 무엇이든 하겠다)",
+            "ko": "네네. 원하는 대로 하죠.(당신의 말은 무엇이든 하겠다)",
             "timeko": "84801|86575"
         },
         {
             "en": "Sir, please step aside. ",
             "en_": "Sir, please step aside. ",
             "timeen": "24556|26116",
-            "ko": "손님, 옆으로 잠시 비켜주시겟습니까.",
+            "ko": "손님, 옆으로 잠시 비켜주시겠습니까.",
             "timeko": "89012|91972",
             "words": [
                 [
@@ -98,7 +98,7 @@
             "en": "Do you have any metal in your pockets?",
             "en_": "Do you have any metal in your pockets?",
             "timeen": "27977|30065",
-            "ko": "주머니에 금속물품 가지고 계신가요?",
+            "ko": "주머니에 금속 물품 가지고 계신가요?",
             "timeko": "94556|96943",
             "words": [
                 [
@@ -122,7 +122,7 @@
             "en": "You have to take everything out of your pockets.",
             "en_": "You have to take everything out of your pockets.",
             "timeen": "34838|37769",
-            "ko": "주머니에 있는것들 전부 꺼내 주십시오.",
+            "ko": "주머니에 있는 것들 전부 꺼내 주십시오.",
             "timeko": "102606|105225"
         },
         {
