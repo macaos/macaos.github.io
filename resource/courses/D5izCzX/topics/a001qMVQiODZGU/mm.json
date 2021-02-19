@@ -1,0 +1,81 @@
+{
+  "info": {
+    "cover": "aaa.png",
+    "titleen": "I was driving at about 40 miles per hour.",
+    "titleko": "나는 40마일로 운전하고 있었어요",
+    "descko": "엄마의 생일선물을 고민하는 남자친구를 위해 여자친구가 제안한 방법은?",
+    "descen": "How about baking a birthday cake for her?"
+  },
+  "sentense": [
+    {
+      "level": "",
+      "en": "Kids! Breakfast!",
+      "ko": "얘들아 아침 먹어!",
+      "timeen": "1058|2853"
+    },
+    {
+      "level": "",
+      "en": "Kids?! Get down here!",
+      "ko": "얘들아, 이리 내려와!",
+      "timeen": "4025|6588"
+    },
+    {
+      "level": "",
+      "en": "Why are you guys yelling at us when we're way upstairs?",
+      "ko": "왜 위층에 있을 때 소리 지르고 그래?",
+      "timeen": "7321|10822",
+      "words": [
+        [
+          "yell",
+          "소리치다, 소리지르다, 외치다"
+        ],
+        [
+          "upstairs",
+          "위층[2층]으로, 위층"
+        ]
+      ]
+    },
+    {
+      "level": "",
+      "en": "Just text me.",
+      "ko": "그냥 문자로 말하면 되지",
+      "timeen": "11524|12858"
+    },
+    {
+      "level": "",
+      "en": "That's not gonna happen. ",
+      "ko": "그런 일은 없을 거야",
+      "timeen": "13559|14957"
+    },
+    {
+      "level": "",
+      "en": "Honey, do you have anything to say to your daughter about her skirt?",
+      "ko": "여보, 우리 딸 치마 보고할 말 없어?",
+      "timeen": "15691|18725"
+    },
+    {
+      "level": "",
+      "en": "It’s way too short.",
+      "ko": "치마가 너무 짧잖아",
+      "timeen": "19524|21189"
+    },
+    {
+      "level": "",
+      "en": "People know you’re a girl. ",
+      "ko": "사람들이 너 여자인 거 다 알아",
+      "timeen": "21891|23125"
+    },
+    {
+      "level": "",
+      "en": "You don’t need to prove it to them.",
+      "ko": "굳이 그들에게 증명할 필요는 없지.",
+      "timeen": "23756|25422",
+      "words": [
+        [
+          "prove",
+          "입증[증명]하다"
+        ]
+      ]
+    }
+  ]
+}

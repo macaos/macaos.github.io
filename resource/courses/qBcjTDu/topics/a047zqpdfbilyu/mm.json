@@ -26,7 +26,13 @@
             "en": "Yes, I'm trying to finish this display for the store opening tomorrow.",
             "en_": "Yes, I'm trying to finish this display for the store opening tomorrow.",
             "ko": "어, 난 내일 스토어 오픈을 위해서 가게 꾸미는 일을 끝내려고 하고 있어.",
-            "timeen": "10886|15509"
+            "timeen": "10886|15509",
+            "words": [
+                [
+                    "I'm trying to~",
+                    "~하려고 노력하고 있어요"
+                ]
+            ]
         },
         {
             "level": "2",
@@ -40,14 +46,26 @@
             "en": "It sure is. Could you make some copies for me?",
             "en_": "It sure is. Could you make some copies for me?",
             "ko": "정말 그래. 복사 좀 해줄 수 있어?",
-            "timeen": "21335|25125"
+            "timeen": "21335|25125",
+            "words": [
+                [
+                    "Could you~",
+                    "(가능여부)~ 해주실 수 있어요?"
+                ]
+            ]
         },
         {
             "level": "2",
             "en": "Certainly. What do you need?",
             "en_": "Certainly. What do you need?",
             "ko": "그럼, 뭐가 필요한데?",
-            "timeen": "26750|28645"
+            "timeen": "26750|28645",
+            "words": [
+                [
+                    "certainly",
+                    "틀림없이, 분명히, 물론이죠"
+                ]
+            ]
         },
         {
             "level": "2",

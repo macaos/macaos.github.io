@@ -1,0 +1,75 @@
+{
+  "info": {
+    "cover": "aaa.png",
+    "titleen": "I was driving at about 40 miles per hour.",
+    "titleko": "나는 40마일로 운전하고 있었어요",
+    "descko": "엄마의 생일선물을 고민하는 남자친구를 위해 여자친구가 제안한 방법은?",
+    "descen": "How about baking a birthday cake for her?"
+  },
+  "sentense": [
+    {
+      "level": "",
+      "en": "Luke got his head stuck in the banister again.",
+      "ko": "루크 머리가 난간에 또 끼었어요",
+      "timeen": "903|3633",
+      "words": [
+        [
+          "stuck",
+          "움직일 수 없는[꼼짝 못하는], 갇힌, 들러붙다"
+        ],
+        [
+          "banister",
+          "계단의 난간"
+        ]
+      ]
+    },
+    {
+      "level": "",
+      "en": "I got it. Where’s the baby oil?",
+      "ko": "알겠어. 베이비오일은 어디 있어?",
+      "timeen": "4400|6836"
+    },
+    {
+      "level": "",
+      "en": "I don’t know. Find it.",
+      "ko": "나도 몰라, 찾아봐",
+      "timeen": "7533|9135"
+    },
+    {
+      "level": "",
+      "en": "I was out of control growing up.",
+      "ko": "난 어릴 때, 완전 통제 불능이었어요.",
+      "timeen": "9936|13167",
+      "words": [
+        [
+          "be out of control",
+          "통제불능이다"
+        ]
+      ]
+    },
+    {
+      "level": "",
+      "en": "I just don’t want my kids to make the same bad mistakes I made.",
+      "ko": "제 아이들만큼은 저랑 같은 실수를 안 했으면 해요",
+      "timeen": "13966|17804"
+    },
+    {
+      "level": "",
+      "en": "If Haley never wakes up on a beach in Florida, half-naked,",
+      "ko": "헤일리가 플로리다 해변에서 반쯤 벗은 채 (절대) 깨어나지 않는다면,",
+      "timeen": "18800|21968",
+      "words": [
+        [
+          "half-naked",
+          "반나체의"
+        ]
+      ]
+    },
+    {
+      "level": "",
+      "en": "I’ve done my job.",
+      "ko": "제 몫은 다한 거예요.",
+      "timeen": "22670|23700"
+    }
+  ]
+}
