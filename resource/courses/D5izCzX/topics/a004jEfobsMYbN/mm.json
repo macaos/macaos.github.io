@@ -9,21 +9,71 @@
   "sentense": [
     {
       "level": "",
-      "en": "Translation, Believe me, I've tried everything.",
-      "ko": "다시 말해 정말 안 해 본 게 없어요",
-      "timeen": "556|3655"
+      "en": "Luke just shot me! ",
+      "ko": "루크가 절 쐈어요!",
+      "timeen": "767|2999",
+      "words": []
     },
     {
       "level": "",
-      "en": "And then, of course, there are the funerals.",
-      "ko": "그리고 장례식이 있죠",
-      "timeen": "4555|8221"
+      "en": "I didn’t mean to.",
+      "ko": "그럴 의도는 아니었어요.",
+      "timeen": "3867|5463",
+      "words": []
     },
     {
       "level": "",
-      "en": "So many more than I could imagine.",
-      "ko": "상상했던 것보다 훨씬 많아요",
-      "timeen": "9054|11287"
+      "en": "Are you okay? ",
+      "ko": "괜찮아?",
+      "timeen": "6501|7597",
+      "words": []
+    },
+    {
+      "level": "",
+      "en": "They’re only plastic BBs.It was an accident.",
+      "ko": "그냥 플라스틱 BB총이잖아요 실수였다니까요",
+      "timeen": "8968|12200",
+      "words": []
+    },
+    {
+      "level": "",
+      "en": "What did I tell you would happen if you got him a gun? ",
+      "ko": "내가 걔 총 사면(가지면) 어떻게 된다고 말했지?",
+      "timeen": "13335|15467",
+      "words": []
+    },
+    {
+      "level": "",
+      "en": "The agreement was that if he shoots someone, you shoot him.",
+      "ko": "걔(루크)가 사람을 쏘면 당신이 애를 쏘기로 (동의)했잖아",
+      "timeen": "16400|19696",
+      "words": []
+    },
+    {
+      "level": "",
+      "en": "He’s got a birthday party.",
+      "ko": "걔 오늘 생일파티 가잖아",
+      "timeen": "20600|22333",
+      "words": []
+    },
+    {
+      "level": "",
+      "en": "What’s more important here, Dad?",
+      "ko": "아빠, 뭐가 더 중요해요?",
+      "timeen": "23099|24466",
+      "words": []
+    },
+    {
+      "level": "",
+      "en": "You can shoot him afterwards. He’ll be home at 2:00.",
+      "ko": "그 이후에 얘를 쏘면 되겠네. 2시에 집에 오니까.",
+      "timeen": "25568|27629",
+      "words": [
+        [
+          "afterwards",
+          "후에, 나중에, 그 후에"
+        ]
+      ]
     }
   ]
 }

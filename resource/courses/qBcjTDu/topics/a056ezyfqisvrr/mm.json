@@ -12,7 +12,13 @@
             "en": "This is a nice souvenir shop.",
             "en_": "This is a nice souvenir shop.",
             "ko": "여기는 멋진 기념품 가게네.",
-            "timeen": "1000|3093"
+            "timeen": "1000|3093",
+            "words": [
+                [
+                    "souvenir",
+                    "기념품, 선물"
+                ]
+            ]
         },
         {
             "level": "2",
@@ -26,7 +32,13 @@
             "en": "Okay. How about these tea trays?",
             "en_": "Okay. How about these tea trays?",
             "ko": "알았어. 이 차 쟁반들은 어때?",
-            "timeen": "8036|11057"
+            "timeen": "8036|11057",
+            "words": [
+                [
+                    "tray",
+                    "쟁반"
+                ]
+            ]
         },
         {
             "level": "2",
@@ -68,14 +80,30 @@
             "en": "Then, there are only two left with words in a curved shape.",
             "en_": "Then, there are only two left with words in a curved shape.",
             "ko": "그럼, 곡선 모양으로 단어들이 있는 것이 딱 두 개가 있네.",
-            "timeen": "34334|38141"
+            "timeen": "34334|38141",
+            "words": [
+                [
+                    "curved",
+                    "구부러진, 만곡한, 곡선모양의"
+                ],
+                [
+                    "shape",
+                    "모양, 모양 짓다, 맞추다"
+                ]
+            ]
         },
         {
             "level": "2",
             "en": "The one with a traditional Korean mask and a flower looks fine. ",
             "en_": "The one with a traditional Korean mask and a flower looks fine. ",
             "ko": "한국의 전통적인 탈과 꽃이 있는 것이 멋져 보이는데.",
-            "timeen": "39040|42945"
+            "timeen": "39040|42945",
+            "words": [
+                [
+                    "traditional",
+                    "전설의, 전통의, 전통적인"
+                ]
+            ]
         },
         {
             "level": "2",

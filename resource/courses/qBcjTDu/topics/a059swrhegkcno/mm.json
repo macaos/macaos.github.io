@@ -19,7 +19,13 @@
             "en": "I have food poisoning. ",
             "en_": "I have food poisoning. ",
             "ko": "식중독에 걸렸어.",
-            "timeen": "5109|6755"
+            "timeen": "5109|6755",
+            "words": [
+                [
+                    "poisoning",
+                    "중독"
+                ]
+            ]
         },
         {
             "level": "2",
@@ -47,7 +53,13 @@
             "en": "Okay. By the way, were there any assignments in class today?",
             "en_": "Okay. By the way, were there any assignments in class today?",
             "ko": "알았어. 그건 그렇고 오늘 수업에서 숙제는 있니?",
-            "timeen": "17918|22549"
+            "timeen": "17918|22549",
+            "words": [
+                [
+                    "assignment",
+                    "과제, 임무, 숙제"
+                ]
+            ]
         },
         {
             "level": "2",
@@ -75,7 +87,17 @@
             "en": "How about biology? Our biology teacher always gives us homework.",
             "en_": "How about biology? Our biology teacher always gives us homework.",
             "ko": "생물은? 우리 생물 선생님께서는 항상 숙제를 내시잖아.",
-            "timeen": "37688|42627"
+            "timeen": "37688|42627",
+            "words": [
+                [
+                    "homework",
+                    "숙제, 예습, 복습"
+                ],
+                [
+                    "biology",
+                    "생물학"
+                ]
+            ]
         },
         {
             "level": "2",

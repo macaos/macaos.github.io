@@ -72,7 +72,13 @@
             "en": "I'd like to get 300 copies of this advertisement. ",
             "en_": "I'd like to get 300 copies of this advertisement. ",
             "ko": "이 광고지 300장만 복사하고 싶어. ",
-            "timeen": "30378|33921"
+            "timeen": "30378|33921",
+            "words": [
+                [
+                    "advertisement",
+                    "광고"
+                ]
+            ]
         },
         {
             "level": "2",
@@ -107,7 +113,13 @@
             "en": "Okay. I'll be back as soon as possible.",
             "en_": "Okay. I'll be back as soon as possible.",
             "ko": "알았어. 가급적 빨리 돌아올게.",
-            "timeen": "51891|54680"
+            "timeen": "51891|54680",
+            "words": [
+                [
+                    "as soon as possible",
+                    "가능한 빨리"
+                ]
+            ]
         }
     ]
 }

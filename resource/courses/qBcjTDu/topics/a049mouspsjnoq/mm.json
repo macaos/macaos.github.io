@@ -40,21 +40,47 @@
             "en": "Yes, we can deliver it in two hours for an extra charge.",
             "en_": "Yes, we can deliver it in two hours for an extra charge.",
             "ko": "예, 추가 요금을 지불하면, 두 시간 안에 배달이 가능합니다.",
-            "timeen": "16380|20586"
+            "timeen": "16380|20586",
+            "words": [
+                [
+                    "deliver",
+                    "넘겨주다, 배달하다"
+                ],
+                [
+                    "extra",
+                    "특별한, 추가의"
+                ]
+            ]
         },
         {
             "level": "2",
             "en": "How much will that cost?",
             "en_": "How much will that cost?",
             "ko": "얼마나 더 드는데요?",
-            "timeen": "22108|23587"
+            "timeen": "22108|23587",
+            "words": [
+                [
+                    "cost",
+                    "(제작.공사등의)원가, 비용, 경비, (상품.서비스에대한)대가, 값, 가격"
+                ]
+            ]
         },
         {
             "level": "2",
             "en": "Thirty dollars. But it can be more depending on the type of packaging. Is it breakable?",
             "en_": "Thirty dollars. But it can be more depending on the type of packaging. Is it breakable?",
             "ko": "30달러요. 하지만 그것은 짐 형태에 따라 달라요. 깨지기 쉬운 건 가요?",
-            "timeen": "25212|30963"
+            "timeen": "25212|30963",
+            "words": [
+                [
+                    "depending",
+                    "의존하다, 의지하다, 믿다, 신뢰하다"
+                ],
+                [
+                    "breakable",
+                    "부술(깨뜨릴)수 있는, 깨지기(부서지기)쉬운, 깨지기 쉬운 것"
+                ]
+            ]
         },
         {
             "level": "2",
@@ -75,7 +101,17 @@
             "en": "Is there an extra charge for that?",
             "en_": "Is there an extra charge for that?",
             "ko": "그것도 추가 비용이 드나요?",
-            "timeen": "38898|40495"
+            "timeen": "38898|40495",
+            "words": [
+                [
+                    "extra",
+                    "특별한, 추가의"
+                ],
+                [
+                    "charge",
+                    "(서비스에 대한)요금, (요금값을)청구하다"
+                ]
+            ]
         },
         {
             "level": "2",

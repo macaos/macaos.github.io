@@ -26,14 +26,30 @@
             "en": "Well, that’s a sign of growing up. ",
             "en_": "Well, that’s a sign of growing up. ",
             "ko": "그럼, 그것은 그가 성장하고 있다는 신호네.",
-            "timeen": "12555|14848"
+            "timeen": "12555|14848",
+            "words": [
+                [
+                    "growing",
+                    "성장하는, 증대하는"
+                ],
+                [
+                    "sign",
+                    "기호, 암호, 손짓, 사인, 간판, 길잡이, 증거, 표시"
+                ]
+            ]
         },
         {
             "level": "2",
             "en": "That’s true, but my concern is that he only stays in his room after he comes home. ",
             "en_": "That’s true, but my concern is that he only stays in his room after he comes home. ",
             "ko": "맞아, 하지만 내 걱정은 그가 집에 돌아와서는 그저 자기 방에만 있다는 거야.",
-            "timeen": "15709|21023"
+            "timeen": "15709|21023",
+            "words": [
+                [
+                    "concern",
+                    "관여하다, 관심을 갖다, 염려하다, 걱정하다, 관계, 이해 관계, 관심, 배려, 걱정, 근심"
+                ]
+            ]
         },
         {
             "level": "2",
@@ -61,35 +77,81 @@
             "en": "Teenagers are supposed to experience emotional ups and downs. ",
             "en_": "Teenagers are supposed to experience emotional ups and downs. ",
             "ko": "십대의 아이들은 감정의 기복을 겪게 되어 있잖아. ",
-            "timeen": "32511|36993"
+            "timeen": "32511|36993",
+            "words": [
+                [
+                    "supposed",
+                    "상상된, 가정의, 소문난"
+                ],
+                [
+                    "experience",
+                    "경험, 체험, 경력, 경험담, 경험하다"
+                ],
+                [
+                    "emotional",
+                    "감정의, 감정적인"
+                ]
+            ]
         },
         {
             "level": "2",
             "en": "It’s quite natural for them. ",
             "en_": "It’s quite natural for them. ",
             "ko": "그들에게는 그게 아주 자연스러운 거야.",
-            "timeen": "37798|39412"
+            "timeen": "37798|39412",
+            "words": [
+                [
+                    "quite",
+                    "아주, 전혀, 완전히, 실제로, 거의, 대단히"
+                ],
+                [
+                    "natural",
+                    "자연의, 자연적인, 타고난, 선천적인"
+                ]
+            ]
         },
         {
             "level": "2",
             "en": "Is there anything I can do for him, though?",
             "en_": "Is there anything I can do for him, though?",
             "ko": "하지만 내가 그를 위해 할 수 있는 게 있니?",
-            "timeen": "40367|42546"
+            "timeen": "40367|42546",
+            "words": [
+                [
+                    "though",
+                    "~에도 불구하고, ~이지만, 설사 ~라도"
+                ]
+            ]
         },
         {
             "level": "2",
             "en": "I’m not an expert, but just let him know that you are there for him if he needs you. ",
             "en_": "I’m not an expert, but just let him know that you are there for him if he needs you. ",
             "ko": "내가 전문가는 아니잖아, 하지만 그에게 네가 필요하다면 넌 그를 위해 함께 있다는 것을 그에게 알게 해 줘.",
-            "timeen": "43540|49027"
+            "timeen": "43540|49027",
+            "words": [
+                [
+                    "expert",
+                    "숙련자, 노련가, 전문가"
+                ]
+            ]
         },
         {
             "level": "2",
             "en": "I’m afraid that he might be getting worse. ",
             "en_": "I’m afraid that he might be getting worse. ",
             "ko": "난 그가 좀 더 악화될까봐 걱정돼.",
-            "timeen": "49689|52300"
+            "timeen": "49689|52300",
+            "words": [
+                [
+                    "worse",
+                    "더욱 나쁜"
+                ],
+                [
+                    "afraid",
+                    "두려워하여, 근심하여"
+                ]
+            ]
         }
     ]
 }

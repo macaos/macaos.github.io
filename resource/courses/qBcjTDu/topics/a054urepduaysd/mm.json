@@ -40,7 +40,13 @@
             "en": "I have a small farm there.",
             "en_": "I have a small farm there.",
             "ko": "거기에 작은 농장을 마련했어.",
-            "timeen": "16655|18354"
+            "timeen": "16655|18354",
+            "words": [
+                [
+                    "farm",
+                    "농장, 농가"
+                ]
+            ]
         },
         {
             "level": "2",
@@ -54,7 +60,13 @@
             "en": "Not really. I was getting tired of city life. ",
             "en_": "Not really. I was getting tired of city life. ",
             "ko": "그렇지 않아. 난 도시생활에 지쳐가고 있었어. ",
-            "timeen": "23091|26518"
+            "timeen": "23091|26518",
+            "words": [
+                [
+                    "tired",
+                    "피곤한, 지친, 싫증난, 물린"
+                ]
+            ]
         },
         {
             "level": "2",
@@ -68,7 +80,13 @@
             "en": "So, I've been working on a book of poetry.",
             "en_": "So, I've been working on a book of poetry.",
             "ko": "그래서, 난 시집을 쓰고 있어.",
-            "timeen": "31124|33914"
+            "timeen": "31124|33914",
+            "words": [
+                [
+                    "poetry",
+                    "시, 운문"
+                ]
+            ]
         },
         {
             "level": "2",
@@ -89,7 +107,13 @@
             "en": "Well, don't give up. Maybe some day I'll have a famous writer as a friend.",
             "en_": "Well, don't give up. Maybe some day I'll have a famous writer as a friend.",
             "ko": "그래, 포기하지 마. 아마도 언젠가는, 유명한 작가 친구를 두게 될 거야.",
-            "timeen": "43790|49784"
+            "timeen": "43790|49784",
+            "words": [
+                [
+                    "famous",
+                    "유명한, 근사한"
+                ]
+            ]
         }
     ]
 }

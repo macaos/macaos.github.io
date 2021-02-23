@@ -47,7 +47,13 @@
             "en": "Well, he probably wouldn't like the dancer.",
             "en_": "Well, he probably wouldn't like the dancer.",
             "ko": "글쎄요, 그 아이가 설마 댄서를 좋아하지는 않겠지요.",
-            "timeen": "21674|24733"
+            "timeen": "21674|24733",
+            "words": [
+                [
+                    "probably",
+                    "아마"
+                ]
+            ]
         },
         {
             "level": "2",
@@ -82,14 +88,26 @@
             "en": "He loves it. Whenever he listens to music, he beats time with his pencils.",
             "en_": "He loves it. Whenever he listens to music, he beats time with his pencils.",
             "ko": "그는 음악을 사랑해요. 그가 음악을 들을 때마다 연필로 박자를 맞춰요. ",
-            "timeen": "43207|48578"
+            "timeen": "43207|48578",
+            "words": [
+                [
+                    "whenever",
+                    "~할 때에는 언제든지"
+                ]
+            ]
         },
         {
             "level": "2",
             "en": "I'll take that one.",
             "en_": "I'll take that one.",
             "ko": "저것을 살게요.",
-            "timeen": "50138|51080"
+            "timeen": "50138|51080",
+            "words": [
+                [
+                    "take",
+                    "잡다, 붙잡다, 받다, 획득하다"
+                ]
+            ]
         }
     ]
 }

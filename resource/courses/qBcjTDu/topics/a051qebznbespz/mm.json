@@ -26,7 +26,21 @@
             "en": "I don't know. My throat's sore, and I can't hit those high notes.",
             "en_": "I don't know. My throat's sore, and I can't hit those high notes.",
             "ko": "나도 모르겠어. 목구멍이 쓰려. 그리고 높은 음을 낼 수 없어.",
-            "timeen": "9858|14549"
+            "timeen": "9858|14549",
+            "words": [
+                [
+                    "throat",
+                    "목구멍"
+                ],
+                [
+                    "sore",
+                    "아픈, 따끔 따끔 쑤시는, 얼얼한"
+                ],
+                [
+                    "high notes",
+                    "높은 음"
+                ]
+            ]
         },
         {
             "level": "2",
@@ -40,7 +54,17 @@
             "en": "We've been practicing for over an hour.",
             "en_": "We've been practicing for over an hour.",
             "ko": "우리는 한시간 넘게 연습중이야.",
-            "timeen": "19481|21739"
+            "timeen": "19481|21739",
+            "words": [
+                [
+                    "practicing",
+                    "활동하고 있는, 연습[실습]하다"
+                ],
+                [
+                    "once",
+                    "한 번, (과거)언젠가, ~ in a way(while)간혹, ~ over 다시한번"
+                ]
+            ]
         },
         {
             "level": "2",
@@ -54,7 +78,13 @@
             "en": "Maybe something warm on my throat would help.",
             "en_": "Maybe something warm on my throat would help.",
             "ko": "무엇으로든 목을 좀 덥게하면 나아질 것같아.",
-            "timeen": "26784|29129"
+            "timeen": "26784|29129",
+            "words": [
+                [
+                    "warm",
+                    "따뜻한, 몹시더운, 친밀한"
+                ]
+            ]
         },
         {
             "level": "2",
@@ -75,14 +105,38 @@
             "en": "What's wrong? Are your fingers as tired as my throat?",
             "en_": "What's wrong? Are your fingers as tired as my throat?",
             "ko": "무슨 문제야? 내 목처럼 너의 손가락도 지친거야?",
-            "timeen": "39492|43250"
+            "timeen": "39492|43250",
+            "words": [
+                [
+                    "tired",
+                    "피곤한, 지친, 싫증난"
+                ],
+                [
+                    "throat",
+                    "목, 기관, 목소리"
+                ]
+            ]
         },
         {
             "level": "2",
             "en": "Probably. But I need to practice a little more.",
             "en_": "Probably. But I need to practice a little more.",
             "ko": "아마도. 그러나 난 좀 더 연습해야되.",
-            "timeen": "44513|47646"
+            "timeen": "44513|47646",
+            "words": [
+                [
+                    "little",
+                    "(less, lesser, least) 작은, 적은"
+                ],
+                [
+                    "probably",
+                    "아마"
+                ],
+                [
+                    "practice",
+                    "실시, 실행, 습관, 연습"
+                ]
+            ]
         }
     ]
 }

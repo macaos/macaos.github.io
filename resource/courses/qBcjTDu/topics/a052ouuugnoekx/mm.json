@@ -12,42 +12,98 @@
             "en": "I have an announcement from the graduation yearbook committee.",
             "en_": "I have an announcement from the graduation yearbook committee.",
             "ko": "졸업앨범 위원회에서 알림 사항이 있습니다.",
-            "timeen": "1000|4751"
+            "timeen": "1000|4751",
+            "words": [
+                [
+                    "graduation",
+                    "졸업(식)"
+                ],
+                [
+                    "announcement",
+                    "발표"
+                ],
+                [
+                    "yearbook",
+                    "연감, 연보"
+                ],
+                [
+                    "committee",
+                    "위원회(회의), 위원(전원)수탁자"
+                ]
+            ]
         },
         {
             "level": "2",
             "en": "This Friday is an important day.",
             "en_": "This Friday is an important day.",
             "ko": "이번 주 금요일은 중요한 날입니다.",
-            "timeen": "5180|7920"
+            "timeen": "5180|7920",
+            "words": [
+                [
+                    "important",
+                    "중요한, 중대한, 소중한, (더욱)가장 중요한 것은, (사람, 지위등이)유력한, 영향력있는, (사회적으로)중요한, 저명한, 거드름부리는, 오만한"
+                ]
+            ]
         },
         {
             "level": "2",
             "en": "The photographer will be here to take pictures of all the seniors.",
             "en_": "The photographer will be here to take pictures of all the seniors.",
             "ko": "사진사가 모든 졸업생들의 사진을 찍기 위해 올 것입니다.",
-            "timeen": "8691|12543"
+            "timeen": "8691|12543",
+            "words": [
+                [
+                    "photographer",
+                    "사진사"
+                ]
+            ]
         },
         {
             "level": "2",
             "en": "Be sure to dress appropriately.",
             "en_": "Be sure to dress appropriately.",
             "ko": "복장을 단정히 해주세요.",
-            "timeen": "12872|15161"
+            "timeen": "12872|15161",
+            "words": [
+                [
+                    "appropriately",
+                    "적당하게, 알맞게, 어울리게"
+                ]
+            ]
         },
         {
             "level": "2",
             "en": "Remember that the pictures will be taken individually and in groups.",
             "en_": "Remember that the pictures will be taken individually and in groups.",
             "ko": "개인 사진과 단체사진을 찍게 된다는 것을 잊지 마세요.",
-            "timeen": "15871|19997"
+            "timeen": "15871|19997",
+            "words": [
+                [
+                    "remember",
+                    "생각해내다, 상기하다, 기억하고 있다"
+                ]
+            ]
         },
         {
             "level": "2",
             "en": "Girls should wear a light-colored blouse and a dark skirt.",
             "en_": "Girls should wear a light-colored blouse and a dark skirt.",
             "ko": "여학생은 밝은 색의 블라우스와 어두운 스커트를 입어야 해요.",
-            "timeen": "20724|24024"
+            "timeen": "20724|24024",
+            "words": [
+                [
+                    "wear",
+                    "몸에 지니고 있다"
+                ],
+                [
+                    "pants",
+                    "바지, 팬츠"
+                ],
+                [
+                    "shirt",
+                    "와이셔츠, 셔츠"
+                ]
+            ]
         },
         {
             "level": "2",

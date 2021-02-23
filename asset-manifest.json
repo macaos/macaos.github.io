@@ -6,8 +6,8 @@
     "PageMiniplayer.js": "./static/js/PageMiniplayer.8dc82e9c.chunk.js",
     "PageMiniplayer.js.map": "./static/js/PageMiniplayer.8dc82e9c.chunk.js.map",
     "main.css": "./static/css/main.efb59ad3.chunk.css",
-    "main.js": "./static/js/main.489ba5d3.chunk.js",
-    "main.js.map": "./static/js/main.489ba5d3.chunk.js.map",
+    "main.js": "./static/js/main.b25671ca.chunk.js",
+    "main.js.map": "./static/js/main.b25671ca.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.0f6ecb06.js",
     "runtime-main.js.map": "./static/js/runtime-main.0f6ecb06.js.map",
     "static/js/4.1621ec47.chunk.js": "./static/js/4.1621ec47.chunk.js",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.0f6ecb06.js",
     "static/js/4.1621ec47.chunk.js",
     "static/css/main.efb59ad3.chunk.css",
-    "static/js/main.489ba5d3.chunk.js"
+    "static/js/main.b25671ca.chunk.js"
   ]
 }

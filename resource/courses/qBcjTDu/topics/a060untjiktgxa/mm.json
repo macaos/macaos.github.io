@@ -40,7 +40,17 @@
             "en": "I’ll take two adult tickets, please. I have a membership card.",
             "en_": "I’ll take two adult tickets, please. I have a membership card. ",
             "ko": "성인용 표로 2장 주세요. 회원 카드가 있는데요.",
-            "timeen": "16979|21603"
+            "timeen": "16979|21603",
+            "words": [
+                [
+                    "adult",
+                    "성인, 성인의, 어른, 어른의"
+                ],
+                [
+                    "membership",
+                    "일원임, 회원 자격"
+                ]
+            ]
         },
         {
             "level": "2",

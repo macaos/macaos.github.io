@@ -9,21 +9,102 @@
   "sentense": [
     {
       "level": "",
-      "en": "Translation, Believe me, I've tried everything.",
-      "ko": "다시 말해 정말 안 해 본 게 없어요",
-      "timeen": "556|3655"
+      "en": "Why do you keep getting stuck like this?",
+      "ko": "왜 자꾸 머리를 들이밀어?",
+      "timeen": "675|3141",
+      "words": [
+        [
+          "stuck",
+          "움직일 수 없는, 갇힌, 막힌"
+        ],
+        [
+          "get stuck",
+          "어딘가에 (꼼짝없이) 붙잡혀있게 되다"
+        ]
+      ]
     },
     {
       "level": "",
-      "en": "And then, of course, there are the funerals.",
-      "ko": "그리고 장례식이 있죠",
-      "timeen": "4555|8221"
+      "en": "I’m just gonna say it. He needs to be checked by a specialist.",
+      "ko": "할 말은 해야겠는데, 걔는 전문의에게 검사 좀 필요하다니까요.",
+      "timeen": "3977|7276",
+      "words": [
+        [
+          "specialist",
+          "전문가, 전문의"
+        ]
+      ]
     },
     {
       "level": "",
-      "en": "So many more than I could imagine.",
-      "ko": "상상했던 것보다 훨씬 많아요",
-      "timeen": "9054|11287"
+      "en": "I’m having a friend over today.",
+      "ko": "오늘 친구를 데려올 거예요",
+      "timeen": "8042|9811",
+      "words": []
+    },
+    {
+      "level": "",
+      "en": "Who? Uh, you don’t know him.",
+      "ko": "누구? 엄마는 모르는 남자애요",
+      "timeen": "10677|12909",
+      "words": []
+    },
+    {
+      "level": "",
+      "en": "Who’s the boy?",
+      "ko": "어떤 남자애야?",
+      "timeen": "14941|15975",
+      "words": []
+    },
+    {
+      "level": "",
+      "en": "His name is Dylan.",
+      "ko": "그의 이름은 딜런이에요",
+      "timeen": "16410|18076",
+      "words": []
+    },
+    {
+      "level": "",
+      "en": "Hang on a second. You’re 15.",
+      "ko": "잠깐만 너 아직 15살이잖아",
+      "timeen": "18942|21309",
+      "words": [
+        [
+          "hang on a second",
+          "잠깐만"
+        ],
+        [
+          "hang on",
+          "기다려"
+        ]
+      ]
+    },
+    {
+      "level": "",
+      "en": "It’s the first time you’ve had a boy over.",
+      "ko": "집에 남자 데려오는 것도 처음이잖아.",
+      "timeen": "22075|24445",
+      "words": []
+    },
+    {
+      "level": "",
+      "en": "I’m bound to be a little surprised, but I’m not gonna embarrass you.",
+      "ko": "엄마가 좀 놀라서 그래 그러나 창피 주진 않을 거야\t ",
+      "timeen": "25209|28878",
+      "words": [
+        [
+          "gonna",
+          "going to"
+        ],
+        [
+          "embarrass",
+          "당황스럽게 만들다, 곤란하게 만들다"
+        ],
+        [
+          "embarrassment",
+          "어색함, 쑥스러움, 곤란한 상황"
+        ]
+      ]
     }
   ]
 }

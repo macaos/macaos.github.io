@@ -12,7 +12,13 @@
             "en": "Mike. Look! What's that on the ground?",
             "en_": "Mike. Look! What's that on the ground?",
             "ko": "마이크. 봐! 땅 위에 저게 뭐야?",
-            "timeen": "1000|3899"
+            "timeen": "1000|3899",
+            "words": [
+                [
+                    "ground",
+                    "지면, 토지, 땅, 흙, 지역, 운동장"
+                ]
+            ]
         },
         {
             "level": "2",
