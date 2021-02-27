@@ -9,21 +9,78 @@
   "sentense": [
     {
       "level": "",
-      "en": "Translation, Believe me, I've tried everything.",
-      "ko": "다시 말해 정말 안 해 본 게 없어요",
-      "timeen": "556|3655"
+      "en": "This doesn’t worry you?",
+      "ko": "너는 걱정 안 돼?",
+      "timeen": "588|2384",
+      "words": []
     },
     {
       "level": "",
-      "en": "And then, of course, there are the funerals.",
-      "ko": "그리고 장례식이 있죠",
-      "timeen": "4555|8221"
+      "en": "She barely slept on the plane and she’s still wide awake.",
+      "ko": "비행기에서부터 한숨도 안 잤어",
+      "timeen": "3220|5818",
+      "words": [
+        [
+          "barely",
+          "간신히, 겨우, 거의 ~않다, 빠듯하게"
+        ]
+      ]
     },
     {
       "level": "",
-      "en": "So many more than I could imagine.",
-      "ko": "상상했던 것보다 훨씬 많아요",
-      "timeen": "9054|11287"
+      "en": "Oh, stop worrying",
+      "ko": "걱정 좀 그만해",
+      "timeen": "6618|8555",
+      "words": []
+    },
+    {
+      "level": "",
+      "en": "Maybe she just she can’t fall asleep unless she feels a woman’s shape.",
+      "ko": "여자한테 안겨 있는 느낌이 들면",
+      "timeen": "9422|12689",
+      "words": []
+    },
+    {
+      "level": "",
+      "en": "I guess that’s possible.",
+      "ko": "그럴 수도 있겠네",
+      "timeen": "13489|15589",
+      "words": []
+    },
+    {
+      "level": "",
+      "en": "What the hell is that supposed to mean?",
+      "ko": "지금 이게 무슨 뜻이야?\t ",
+      "timeen": "16519|17952",
+      "words": []
+    },
+    {
+      "level": "",
+      "en": "Yes, I’ve gained a few extra pounds while we were expecting the baby",
+      "ko": "맞아요, 입양하기로 하고서 살이 좀 찐 거 인정해요",
+      "timeen": "18953|23089",
+      "words": []
+    },
+    {
+      "level": "",
+      "en": "which has been very difficult.",
+      "ko": "정말 힘들었죠",
+      "timeen": "23922|25921",
+      "words": []
+    },
+    {
+      "level": "",
+      "en": "But apparently your body does a nesting, very maternal, primal thing...",
+      "ko": "엄마처럼 아이를 품을 수 있도록 자연스레 변한 것뿐이에요",
+      "timeen": "26789|31486",
+      "words": []
+    },
+    {
+      "level": "",
+      "en": "where it retains nutrients some sort of molecular physiology thing.",
+      "ko": "영양분을 유지하려는 일종의 분자 생리학 같은 거죠",
+      "timeen": "32256|36488",
+      "words": []
     }
   ]
 }
