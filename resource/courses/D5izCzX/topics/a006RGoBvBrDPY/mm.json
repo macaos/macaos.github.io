@@ -1,0 +1,74 @@
+{
+  "info": {
+    "cover": "aaa.png",
+    "titleen": "I was driving at about 40 miles per hour.",
+    "titleko": "나는 40마일로 운전하고 있었어요",
+    "descko": "엄마의 생일선물을 고민하는 남자친구를 위해 여자친구가 제안한 방법은?",
+    "descen": "How about baking a birthday cake for her?"
+  },
+  "sentense": [
+    {
+      "level": "",
+      "en": "I never told my family we were adopting a baby.",
+      "ko": "우리 가족들한테 입양 얘기 안 했어",
+      "timeen": "873|3410",
+      "words": []
+    },
+    {
+      "level": "",
+      "en": "who wants a big, emotional scene like that?",
+      "ko": "그런 분란을 일으키기 싫겠지",
+      "timeen": "4643|7277",
+      "words": []
+    },
+    {
+      "level": "",
+      "en": "I invited them over for dinner tonight.",
+      "ko": "그래서 오늘 밤에 가족들 초대했어",
+      "timeen": "8208|10044",
+      "words": []
+    },
+    {
+      "level": "",
+      "en": "This would have gone on forever.",
+      "ko": "이렇게 하다간 평생 갈 거야",
+      "timeen": "11109|12911",
+      "words": []
+    },
+    {
+      "level": "",
+      "en": "You’re an avoider.",
+      "ko": "넌 늘 피하기만 하잖아",
+      "timeen": "13777|15010",
+      "words": []
+    },
+    {
+      "level": "",
+      "en": "I’m calling them right now and canceling.",
+      "ko": "내가 지금 전화해서 취소할게",
+      "timeen": "15873|17610",
+      "words": []
+    },
+    {
+      "level": "",
+      "en": "You’re telling your family you adopted a baby, tonight.",
+      "ko": "오늘 가족들한테 입양 이야기를 하는 거야",
+      "timeen": "18444|21111",
+      "words": []
+    },
+    {
+      "level": "",
+      "en": "And you do have avoidance issues.",
+      "ko": "넌 회피 문제가 좀 있거든",
+      "timeen": "21977|23539",
+      "words": []
+    },
+    {
+      "level": "",
+      "en": "Even Longinus said so.",
+      "ko": "심지어 론지너스도 동의했어",
+      "timeen": "24473|25910",
+      "words": []
+    }
+  ]
+}
