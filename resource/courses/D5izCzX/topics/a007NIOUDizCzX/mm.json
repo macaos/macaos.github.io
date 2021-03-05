@@ -9,21 +9,87 @@
   "sentense": [
     {
       "level": "",
-      "en": "Translation, Believe me, I've tried everything.",
-      "ko": "다시 말해 정말 안 해 본 게 없어요",
-      "timeen": "556|3655"
+      "en": "Alex, get out! Mom! ",
+      "ko": "앨릭스, 나가! 엄마! ",
+      "timeen": "732|3765",
+      "words": []
     },
     {
       "level": "",
-      "en": "And then, of course, there are the funerals.",
-      "ko": "그리고 장례식이 있죠",
-      "timeen": "4555|8221"
+      "en": "Alex, leave your sister alone.",
+      "ko": "앨릭스, 언니 가만히 둬! ",
+      "timeen": "4634|6664",
+      "words": []
     },
     {
       "level": "",
-      "en": "So many more than I could imagine.",
-      "ko": "상상했던 것보다 훨씬 많아요",
-      "timeen": "9054|11287"
+      "en": "I was just getting my book.",
+      "ko": "책을 가지러 간 거예요",
+      "timeen": "7364|8899",
+      "words": []
+    },
+    {
+      "level": "",
+      "en": "I know, sweetie. But you need to respect their privacy.",
+      "ko": "아는데, 사생활 존중해 줘야지",
+      "timeen": "9629|12529",
+      "words": []
+    },
+    {
+      "level": "",
+      "en": "What are they doing up there?",
+      "ko": "둘이 뭐 하니?",
+      "timeen": "13333|14999",
+      "words": []
+    },
+    {
+      "level": "",
+      "en": "Nothing. Lying on her bed, watching a movie.",
+      "ko": "그냥 침대에 누워서 영화 봐요",
+      "timeen": "15863|18400",
+      "words": []
+    },
+    {
+      "level": "",
+      "en": "Um, I’m making a cake for tonight. help me with the frosting?",
+      "ko": "오늘 밤에 먹을 케이크 만드는데 프로스팅 좀 도와줄래?",
+      "timeen": "19231|23029",
+      "words": []
+    },
+    {
+      "level": "",
+      "en": "Sure. So, you know, if Haley got pregnant, ",
+      "ko": "그러죠. 만약 언니가 임신하면 ",
+      "timeen": "24065|27063",
+      "words": []
+    },
+    {
+      "level": "",
+      "en": "would you ever pretend she has mono for a few months,",
+      "ko": "몇 달간 병으로 위장하고",
+      "timeen": "27764|30197",
+      "words": []
+    },
+    {
+      "level": "",
+      "en": "and then, like, tell everyone the baby’s yours?",
+      "ko": "엄마가 낳은 아기라고 할 거예요?",
+      "timeen": "31132|33163",
+      "words": []
+    },
+    {
+      "level": "",
+      "en": "This senior at school was \"out sick\" for four months,",
+      "ko": "학교 졸업반 학생 중 하나가 넉 달 동안 병결을 했는데",
+      "timeen": "34032|37064",
+      "words": []
+    },
+    {
+      "level": "",
+      "en": "but Jenna Resnick swears she saw her breast-feeding at a coin-op car wash.",
+      "ko": "제나 레스닉이 세차장에서 그 언니 모유 수유하는 걸 봤대요",
+      "timeen": "38011|41164",
+      "words": []
     }
   ]
 }

@@ -10,19 +10,23 @@
     {
       "level": "",
       "en": "This doesn’t worry you?",
-      "ko": "너는 걱정 안 돼?",
+      "ko": "너는 이게 걱정 안 돼?",
       "timeen": "588|2384",
       "words": []
     },
     {
       "level": "",
       "en": "She barely slept on the plane and she’s still wide awake.",
-      "ko": "비행기에서부터 한숨도 안 잤어",
+      "ko": "애가 비행기에서 잠을 거의 안잤는데 여전히 말똥말똥해",
       "timeen": "3220|5818",
       "words": [
         [
           "barely",
           "간신히, 겨우, 거의 ~않다, 빠듯하게"
+        ],
+        [
+          "wide awake",
+          "완전히 깨어있는, 정신이 말똥말똥한"
         ]
       ]
     },
@@ -36,28 +40,28 @@
     {
       "level": "",
       "en": "Maybe she just she can’t fall asleep unless she feels a woman’s shape.",
-      "ko": "여자한테 안겨 있는 느낌이 들면",
+      "ko": "아마 애가 여자 체형을 느끼지 않으면 잠들지 못하는 거 아닐까?",
       "timeen": "9422|12689",
       "words": []
     },
     {
       "level": "",
       "en": "I guess that’s possible.",
-      "ko": "그럴 수도 있겠네",
+      "ko": "뭐 그럴 수도 있을 거 같네",
       "timeen": "13489|15589",
       "words": []
     },
     {
       "level": "",
       "en": "What the hell is that supposed to mean?",
-      "ko": "지금 이게 무슨 뜻이야?\t ",
+      "ko": "지금 이게 도대체 무슨 뜻이야?",
       "timeen": "16519|17952",
       "words": []
     },
     {
       "level": "",
       "en": "Yes, I’ve gained a few extra pounds while we were expecting the baby",
-      "ko": "맞아요, 입양하기로 하고서 살이 좀 찐 거 인정해요",
+      "ko": "맞아요, 아이를 (입양하기로 하고)기다리는 동안제 몸무게가 몇 파운드 늘긴 했어요.",
       "timeen": "18953|23089",
       "words": []
     },
@@ -71,16 +75,46 @@
     {
       "level": "",
       "en": "But apparently your body does a nesting, very maternal, primal thing...",
-      "ko": "엄마처럼 아이를 품을 수 있도록 자연스레 변한 것뿐이에요",
+      "ko": "어쩐지 알고 보니, 몸이 둥지를 트는 것이었어요(아이를 품을 수 있도록 변한 것 이었어요), 아주 모성적이고, 원시적(원초적)이죠..",
       "timeen": "26789|31486",
-      "words": []
+      "words": [
+        [
+          "apparently",
+          "보기에, 분명히, 명백히"
+        ],
+        [
+          "nesting",
+          "보금자리, 둥지"
+        ],
+        [
+          "maternal",
+          "모성적, 어머니다운"
+        ],
+        [
+          "primal",
+          "최초의, 원시적인, 주요한, 근본적인"
+        ]
+      ]
     },
     {
       "level": "",
       "en": "where it retains nutrients some sort of molecular physiology thing.",
       "ko": "영양분을 유지하려는 일종의 분자 생리학 같은 거죠",
       "timeen": "32256|36488",
-      "words": []
+      "words": [
+        [
+          "retains",
+          "계속 유지하다, 간직하다, 보유하다"
+        ],
+        [
+          "nutrients",
+          "영양이 되는, 영양분, 영양제"
+        ],
+        [
+          "molecular physiology",
+          "분자생리학"
+        ]
+      ]
     }
   ]
 }
