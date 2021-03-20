@@ -5,7 +5,7 @@
     "PageMiniplayer.css": "./static/css/PageMiniplayer.5e311643.chunk.css",
     "PageMiniplayer.js": "./static/js/PageMiniplayer.b201bf71.chunk.js",
     "PageMiniplayer.js.map": "./static/js/PageMiniplayer.b201bf71.chunk.js.map",
-    "main.css": "./static/css/main.eba4f374.chunk.css",
+    "main.css": "./static/css/main.cb6ab0c1.chunk.css",
     "main.js": "./static/js/main.ed45afd1.chunk.js",
     "main.js.map": "./static/js/main.ed45afd1.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.b71ecbb6.js",
@@ -16,14 +16,14 @@
     "static/js/5.f8839ffb.chunk.js.map": "./static/js/5.f8839ffb.chunk.js.map",
     "index.html": "./index.html",
     "static/css/PageMiniplayer.5e311643.chunk.css.map": "./static/css/PageMiniplayer.5e311643.chunk.css.map",
-    "static/css/main.eba4f374.chunk.css.map": "./static/css/main.eba4f374.chunk.css.map",
+    "static/css/main.cb6ab0c1.chunk.css.map": "./static/css/main.cb6ab0c1.chunk.css.map",
     "static/js/4.357d4be0.chunk.js.LICENSE.txt": "./static/js/4.357d4be0.chunk.js.LICENSE.txt",
     "static/media/event1.bddd299b.png": "./static/media/event1.bddd299b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b71ecbb6.js",
     "static/js/4.357d4be0.chunk.js",
-    "static/css/main.eba4f374.chunk.css",
+    "static/css/main.cb6ab0c1.chunk.css",
     "static/js/main.ed45afd1.chunk.js"
   ]
 }
