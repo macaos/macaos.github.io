@@ -1,0 +1,2807 @@
+{
+    "info": {
+        "cover": "aaa.png",
+        "titleen": "I was driving at about 40 miles per hour.",
+        "titleko": "나는 40마일로 운전하고 있었어요",
+        "descko": "엄마의 생일선물을 고민하는 남자친구를 위해 여자친구가 제안한 방법은?",
+        "descen": "How about baking a birthday cake for her?"
+    },
+    "sentense": [
+        {
+            "tag": "lv2",
+            "en": "33You look so serious, Peter. What's up?",
+            "en_": "",
+            "ko": "33피터 너무 심각하게 보여. 무슨 일이 있니?",
+            "words": [],
+            "pattern": ""
+        },
+        {
+            "tag": "lv2",
+            "en": "I am thinking about what to buy for her.",
+            "en_": "",
+            "ko": "그녀에게 무엇을 사 줄까 생각중이야.",
+            "words": [],
+            "pattern": ""
+        },
+        {
+            "tag": "lv1",
+            "en": "How about a scarf?",
+            "en_": "",
+            "ko": "스카프는 어때?",
+            "words": [],
+            "pattern": ""
+        },
+        {
+            "tag": "lv2",
+            "en": "I already gave her one last year.",
+            "en_": "",
+            "ko": "그녀에게 작년에 이미 하나 사 줬어.",
+            "words": [],
+            "pattern": ""
+        },
+        {
+            "tag": "lv1",
+            "en": "Then how about a bag?",
+            "en_": "",
+            "ko": "그러면 가방은 어때?",
+            "words": [],
+            "pattern": ""
+        },
+        {
+            "tag": "lv2",
+            "en": "My dad is probably going to give her a bag.",
+            "en_": "",
+            "ko": "아버지가 아마 그녀에게 가방을 사 드릴꺼야.",
+            "words": [],
+            "pattern": ""
+        },
+        {
+            "tag": "lv2",
+            "en": "I want to give my mom something special this year.",
+            "en_": "",
+            "ko": "나는 금년에는 좀 특별한 것을 어머니에게 드리고 싶어.",
+            "words": [],
+            "pattern": ""
+        },
+        {
+            "tag": "lv2",
+            "en": "How about baking a birthday cake for her?",
+            "en_": "",
+            "ko": "생일 케이크를 굽는 것은 어때?",
+            "words": [],
+            "pattern": ""
+        },
+        {
+            "tag": "lv2",
+            "en": "I don't know how and I don't have enough time.",
+            "en_": "",
+            "ko": "나는 어떻게 굽는줄도 모르고 시간도 충분치 않아.",
+            "words": [],
+            "pattern": ""
+        },
+        {
+            "tag": "lv2",
+            "en": "I'll help you. Let's get started.",
+            "en_": "",
+            "ko": "내가 도와 줄게. 시작하자.",
+            "words": [],
+            "pattern": ""
+        },
+        {
+            "tag": "lv2",
+            "en": "You are such a great friend.",
+            "en_": "",
+            "ko": "너는 정말 좋은 친구야.",
+            "words": [],
+            "pattern": ""
+        },
+        {
+            "tag": "lv2",
+            "en": "Could you take off your shoes, sir?",
+            "en_": "",
+            "ko": "신발 좀 벗어 주시겠습니까?",
+            "words": [],
+            "pattern": ""
+        },
+        {
+            "tag": "lv2",
+            "en": "We have to check them. ",
+            "en_": "",
+            "ko": "우리는 꼭 그것을 체크 해야 됩니다. ",
+            "words": [],
+            "pattern": ""
+        },
+        {
+            "tag": "lv1",
+            "en": "It's airport policy.",
+            "en_": "",
+            "ko": "공항 규정입니다. ",
+            "words": [],
+            "pattern": ""
+        },
+        {
+            "tag": "lv1",
+            "en": "Sir, please step aside.",
+            "en_": "",
+            "ko": "손님, 옆으로 잠시 비켜주시겠습니까.",
+            "words": [],
+            "pattern": ""
+        },
+        {
+            "tag": "lv2",
+            "en": "Do you have any metal in your pockets?",
+            "en_": "",
+            "ko": "주머니에 금속 물품 가지고 계신가요?",
+            "words": [],
+            "pattern": ""
+        },
+        {
+            "tag": "lv2",
+            "en": "Did the book I ordered come in?",
+            "en_": "",
+            "ko": "제가 주문한 책이 왔나요?",
+            "words": [],
+            "pattern": ""
+        },
+        {
+            "tag": "lv1",
+            "en": "That's why I'm calling.",
+            "en_": "",
+            "ko": "그것 때문에 전화드렸어요. ",
+            "words": [],
+            "pattern": ""
+        },
+        {
+            "tag": "lv3",
+            "en": "We've just received a message from the publishing company.",
+            "en_": "",
+            "ko": "출판사에서 방금 메시지를 받았어요. ",
+            "words": [],
+            "pattern": ""
+        },
+        {
+            "tag": "lv2",
+            "en": "There will be a delay on your order.",
+            "en_": "",
+            "ko": "주문한 책이 좀 늦어지겠다고 합니다.",
+            "words": [],
+            "pattern": ""
+        },
+        {
+            "tag": "lv2",
+            "en": "I need it for a paper I'm writing.",
+            "en_": "",
+            "ko": "지금 쓰고 있는 논문을 위해 필요합니다.",
+            "words": [],
+            "pattern": ""
+        },
+        {
+            "tag": "lv3",
+            "en": "I'm afraid it will be another two weeks before it's available.",
+            "en_": "",
+            "ko": "도착하기까지는 앞으로도 2주는 있어야 할 것으로 생각됩니다.",
+            "words": [],
+            "pattern": ""
+        },
+        {
+            "tag": "lv1",
+            "en": "Two weeks? This is terrible.",
+            "en_": "",
+            "ko": "2주요? 정말로 큰일이군요.",
+            "words": [],
+            "pattern": ""
+        },
+        {
+            "tag": "lv3",
+            "en": "What would you like us to do? Do you want us to cancel the order?",
+            "en_": "",
+            "ko": "우리가 어떻게 하면 되겠습니까? 주문을 취소하길 원하세요?",
+            "words": [],
+            "pattern": ""
+        },
+        {
+            "tag": "lv2",
+            "en": "I really want the book, so I'll wait for it.",
+            "en_": "",
+            "ko": "난 그 책이 꼭 필요해요, 그러니까 기다릴게요.",
+            "words": [],
+            "pattern": ""
+        },
+        {
+            "tag": "lv2",
+            "en": "I haven't seen you in months. What's new?",
+            "en_": "",
+            "ko": "오랜만이군. 별일 없었어?",
+            "words": [],
+            "pattern": ""
+        },
+        {
+            "tag": "lv2",
+            "en": "Are you still working at the bank?",
+            "en_": "",
+            "ko": "아직도 은행에서 일하니?",
+            "words": [],
+            "pattern": ""
+        },
+        {
+            "tag": "lv2",
+            "en": "I left the bank and moved to the country.",
+            "en_": "",
+            "ko": "은행을 그만두고 시골로 이사했어.",
+            "words": [],
+            "pattern": ""
+        },
+        {
+            "tag": "lv2",
+            "en": "I have a small farm there.",
+            "en_": "",
+            "ko": "거기에 작은 농장을 마련했어.",
+            "words": [],
+            "pattern": ""
+        },
+        {
+            "tag": "lv2",
+            "en": "You loved your job, didn't you?",
+            "en_": "",
+            "ko": "너 은행일을 아주 좋아했잖아, 그렇지 않니?",
+            "words": [],
+            "pattern": ""
+        },
+        {
+            "tag": "lv2",
+            "en": "I was getting tired of city life.",
+            "en_": "",
+            "ko": "난 도시생활에 지쳐가고 있었어.",
+            "words": [],
+            "pattern": ""
+        },
+        {
+            "tag": "lv2",
+            "en": "Also, I've always dreamed of writing.",
+            "en_": "",
+            "ko": "또한, 난 언제나 글을 쓰는 꿈이있었지.",
+            "words": [],
+            "pattern": ""
+        },
+        {
+            "tag": "lv2",
+            "en": "So, I've been working on a book of poetry.",
+            "en_": "",
+            "ko": "그래서, 난 시집을 쓰고 있어.",
+            "words": [],
+            "pattern": ""
+        },
+        {
+            "tag": "lv2",
+            "en": "Poetry? That's great! How's it coming?",
+            "en_": "",
+            "ko": "시? 멋지다! 어떻게 되고 있니?",
+            "words": [],
+            "pattern": ""
+        },
+        {
+            "tag": "lv2",
+            "en": "She stood me up.",
+            "en_": "",
+            "ko": "그 여자한테 바람 맞았어요",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "How did it go?",
+            "en_": "",
+            "ko": "어떻게 됐어요?",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "The service here is terrible!",
+            "en_": "",
+            "ko": "여기 서비스가 진짜 엉망이네요!",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "That movie really sucked.",
+            "en_": "",
+            "ko": "그 영화 진짜 별로였어요",
+            "words": []
+        },
+        {
+            "tag": "lv3",
+            "en": "Let’s all chip in and buy him a nice present.",
+            "en_": "",
+            "ko": "우리 돈을 모아서 그 사람한테 좋은 선물 사주자.",
+            "words": [
+                [
+                    "chip",
+                    "조각,부스러기,토막"
+                ]
+            ],
+            "pattern": ""
+        },
+        {
+            "tag": "lv2",
+            "en": "I don’t hold a grudge.",
+            "en_": "",
+            "ko": "나 뒤끝 없는 사람이에요",
+            "words": [
+                [
+                    "grudge",
+                    "원한, 유감, 샘내다"
+                ]
+            ],
+            "pattern": ""
+        },
+        {
+            "tag": "lv2",
+            "en": "Get over it!",
+            "en_": "",
+            "ko": "잊어버리고 넘어가!",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "It’s time for you to move on.",
+            "en_": "",
+            "ko": "잊을 때가 됐어요",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "You really hurt my feelings.",
+            "en_": "",
+            "ko": "나한테 상처 줬어요",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "I’ll never forget what you said.",
+            "en_": "",
+            "ko": "나한테 한 말을 절대 잊지 않을 거예요",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "We just missed it.",
+            "en_": "",
+            "ko": "아깝게 놓쳤어요",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "Don’t keep me waiting.",
+            "en_": "",
+            "ko": "기다리게 하지 말아요",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "What do you usually do in your free time?",
+            "en_": "",
+            "ko": "한가할 때 보통 뭐 해요?",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "I didn’t have the heart to tell him.",
+            "en_": "",
+            "ko": "상처받을까 봐 차마 말을 못했어요",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "How did he take the news?",
+            "en_": "",
+            "ko": "그 소식 듣고 반응이 어땠어요?",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "He didn’t bat an eye.",
+            "en_": "",
+            "ko": "눈 하나 깜짝 안 했어요",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "It’s your fault. ",
+            "en_": "",
+            "ko": "네 탓이야",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "I’m all ears! ",
+            "en_": "",
+            "ko": "잘 듣겠습니다!",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "Don’t interrupt!",
+            "en_": "",
+            "ko": "끼어들지 말아요!",
+            "words": []
+        },
+        {
+            "tag": "lv3",
+            "en": "The thing is, we won’t be finished before Friday. ",
+            "en_": "",
+            "ko": "사실은 우리가 금요일 전에 끝이 안 날 것 같아요.",
+            "words": [
+                [
+                    "The thing is~",
+                    "요점은~, 사실은~"
+                ]
+            ],
+            "pattern": ""
+        },
+        {
+            "tag": "lv2",
+            "en": "Thanks for your understanding.",
+            "en_": "",
+            "ko": "이해해 주셔서 감사합니다",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "She’s very high maintenance.",
+            "en_": "",
+            "ko": "손 많이 가는 스타일이에요",
+            "words": [
+                [
+                    "maintenance",
+                    "지속,유지,보수관리"
+                ]
+            ],
+            "pattern": ""
+        },
+        {
+            "tag": "lv1",
+            "en": "Stay focused!",
+            "en_": "",
+            "ko": "집중해요!",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "I’ve been trying to stay out of trouble.",
+            "en_": "",
+            "ko": "바르게 살려고 노력하고 있어요.",
+            "words": [
+                [
+                    "stay out of~",
+                    "~ 을 피하다(=avoid)"
+                ]
+            ],
+            "pattern": ""
+        },
+        {
+            "tag": "lv2",
+            "en": "Stay out of my business.",
+            "en_": "",
+            "ko": "내 일에 참견하지 마",
+            "words": [
+                [
+                    "stay out of~",
+                    "~ 을 피하다(=avoid)"
+                ]
+            ],
+            "pattern": ""
+        },
+        {
+            "tag": "lv2",
+            "en": "Do you mind if I use this?",
+            "en_": "Do you mind if I ",
+            "ko": "이거 써도 돼요?",
+            "words": [],
+            "pattern": "Do you mind if I~"
+        },
+        {
+            "tag": "lv2",
+            "en": "No wonder you speak English so well.",
+            "en_": "",
+            "ko": "그래서 영어 그렇게 잘하는 거였군요",
+            "words": [
+                [
+                    "No wonder",
+                    "(궁금하지 않을만큼)확실하다, 명확하다, 당연하다"
+                ]
+            ],
+            "pattern": ""
+        },
+        {
+            "tag": "lv2",
+            "en": "I’ve got a lot on my mind right now.",
+            "en_": "",
+            "ko": "요새 골칫거리 많아요",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "I’ve got a lot on my plate.",
+            "en_": "",
+            "ko": "요새 하는 일이 많아요",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "That’s what I hate about working here.",
+            "en_": "",
+            "ko": "여기서 일하는 게 싫은 이유가 바로 그거예요!",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "Don’t talk about me behind my back!",
+            "en_": "",
+            "ko": "나 없을 때 내 이야기 하지 말아요!",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "Don’t spread rumors!",
+            "en_": "",
+            "ko": "소문 퍼뜨리지 말아요!",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "He’s bad with directions.",
+            "en_": "",
+            "ko": "그는 방향 감각이 없어요",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "I’m not really a people person.",
+            "en_": "",
+            "ko": "나는 사교적인 사람이 아니에요",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "I think we got off on the wrong foot.",
+            "en_": "",
+            "ko": "처음부터 우리 서로한테 열 받게 한 것 같아요",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "We really hit it off.",
+            "en_": "",
+            "ko": "우리는 금방 친해졌어요",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "What was your impression of him?",
+            "en_": "",
+            "ko": "그 사람 인상이 어땠어요?",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "You never get a second chance to make a first impression.",
+            "en_": "",
+            "ko": "첫 인상에 두 번째 기회는 없어요",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "I’m looking forward to it.",
+            "en_": "",
+            "ko": "기대하고 있어요",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "Don’t blame me!",
+            "en_": "",
+            "ko": "내 탓하지 말아요!",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "It’s your responsibility.",
+            "en_": "",
+            "ko": "당신 책임이잖아요",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "What’s your take on it?",
+            "en_": "",
+            "ko": "당신은 어떻게 생각해요?",
+            "words": [
+                [
+                    "take on it",
+                    "상황에 대한 나름의 분석을 요구(분석적 의견)"
+                ]
+            ],
+            "pattern": ""
+        },
+        {
+            "tag": "lv2",
+            "en": "What’s your best guess?",
+            "en_": "",
+            "ko": "대략적으로 짐작해보세요",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "Give me a ballpark figure.",
+            "en_": "",
+            "ko": "대략적인 숫자 알려주세요",
+            "words": [
+                [
+                    "ballpark",
+                    "대략적 액수(양)"
+                ],
+                [
+                    "figure",
+                    "수치,숫자"
+                ]
+            ],
+            "pattern": ""
+        },
+        {
+            "tag": "lv2",
+            "en": "I need to cool my head.",
+            "en_": "",
+            "ko": "머리 좀 식혀야 되겠어요",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "Speak of the devil.",
+            "en_": "",
+            "ko": "호랑이도 제 말하면 온다",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "Please say that again.",
+            "en_": "",
+            "ko": "다시 말씀해 주세요.",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "My battery’s dead.",
+            "en_": "",
+            "ko": "배테리가 다 됐어요.",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "I wish you all the best.",
+            "en_": "",
+            "ko": "모든 일이 잘되시길 빌어요.",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "Please be quiet.",
+            "en_": "",
+            "ko": "조용히 해 주세요.",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "Do you live alone?",
+            "en_": "",
+            "ko": "혼자 살아요?",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "Do whatever you want.",
+            "en_": "",
+            "ko": "당신 마음대로 하세요.",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "I’m just looking around.",
+            "en_": "",
+            "ko": "그냥 둘러보고 있어요.",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "Everything’s gonna be all right.",
+            "en_": "",
+            "ko": "다 잘 될 거예요.",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "Get some rest.",
+            "en_": "",
+            "ko": "좀 쉬어요.",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "Don’t make an excuse.",
+            "en_": "",
+            "ko": "변명하지 마세요.",
+            "words": [
+                [
+                    "excuse",
+                    "변명,구실"
+                ]
+            ],
+            "pattern": ""
+        },
+        {
+            "tag": "lv1",
+            "en": "Where’s my money?",
+            "en_": "",
+            "ko": "내 돈은 어딨어요?",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "What’s your favorite program?",
+            "en_": "",
+            "ko": "좋아하는 프로그램이 뭐예요?",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "Can I get there on foot?",
+            "en_": "",
+            "ko": "걸어서 갈 수 있으까요?",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "Can I get there on foot?",
+            "en_": "",
+            "ko": "걸어서 갈 수 있을까요?",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "May I come in?",
+            "en_": "",
+            "ko": "들어가도 되나요?",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "Stop nagging me!",
+            "en_": "",
+            "ko": "잔소리 좀 그만해요!",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "Can I ask you a favor.",
+            "en_": "",
+            "ko": "부탁 하나 해도 될까요?",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "Do you need a hand?",
+            "en_": "",
+            "ko": "도와드릴까요?",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "Attention, please!",
+            "en_": "",
+            "ko": "주목해 주세요!",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "I need to charge my phone.",
+            "en_": "",
+            "ko": "휴대폰 충전해야해요.",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "Do you have Wi-Fi here?",
+            "en_": "",
+            "ko": "여기 와이파이 되나요?",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "Are you free tomorrow?",
+            "en_": "",
+            "ko": "내일 시간 괜찮아요?",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "Can I get refund?",
+            "en_": "",
+            "ko": "환불할 수 있어요?",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "Never mind.",
+            "en_": "",
+            "ko": "걱정하지 마세요.",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "Would you like something to drink?",
+            "en_": "",
+            "ko": "마실 것 좀 드릴까요?",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "I feel great today.",
+            "en_": "",
+            "ko": "오늘 정말 기분이 좋아요.",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "It’s been a long time.",
+            "en_": "",
+            "ko": "오래간만이에요.",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "Do you take credit cards?",
+            "en_": "",
+            "ko": "카드 되나요?",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "Take an umbrella.",
+            "en_": "",
+            "ko": "우산 챙기세요.",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "To go, please.",
+            "en_": "",
+            "ko": "가져 갈게요.(테이크아웃 할게요.)",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "He has a big mouth.",
+            "en_": "",
+            "ko": "그는 말이 많은 사람이에요.",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "Thank you for coming.",
+            "en_": "",
+            "ko": "와주셔서 감사해요.",
+            "words": []
+        },
+        {
+            "tag": "lv3",
+            "en": "The inside of this car is spacious.",
+            "en_": "",
+            "ko": "차 실내가 넓네요.",
+            "words": [
+                [
+                    "spacious",
+                    "넓은,훤히 트인, 거대한, 광활한"
+                ]
+            ],
+            "pattern": ""
+        },
+        {
+            "tag": "lv1",
+            "en": "Bring yourself.",
+            "en_": "",
+            "ko": "몸만 오세요.",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "Are you serious?",
+            "en_": "",
+            "ko": "진심이에요?",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "Can I have a word with you?",
+            "en_": "",
+            "ko": "잠깐 이야기 좀 할 수 있을까요?",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "What time do you get off work?",
+            "en_": "",
+            "ko": "언제 퇴근하시나요?",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "It’s no big deal.",
+            "en_": "",
+            "ko": "별거 아니예요.",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "I stayed up all night.",
+            "en_": "",
+            "ko": "밤을 꼬박 새웠어요.",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "My wife is pregnant.",
+            "en_": "",
+            "ko": "제 아내가 임신했어요.",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "Take a seat.",
+            "en_": "",
+            "ko": "앉으세요.",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "I don’t remember the password.",
+            "en_": "",
+            "ko": "비밀번호를 잊어버렸어요.",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "It works!",
+            "en_": "",
+            "ko": "효과 있어요!",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "Could you give me your business card?",
+            "en_": "",
+            "ko": "명함 한 장 주시겠어요?",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "I’ll catch up with you.",
+            "en_": "",
+            "ko": "곧 따라갈게요.",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "I am on a diet.",
+            "en_": "",
+            "ko": "나 다이어트 중이야.",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "Look on the bright side.",
+            "en_": "",
+            "ko": "긍정적으로 생각해봐요.",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "Do you want to go for a cup of coffee?",
+            "en_": "",
+            "ko": "커피 마시러 갈래요?",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "Easy does it.",
+            "en_": "",
+            "ko": "조심해서 하세요.",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "How much is the admission fee?",
+            "en_": "",
+            "ko": "입장료가 얼아인가요?",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "Are you all set?",
+            "en_": "",
+            "ko": "준비 다 됐어요?",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "I have a flat tire.",
+            "en_": "",
+            "ko": "타이어가 펑크났어요.",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "Can I have a wet towel?",
+            "en_": "",
+            "ko": "물수건 좀 주시겠어요?",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "I maxed out my credit card.",
+            "en_": "",
+            "ko": "제 카드 한도 초과됐어요.",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "That makes sense.",
+            "en_": "",
+            "ko": "일리 있어요.",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "It’s sunny today.",
+            "en_": "",
+            "ko": "오늘은 햇살이 가득하네요.",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "Be on time.",
+            "en_": "",
+            "ko": "시간 잘 지키세요.",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "The night is still young.",
+            "en_": "",
+            "ko": "아직 초저녁이에요.",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "How was your weekend?",
+            "en_": "",
+            "ko": "주말 잘 보냈어요?",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "Just thinking of it makes me happy.",
+            "en_": "",
+            "ko": "생각만 해도 기분이 좋네요.",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "There is a traffic accident.",
+            "en_": "",
+            "ko": "교통사고가 났어요.",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "He drinks like a fish.",
+            "en_": "",
+            "ko": "그는 술고래야.",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "Absolutely!",
+            "en_": "",
+            "ko": "당연하지!",
+            "words": []
+        },
+        {
+            "tag": "lv3",
+            "en": "Thanks so much for the birthday money. ",
+            "en_": "Thanks so much for ",
+            "ko": "생일 용돈 정말 감사해요.",
+            "words": [],
+            "pattern": "Thanks so much for "
+        },
+        {
+            "tag": "lv3",
+            "en": "Thanks so much for driving me home.",
+            "en_": "Thanks so much for",
+            "ko": "집에 태워다 주셔서 감사해요.",
+            "words": [],
+            "pattern": "Thanks so much for"
+        },
+        {
+            "tag": "lv3",
+            "en": "I really appreciate your help.",
+            "en_": "I really appreciate",
+            "ko": "도움 정말 감사합니다.",
+            "words": [],
+            "pattern": "I really appreciate"
+        },
+        {
+            "tag": "lv2",
+            "en": "Excuse me sir, you dropped your wallet.",
+            "en_": "Excuse me",
+            "ko": "실례합니다. 지갑 떨어뜨리셨어요.",
+            "words": [],
+            "pattern": "Excuse me"
+        },
+        {
+            "tag": "lv2",
+            "en": "Excuse me, do you know what time it is?",
+            "en_": "Excuse me",
+            "ko": "실례합니다. 지금 몇 시인지 아세요?",
+            "words": [],
+            "pattern": "Excuse me"
+        },
+        {
+            "tag": "lv2",
+            "en": "I’m sorry for being so late.",
+            "en_": "I’m sorry",
+            "ko": "늦어서 죄송해요.",
+            "words": [],
+            "pattern": "I’m sorry"
+        },
+        {
+            "tag": "lv2",
+            "en": "I’m sorry for the mess.",
+            "en_": "I’m sorry",
+            "ko": "어질러져 있어서 죄송해요.",
+            "words": [],
+            "pattern": "I’m sorry"
+        },
+        {
+            "tag": "lv1",
+            "en": "I wasn’t expecting anyone today.",
+            "en_": "",
+            "ko": "오늘 손님이 올거라고는 생각하지 않았어요.",
+            "words": []
+        },
+        {
+            "tag": "lv3",
+            "en": "I’m really sorry I didn’t invite you to the party.",
+            "en_": "I’m sorry ",
+            "ko": "너를 파티에 초대하지 않아서 정말로 미안해.",
+            "words": [],
+            "pattern": "I’m sorry "
+        },
+        {
+            "tag": "lv3",
+            "en": "I’m not sure if we should paint the room yellow or blue. ",
+            "en_": "",
+            "ko": "나는 우리가 방을 노란색으로 칠해야 할지, 파란색으로 칠해야 할지 모르겠어.",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "We could have dinner at 6, and then go to a movie.",
+            "en_": "",
+            "ko": "우리는 6시에 저녁 식사를 하고 그런 다음 영화를 보러 갈 수 있어.",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "My mom is baking cookies this afternoon. ",
+            "en_": "",
+            "ko": "우리 엄마는 오늘 오후에 쿠키를 구울 거야.",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "That sounds fantastic!  ",
+            "en_": "",
+            "ko": "그거 좋은 생각이다!",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "Are you going to the grocery store today?",
+            "en_": "",
+            "ko": "너 오늘 식료품점에 갈 거야?",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "I’m sorry, could you please talk slower?",
+            "en_": "",
+            "ko": "죄송한데요, 좀 천천히 말해 주시겠어요?",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "What do you do, Tom?",
+            "en_": "",
+            "ko": "무슨 일 하세요, 톰?",
+            "words": []
+        },
+        {
+            "tag": "lv3",
+            "en": "I work at the university as a financial specialist.",
+            "en_": "",
+            "ko": "저는 재정 전문가로 대학에서 일하고 있어요.",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "So Tom, what do you like to do in your free time?",
+            "en_": "",
+            "ko": "톰, 시간 있을 때에 뭘 하는 걸 좋아하세요?",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "I love to read and to garden. ",
+            "en_": "",
+            "ko": "저는 책을 읽고 정원을 가꾸는 것을 좋아해요. ",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "I picked two buckets of tomatoes last week! ",
+            "en_": "",
+            "ko": "저는 지난 달에 토마토를 두 통이나 땄어요! ",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "It would be great to meet up again sometime.",
+            "en_": "",
+            "ko": "다음에 다시 만나면 좋겠어요.",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "Let’s keep in touch! Do you have Instagram?",
+            "en_": "",
+            "ko": "계속 연락하자! 너 인스타그램 있어?",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "What time is our meeting on Wednesday?",
+            "en_": "",
+            "ko": "수요일에 회의가 몇 시에 있지?",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "Hi, this is Tom from the financial office.  ",
+            "en_": "",
+            "ko": "안녕하세요? 저는 재무부의 톰인데요.",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "I’m wondering if you found those missing receipts.",
+            "en_": "",
+            "ko": "잃어버린 영수증을 찾으셨는지 궁금합니다.",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "So Sam’s coming in tonight at 8, right?",
+            "en_": "",
+            "ko": "그래, 샘이 오늘 밤 8시에 오는 거 맞지?",
+            "words": []
+        },
+        {
+            "tag": "lv3",
+            "en": "Actually, I thought he wasn’t working at all this week.",
+            "en_": "",
+            "ko": "사실, 나는  그가 이번 주에 일을 안 한다고 생각했는데.",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "I’ll have to look at the schedule again.  ",
+            "en_": "",
+            "ko": "나는 일정을 다시 확인해 볼게",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "Did you finish the reports?",
+            "en_": "",
+            "ko": "보고서 다 끝냈나요?",
+            "words": []
+        },
+        {
+            "tag": "lv3",
+            "en": "Actually, I am running a bit behind, but they’ll be done by noon!",
+            "en_": "",
+            "ko": "사실, 저는 좀 늦어지고 있어요. 그렇지만 정오 무렵엔 끝날 거예요!",
+            "words": []
+        },
+        {
+            "tag": "lv3",
+            "en": "I’m just about to send those faxes.",
+            "en_": "",
+            "ko": "저는 그 팩스를 보내려던 참이에요.",
+            "words": [
+                [
+                    "I’m (just) about to~",
+                    "~ 하려던 참이다"
+                ]
+            ],
+            "pattern": ""
+        },
+        {
+            "tag": "lv3",
+            "en": "I’m about to go and pick up some coffee.",
+            "en_": "",
+            "ko": "저는 가서 커피를 사려던 참이에요.",
+            "words": [
+                [
+                    "I’m (just) about to~",
+                    "~ 하려던 참이다"
+                ]
+            ],
+            "pattern": ""
+        },
+        {
+            "tag": "lv1",
+            "en": "It’s a long story.",
+            "en_": "",
+            "ko": "말하자면 길어요",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "My watch doesn't work.",
+            "en_": "",
+            "ko": "나의 시계가 가질 않아요. ",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "I wonder what's wrong with it.",
+            "en_": "",
+            "ko": "무엇이 잘못됐을까요?",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "What is your point?",
+            "en_": "",
+            "ko": "요점이 뭐야?",
+            "words": []
+        },
+        {
+            "tag": "lv3",
+            "en": "I'm sorry to break in, but there's an important phone call for you.",
+            "en_": "",
+            "ko": "끼어들어서 죄송하지만, 당신에게 중요한 전화가 왔어요.",
+            "words": [
+                [
+                    "break in",
+                    "끼어들다,방해하다,중단시키다(interrupt)"
+                ]
+            ],
+            "pattern": ""
+        },
+        {
+            "tag": "lv3",
+            "en": "He always talks back to me, that's why I don't like him.",
+            "en_": "",
+            "ko": "그는 항상 나에게 말대꾸를 해요, 그것 때문에 그가 싫어요.",
+            "words": []
+        },
+        {
+            "tag": "lv3",
+            "en": "I don't have any excuses for my behavior.",
+            "en_": "",
+            "ko": "나의 행동에 대해 드릴 말씀이 없습니다.",
+            "words": [
+                [
+                    "excuses",
+                    "변명,구실,핑계거리"
+                ]
+            ],
+            "pattern": ""
+        },
+        {
+            "tag": "lv1",
+            "en": "I apologize for it.",
+            "en_": "",
+            "ko": "그것에 사과드려요.",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "I owe you an apology. ",
+            "en_": "",
+            "ko": "사과드릴 것이 있어요.",
+            "words": []
+        },
+        {
+            "tag": "lv3",
+            "en": "As far as I'm concerned, Monday would be more convenient.",
+            "en_": "",
+            "ko": "제 입장에서는 월요일이 더 편합니다.",
+            "words": [
+                [
+                    "concerned",
+                    "걱정시키다,관계,관심,걱정"
+                ]
+            ],
+            "pattern": ""
+        },
+        {
+            "tag": "lv3",
+            "en": "Don’t interfere in what doesn’t concern you.",
+            "en_": "",
+            "ko": "너하고 상관없는 일에 간섭하지 마.",
+            "words": [
+                [
+                    "interfere",
+                    "간섭하다"
+                ],
+                [
+                    "concerned",
+                    "걱정시키다,관계,관심,걱정"
+                ]
+            ],
+            "pattern": ""
+        },
+        {
+            "tag": "lv3",
+            "en": "As for me, I don't care where we go today, It's up to you.",
+            "en_": "",
+            "ko": "저로서는 오늘 어디를 가든 상관없습니다. 당신이 선택하세요.",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "I need a new car.",
+            "en_": "I need ",
+            "ko": "나는 새 차가 필요해",
+            "words": [],
+            "pattern": "I need~"
+        },
+        {
+            "tag": "lv2",
+            "en": "I hope it snows.",
+            "en_": "I hope  ",
+            "ko": "눈이 내렸으면 좋겠다.",
+            "words": [],
+            "pattern": "I hope~ "
+        },
+        {
+            "tag": "lv2",
+            "en": "I hope it's OK with you.",
+            "en_": "I hope  ",
+            "ko": "네가 좋다고 하면 좋겠다.",
+            "words": [],
+            "pattern": "I hope~ "
+        },
+        {
+            "tag": "lv2",
+            "en": "I hope you can make it.",
+            "en_": "I hope  ",
+            "ko": "네가 그것을 만들 수 있으면 좋겠다.",
+            "words": [],
+            "pattern": "I hope~ "
+        },
+        {
+            "tag": "lv2",
+            "en": "I hope my plane leaves on time.",
+            "en_": "I hope  ",
+            "ko": "내가 탈 비행기가 제시간에 출발 했으면 좋겠다.",
+            "words": [],
+            "pattern": "I hope~ "
+        },
+        {
+            "tag": "lv2",
+            "en": "Can I help you?",
+            "en_": "Can I  ",
+            "ko": "도와드릴까요?",
+            "words": [],
+            "pattern": "Can I~ "
+        },
+        {
+            "tag": "lv2",
+            "en": "Can I give you a hand?",
+            "en_": "Can I ",
+            "ko": "도와드릴까요?",
+            "words": [],
+            "pattern": "Can I~"
+        },
+        {
+            "tag": "lv2",
+            "en": "Can I get you something?",
+            "en_": "Can I ",
+            "ko": "뭔가 갖다 드릴까요?",
+            "words": [],
+            "pattern": "Can I~"
+        },
+        {
+            "tag": "lv2",
+            "en": "Can I take a message?",
+            "en_": "Can I ",
+            "ko": "메시지를 받아 드릴까요?",
+            "words": [],
+            "pattern": "Can I~"
+        },
+        {
+            "tag": "lv1",
+            "en": "Are you ready? ",
+            "en_": "",
+            "ko": "준비 되었습니까?",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "Are you busy right now? ",
+            "en_": "",
+            "ko": "지금 바쁘신가요?",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "I want more responsibility. ",
+            "en_": "",
+            "ko": "좀더 책임 있는 일을 하고 싶습니다.",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "I want a position with more responsibility. ",
+            "en_": "",
+            "ko": "좀더 책임 있는 지위에 있고 싶습니다.",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "I want a raise. ",
+            "en_": "",
+            "ko": "급여를 올려주길 원합니다.",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "Do you want anything at the store? ",
+            "en_": "",
+            "ko": "가게에서 뭐 사올 것 없어요?",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "Do you want anything else? ",
+            "en_": "",
+            "ko": "그 밖에 원하는 것 있어요?",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "Do you know the recipe? ",
+            "en_": "",
+            "ko": "만드는 법을 알고 있습니까?",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "I feel a little dizzy. ",
+            "en_": "",
+            "ko": "약간 현기증이 난다",
+            "words": []
+        },
+        {
+            "tag": "lv3",
+            "en": "Feel free to call me it you have any questions.",
+            "en_": "Feel free ",
+            "ko": "뭐 물어볼 것이 있으시면 주저하지 마시고 제게 전화 하세요",
+            "words": [
+                [
+                    "feel free~",
+                    "사양하지(주저하지) 말고 ~하세요"
+                ]
+            ],
+            "pattern": "Feel free~"
+        },
+        {
+            "tag": "lv3",
+            "en": "Feel free to give me a call if there are any problems.",
+            "en_": "Feel free ",
+            "ko": "문제가 있으면 언제든지 전화를 주세요.",
+            "words": [
+                [
+                    "feel free~",
+                    "사양하지(주저하지) 말고 ~하세요 "
+                ]
+            ],
+            "pattern": "Feel free~"
+        },
+        {
+            "tag": "lv3",
+            "en": "Feel free to ask me if you have any questions.",
+            "en_": "Feel free ",
+            "ko": "질문이 있으시면 언제든지 물어보세요.",
+            "words": [
+                [
+                    "feel free~",
+                    "사양하지(주저하지) 말고 ~하세요"
+                ]
+            ],
+            "pattern": "Feel free~"
+        },
+        {
+            "tag": "lv3",
+            "en": "Feel free to tell us if you want anything.",
+            "en_": "Feel free ",
+            "ko": "원하는 것이 있으시면 언제든지 저희에게 말씀해 주세요.",
+            "words": [
+                [
+                    "feel free~",
+                    "사양하지(주저하지) 말고 ~하세요"
+                ]
+            ],
+            "pattern": "Feel free~"
+        },
+        {
+            "tag": "lv3",
+            "en": "Have you ever been to Disneyland?",
+            "en_": "",
+            "ko": "너 디즈니랜드에 가본 적이 있니?",
+            "words": [
+                [
+                    "have been to-",
+                    "에 다녀오다, 가보다 "
+                ]
+            ],
+            "pattern": ""
+        },
+        {
+            "tag": "lv2",
+            "en": "Have you ever listened to anything by him.",
+            "en_": "",
+            "ko": "그의 연주를 들은 적이 있습니까?",
+            "words": []
+        },
+        {
+            "tag": "lv3",
+            "en": "I have to make a decision.",
+            "en_": "I have to ",
+            "ko": "나는 결정을 해야 합니다.",
+            "words": [
+                [
+                    "make a decision",
+                    "결정하다"
+                ]
+            ],
+            "pattern": "I have to~"
+        },
+        {
+            "tag": "lv2",
+            "en": "I have to make a choice.",
+            "en_": "I have to ",
+            "ko": "나는 선택을 해야 한다",
+            "words": [],
+            "pattern": "I have to~"
+        },
+        {
+            "tag": "lv2",
+            "en": "I have to make the deadline.",
+            "en_": "I have to ",
+            "ko": "마감시간에 맞추어야한다",
+            "words": [],
+            "pattern": "I have to~"
+        },
+        {
+            "tag": "lv3",
+            "en": "I have to make more of a contribution to the project.",
+            "en_": "I have to ",
+            "ko": "이 프로젝트에 좀더 공헌을 해야 합니다",
+            "words": [],
+            "pattern": "I have to~"
+        },
+        {
+            "tag": "lv2",
+            "en": "There's some food in the refrigerator. ",
+            "en_": "",
+            "ko": "냉장고 안에 먹을 게 좀 있다",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "There's some cake on the table. ",
+            "en_": "",
+            "ko": "테이블위에 케이크가 있다",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "There's none left. ",
+            "en_": "",
+            "ko": "아무것도 남아있지 않다",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "There's more ice cream in the freezer. ",
+            "en_": "",
+            "ko": "냉동실 안에 아이스크림이 더 있다.",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "Is there a drugstore nearby? ",
+            "en_": "",
+            "ko": "근처에 약국이 있습니까?",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "Is there a bus stop around here? ",
+            "en_": "",
+            "ko": "이 근처에 버스 정류장이 있습니까?",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "Is there another exit? ",
+            "en_": "",
+            "ko": "다른 출구가 있습니까?",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "Could you do me a favor?",
+            "en_": "Could you  ",
+            "ko": "부탁하나 드려도 될까요?",
+            "words": [],
+            "pattern": "Could you~ "
+        },
+        {
+            "tag": "lv2",
+            "en": "Could you help me out?",
+            "en_": "Could you  ",
+            "ko": "저를 좀 도와줄래요?",
+            "words": [],
+            "pattern": "Could you~ "
+        },
+        {
+            "tag": "lv2",
+            "en": "Could you get me another beer?",
+            "en_": "Could you  ",
+            "ko": "나한테 맥주 한잔 더 줄래요?",
+            "words": [],
+            "pattern": "Could you~ "
+        },
+        {
+            "tag": "lv3",
+            "en": "Could you wrap this separately, please?",
+            "en_": "Could you  ",
+            "ko": "이것을 따로 포장해 줄래요?",
+            "words": [],
+            "pattern": "Could you~ "
+        },
+        {
+            "tag": "lv3",
+            "en": "You should give her a chance",
+            "en_": "You should ",
+            "ko": "너는 그녀에게 기회를 주는 게 좋겠다.",
+            "words": [
+                [
+                    "You should~",
+                    "~하는 것이 좋겠다(충고,명령)"
+                ]
+            ],
+            "pattern": "You should~"
+        },
+        {
+            "tag": "lv3",
+            "en": "You should tell her how you feel.",
+            "en_": "You should ",
+            "ko": "그녀한테 네가 어떻게 생각하고 있는지 이야기 하는 것이 좋겠다.",
+            "words": [
+                [
+                    "You should~",
+                    "~하는 것이 좋겠다(충고,명령)"
+                ]
+            ],
+            "pattern": "You should~"
+        },
+        {
+            "tag": "lv3",
+            "en": "You should finish your homework.",
+            "en_": "You should ",
+            "ko": "너는 숙제를 끝내야한다",
+            "words": [
+                [
+                    "You should~",
+                    "~하는 것이 좋겠다(충고,명령)"
+                ]
+            ],
+            "pattern": "You should~"
+        },
+        {
+            "tag": "lv2",
+            "en": "Would you please pass me the salt?",
+            "en_": "Would you  ",
+            "ko": "이 편지를 부쳐 주시겠습니까?",
+            "words": [],
+            "pattern": "Would you~ "
+        },
+        {
+            "tag": "lv2",
+            "en": "Would you explain it to her?",
+            "en_": "Would you  ",
+            "ko": "그것을 그녀한테 설명 해 주시겠어요?",
+            "words": [],
+            "pattern": "Would you~ "
+        },
+        {
+            "tag": "lv3",
+            "en": "I'd like another drink.",
+            "en_": "I'd like (I would like)   ",
+            "ko": "한잔 더 주십시오.",
+            "words": [],
+            "pattern": "I'd like (I would like)~  "
+        },
+        {
+            "tag": "lv3",
+            "en": "I'd like a slice of pizza, please.",
+            "en_": "I'd like (I would like)  ",
+            "ko": "피자 한 조각을 주세요.",
+            "words": [],
+            "pattern": "I'd like (I would like)~ "
+        },
+        {
+            "tag": "lv1",
+            "en": "Let's eat out tonight. ",
+            "en_": "",
+            "ko": "오늘밤은 외식하자",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "Let's set a date. ",
+            "en_": "",
+            "ko": "날짜를 정하자",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "It takes a lot of courage.",
+            "en_": "It takes  ",
+            "ko": "거기에는 대단한 용기가 필요하다",
+            "words": [],
+            "pattern": "It takes~ "
+        },
+        {
+            "tag": "lv2",
+            "en": "It takes guts and determination.",
+            "en_": "It takes  ",
+            "ko": "거기에는 배짱과 용기가 필요하다",
+            "words": [],
+            "pattern": "It takes~ "
+        },
+        {
+            "tag": "lv2",
+            "en": "It looks like it's going to rain. ",
+            "en_": "",
+            "ko": "비가 올 것 같다",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "What a mess! ",
+            "en_": "",
+            "ko": "왜 이렇게 어수선해!",
+            "words": []
+        },
+        {
+            "tag": "lv3",
+            "en": "How come you're not going to the party?",
+            "en_": "How come ",
+            "ko": "너 왜 파티에 가지 않니?",
+            "words": [
+                [
+                    "How come~",
+                    "(도대체 왜)~않니? "
+                ]
+            ],
+            "pattern": "How come~"
+        },
+        {
+            "tag": "lv3",
+            "en": "How come you can't go?",
+            "en_": "How come ",
+            "ko": "왜 갈수 없니?",
+            "words": [
+                [
+                    "How come~",
+                    "(도대체 왜)~않니? "
+                ]
+            ],
+            "pattern": "How come~"
+        },
+        {
+            "tag": "lv3",
+            "en": "How come you never write?",
+            "en_": "How come ",
+            "ko": "왜 너는 한번도 편지를 쓰지 않니?",
+            "words": [
+                [
+                    "How come~",
+                    "(도대체 왜)~않니? "
+                ]
+            ],
+            "pattern": "How come~"
+        },
+        {
+            "tag": "lv3",
+            "en": "How come it's not working?",
+            "en_": "How come ",
+            "ko": "왜 그것은 작동하지 않습니까?",
+            "words": [
+                [
+                    "How come~",
+                    "(도대체 왜)~않니? "
+                ]
+            ],
+            "pattern": "How come~"
+        },
+        {
+            "tag": "lv2",
+            "en": "How long does it take to get there? ",
+            "en_": "",
+            "ko": "거기까지 얼마나 걸리지요?",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "How long does it take by bus? ",
+            "en_": "",
+            "ko": "버스로 얼마나 걸리지요?",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "How long does it take on foot? ",
+            "en_": "",
+            "ko": "걸어서 얼마나 걸리지요?",
+            "words": []
+        },
+        {
+            "tag": "lv3",
+            "en": "Why don't you come along?",
+            "en_": "Why don't you ",
+            "ko": "너도 같이 가는 게 어때?",
+            "words": [
+                [
+                    "Why don't you~",
+                    "~하지 않을래?"
+                ]
+            ],
+            "pattern": "Why don't you~"
+        },
+        {
+            "tag": "lv3",
+            "en": "Why don't you join us?",
+            "en_": "Why don't you ",
+            "ko": "함께 가지 않겠어요?",
+            "words": [
+                [
+                    "Why don't you~",
+                    "~하지 않을래?"
+                ]
+            ],
+            "pattern": "Why don't you~"
+        },
+        {
+            "tag": "lv3",
+            "en": "Why don't you sit down?",
+            "en_": "Why don't you ",
+            "ko": "앉지 그래요",
+            "words": [
+                [
+                    "Why don't you~",
+                    "~하지 않을래?"
+                ]
+            ],
+            "pattern": "Why don't you~"
+        },
+        {
+            "tag": "lv3",
+            "en": "Why don't you take a break?",
+            "en_": "Why don't you ",
+            "ko": "좀 쉬는 것이 어때요?",
+            "words": [
+                [
+                    "Why don't you~",
+                    "~하지 않을래?"
+                ]
+            ],
+            "pattern": "Why don't you~"
+        },
+        {
+            "tag": "lv1",
+            "en": "Take it easy.",
+            "en_": "",
+            "ko": "그럼 잘 가",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "Take care.",
+            "en_": "",
+            "ko": "조심 해. 잘 가",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "Take your time.",
+            "en_": "",
+            "ko": "천천히 하세요.",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "Take a chance.",
+            "en_": "",
+            "ko": "운에 맡기고 해보세요.",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "Tell her I'll stop by around 7. ",
+            "en_": "",
+            "ko": "그녀에게 7시쯤 들른다고 전해줘요",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "Tell her I'll call her when I get home.",
+            "en_": "",
+            "ko": "집에 도착하면 전화 한다고 그녀에게 전해줘요",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "Tell him I said hello.",
+            "en_": "",
+            "ko": "내가 안부 전한다고 전해줘요",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "Tell Jane I bought a ticket for her.",
+            "en_": "",
+            "ko": "제인의 티켓을 샀다고 전해줘요",
+            "words": []
+        },
+        {
+            "tag": "lv3",
+            "en": "This sounds interesting.",
+            "en_": "This sounds ",
+            "ko": "재미있을 것 같다",
+            "words": [
+                [
+                    "This sounds~",
+                    "~처럼 생각되다"
+                ]
+            ],
+            "pattern": "This sounds~"
+        },
+        {
+            "tag": "lv3",
+            "en": "This sounds good.",
+            "en_": "This sounds ",
+            "ko": "좋을 것 같다",
+            "words": [
+                [
+                    "This sounds~",
+                    "~처럼 생각되다"
+                ]
+            ],
+            "pattern": "This sounds~"
+        },
+        {
+            "tag": "lv3",
+            "en": "This sounds exciting.",
+            "en_": "This sounds ",
+            "ko": "재미있을 것 같다",
+            "words": [
+                [
+                    "This sounds~",
+                    "~처럼 생각되다"
+                ]
+            ],
+            "pattern": "This sounds~"
+        },
+        {
+            "tag": "lv3",
+            "en": "This sounds scary.",
+            "en_": "This sounds ",
+            "ko": "무서울 것 같다",
+            "words": [
+                [
+                    "This sounds~",
+                    "~처럼 생각되다"
+                ]
+            ],
+            "pattern": "This sounds~"
+        },
+        {
+            "tag": "lv2",
+            "en": "I'm worried about the kids. ",
+            "en_": "",
+            "ko": "아이들이 걱정이다",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "I'm worried about our younger generation today. ",
+            "en_": "",
+            "ko": "오늘날의 젊은이들이 걱정이다",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "I'm going to study harder next year. ",
+            "en_": "",
+            "ko": "내년에는 좀더 열심히 공부 할 생각이다",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "I'm going to quit my job. ",
+            "en_": "",
+            "ko": "나는 일을 그만 둘 생각이아",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "I'm going to take a long vacation this summer. ",
+            "en_": "",
+            "ko": "이번 여름에는 긴 휴가를 낼 생각이다",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "I'm sorry about what I said.",
+            "en_": "",
+            "ko": "그런 말을 해서 죄송해요",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "I'm sorry about what I‘ve done.",
+            "en_": "",
+            "ko": "여러 가지로 폐를 끼쳐 죄송합니다.",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "I'm sorry I got upset.",
+            "en_": "",
+            "ko": "화를 내서 미안 합니다",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "I wonder if he'll call.",
+            "en_": "",
+            "ko": "그 사람이 과연 전화 할까?",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "I wonder if he wants to come.",
+            "en_": "",
+            "ko": "그 사람이 오고 싶어 할까?",
+            "words": []
+        },
+        {
+            "tag": "lv2",
+            "en": "I'm glad to hear that. ",
+            "en_": "",
+            "ko": "기쁜 소식이군요.",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "Shall I open the window?",
+            "en_": "",
+            "ko": "창문을 열까요?",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "Shall I get the door?",
+            "en_": "",
+            "ko": "제가 문을 열까요?",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "Shall I answer the phone?",
+            "en_": "",
+            "ko": "제가 전화를 받을 까요?",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "Shall I take a message?",
+            "en_": "",
+            "ko": "메시지를 남기시겠습니까?",
+            "words": []
+        },
+        {
+            "tag": "lv3",
+            "en": "You'd better hurry.",
+            "en_": "You'd better ",
+            "ko": "서두르는 편이 좋겠다.",
+            "words": [
+                [
+                    "You'd better~",
+                    "~하는 편이 좋다"
+                ]
+            ],
+            "pattern": "You'd better~"
+        },
+        {
+            "tag": "lv3",
+            "en": "You'd better watch out.",
+            "en_": "You'd better ",
+            "ko": "조심하는 것이 좋겠다.",
+            "words": [
+                [
+                    "You'd better~",
+                    "~하는 편이 좋다"
+                ]
+            ],
+            "pattern": "You'd better~"
+        },
+        {
+            "tag": "lv3",
+            "en": "You'd better apologize.",
+            "en_": "You'd better ",
+            "ko": "당신이 사과하는 것이 좋겠어.",
+            "words": [
+                [
+                    "You'd better~",
+                    "~하는 편이 좋다"
+                ]
+            ],
+            "pattern": "You'd better~"
+        },
+        {
+            "tag": "lv3",
+            "en": "You'd better be careful.",
+            "en_": "You'd better ",
+            "ko": "주의하는 것이 좋겠어.",
+            "words": [
+                [
+                    "You'd better~",
+                    "~하는 편이 좋다"
+                ]
+            ],
+            "pattern": "You'd better~"
+        },
+        {
+            "tag": "lv2",
+            "en": "You mean you didn't accept the offer? ",
+            "en_": "",
+            "ko": "너는 그 제안을 받아들이지 않았다는 말이냐?",
+            "words": []
+        },
+        {
+            "tag": "lv1",
+            "en": "You mean it's impossible? ",
+            "en_": "",
+            "ko": "불가능하다는 말입니까?",
+            "words": []
+        },
+        {
+            "tag": "lv3",
+            "en": "I used to be a high-school teacher.",
+            "en_": "I used to ",
+            "ko": "나는 전에는 고등학교 선생 이었다.",
+            "words": [
+                [
+                    "I used to~",
+                    "옛날에는 ~이었다"
+                ]
+            ],
+            "pattern": "I used to~"
+        },
+        {
+            "tag": "lv3",
+            "en": "I used to be a fan of hers.",
+            "en_": "I used to ",
+            "ko": "나는 전에는 그녀의 팬이었다.",
+            "words": [
+                [
+                    "I used to~",
+                    "옛날에는 ~이었다"
+                ]
+            ],
+            "pattern": "I used to~"
+        },
+        {
+            "tag": "lv3",
+            "en": "I used to be a baseball player.",
+            "en_": "I used to ",
+            "ko": "나는 전에는 야구 선수였다",
+            "words": [
+                [
+                    "I used to~",
+                    "옛날에는 ~이었다"
+                ]
+            ],
+            "pattern": "I used to~"
+        },
+        {
+            "tag": "lv3",
+            "en": "That's what I was thinking.",
+            "en_": "That's (that is) what ",
+            "ko": "내가 생각하고 있던 것이 바로 그거야",
+            "words": [
+                [
+                    "That's (that is) what~",
+                    "그것이 바로 ~이다"
+                ]
+            ],
+            "pattern": "That's (that is) what~"
+        },
+        {
+            "tag": "lv3",
+            "en": "That's what we have to do.",
+            "en_": "That's (that is) what ",
+            "ko": "우리들이 해야만 하는 것이 그것이다",
+            "words": [
+                [
+                    "That's (that is) what~",
+                    "그것이 바로 ~이다"
+                ]
+            ],
+            "pattern": "That's (that is) what~"
+        },
+        {
+            "tag": "lv3",
+            "en": "That's what I was afraid of.",
+            "en_": "That's (that is) what ",
+            "ko": "내가 두려워했던 것이 바로 그것이다",
+            "words": [
+                [
+                    "That's (that is) what~",
+                    "그것이 바로 ~이다"
+                ]
+            ],
+            "pattern": "That's (that is) what~"
+        },
+        {
+            "tag": "lv3,tayo",
+            "en": "It's a lovely warm morning. And there are our little kids.",
+            "en_": "",
+            "ko": "따스한 아침. 저기 꼬마들이 보이네요.",
+            "words": []
+        },
+        {
+            "tag": "lv1,tayo",
+            "en": "You guys are all here.",
+            "en_": "",
+            "ko": "너희들 왔구나?",
+            "words": []
+        },
+        {
+            "tag": "lv2,tayo",
+            "en": "This is called the Smart Phone.",
+            "en_": "",
+            "ko": "이건 스마트폰 이라는 거야.",
+            "words": []
+        },
+        {
+            "tag": "lv2,tayo",
+            "en": "This shows me all the shortcuts.",
+            "en_": "",
+            "ko": "이것은 나에게 가까운 길도 알려 줘",
+            "words": []
+        },
+        {
+            "tag": "lv2,tayo",
+            "en": "Besides, I can call you guys anytime I want to.",
+            "en_": "",
+            "ko": "게다가 언제든 나는 내가 원할때 너희랑 연락도 할 수 있어",
+            "words": []
+        },
+        {
+            "tag": "lv2,tayo",
+            "en": "It's tomorrow. What should I do?",
+            "en_": "",
+            "ko": "바로 내일이잖아, 어쩌지?",
+            "words": []
+        },
+        {
+            "tag": "lv2,tayo",
+            "en": "What's the problem? You should go watch it.",
+            "en_": "",
+            "ko": "뭐가 문제에요. 가서 보고 오세요.",
+            "words": []
+        },
+        {
+            "tag": "lv2,tayo",
+            "en": "You've been working really hard lately.",
+            "en_": "",
+            "ko": "너 요새 계속 열심히 일만 했잖아.",
+            "words": []
+        },
+        {
+            "tag": "lv1,tayo",
+            "en": "It's just for one day.",
+            "en_": "",
+            "ko": "단지 하루 정도인데요.",
+            "words": []
+        },
+        {
+            "tag": "lv2,tayo",
+            "en": "This is the Car Exhibition Center.",
+            "en_": "",
+            "ko": "이곳은 자동차 전시장이에요.",
+            "words": []
+        },
+        {
+            "tag": "lv2,tayo",
+            "en": "It's where the new friends meet their families.",
+            "en_": "",
+            "ko": "새내기 친구들이 함께 지낼 가족을 만나는 곳이랍니다",
+            "words": []
+        },
+        {
+            "tag": "lv1,tayo",
+            "en": "Isn't this exciting?",
+            "en_": "",
+            "ko": "왠지 설레는데?",
+            "words": []
+        },
+        {
+            "tag": "lv2,tayo",
+            "en": "So we're gonna find a car friend now?",
+            "en_": "",
+            "ko": "이제 우리도 자동차 친구가 생기는 거예요?",
+            "words": []
+        },
+        {
+            "tag": "lv1,tayo",
+            "en": "Mom, how about this car?",
+            "en_": "",
+            "ko": "엄마, 이 차는 어때요?",
+            "words": []
+        },
+        {
+            "tag": "lv2,tayo",
+            "en": "Do you only have two seats?",
+            "en_": "",
+            "ko": "당신은 자리가 두 개밖에 없나요?",
+            "words": []
+        },
+        {
+            "tag": "lv2,tayo",
+            "en": "We're looking for a car with lots of seats.",
+            "en_": "",
+            "ko": "우리는 자리가 많은 차가 필요해요.",
+            "words": []
+        },
+        {
+            "tag": "lv2,tayo",
+            "en": "I think you're a right fit for us.",
+            "en_": "",
+            "ko": "넌 우리랑 딱 어울리겠는데?",
+            "words": []
+        },
+        {
+            "tag": "lv1,tayo",
+            "en": "I'm the only one left.",
+            "en_": "",
+            "ko": "나만 남았잖아",
+            "words": []
+        },
+        {
+            "tag": "lv2,tayo",
+            "en": "But I don't like the color.",
+            "en_": "",
+            "ko": "하지만 색이 마음에 안 드네",
+            "words": []
+        },
+        {
+            "tag": "lv2,tayo",
+            "en": "I wish you were a nicer color.",
+            "en_": "",
+            "ko": "예쁜 색이면 더 좋았을 텐데",
+            "words": []
+        },
+        {
+            "tag": "lv2,tayo",
+            "en": "I wish I had a family too.",
+            "en_": "",
+            "ko": "나도 가족이 생기면 좋겠다",
+            "words": []
+        },
+        {
+            "tag": "lv1,tayo",
+            "en": "You look very pretty today!",
+            "en_": "",
+            "ko": "오늘 진짜 예뻐요!",
+            "words": []
+        },
+        {
+            "tag": "lv1,tayo",
+            "en": "I'll get going now.",
+            "en_": "",
+            "ko": "그럼 갔다 올게",
+            "words": []
+        },
+        {
+            "tag": "lv2,tayo",
+            "en": "Call me if something happens. Okay?",
+            "en_": "",
+            "ko": "무슨 일 있으면 꼭 연락하고. 알겠지?",
+            "words": []
+        },
+        {
+            "tag": "lv2,tayo",
+            "en": "I still have some time left.",
+            "en_": "",
+            "ko": "아직 시간이 좀 남았네",
+            "words": []
+        },
+        {
+            "tag": "lv2,tayo",
+            "en": "I feel better now that I'm outside.",
+            "en_": "",
+            "ko": "밖으로 나오니까 기분이 좀 낫다",
+            "words": []
+        },
+        {
+            "tag": "lv2,tayo",
+            "en": "It's my first time riding in the city.",
+            "en_": "",
+            "ko": "우아! 시내를 달려 보는 건 처음이야",
+            "words": []
+        },
+        {
+            "tag": "lv2,tayo",
+            "en": "Hey, what are you doing stopped like that?",
+            "en_": "",
+            "ko": "야, 그렇게 서 있으면 어떡해!",
+            "words": []
+        },
+        {
+            "tag": "lv1,tayo",
+            "en": "What should I do?",
+            "en_": "",
+            "ko": "어떡하지?",
+            "words": []
+        },
+        {
+            "tag": "lv1,tayo",
+            "en": "I'll get in there first.",
+            "en_": "",
+            "ko": "일단 저기로 들어가야겠다",
+            "words": []
+        },
+        {
+            "tag": "lv1,tayo",
+            "en": "Watch out!",
+            "en_": "",
+            "ko": "위험해!",
+            "words": []
+        },
+        {
+            "tag": "lv2,tayo",
+            "en": "Why are you coming from that side?",
+            "en_": "",
+            "ko": "반대로 들어오면 어떡해!",
+            "words": []
+        },
+        {
+            "tag": "lv2,tayo",
+            "en": "This is a one-way road in that direction!",
+            "en_": "",
+            "ko": "여긴 일방통행 길이라고!",
+            "words": []
+        },
+        {
+            "tag": "lv2,tayo",
+            "en": "I'm so glad I decided to come.",
+            "en_": "",
+            "ko": "역시 보러 오길 잘했어",
+            "words": []
+        },
+        {
+            "tag": "lv2,tayo",
+            "en": "That's odd. I thought somebody was there.",
+            "en_": "",
+            "ko": "이상하다. 누가 있던 거 같은데..\"",
+            "words": []
+        },
+        {
+            "tag": "lv2,tayo",
+            "en": "I have to go get a milk first.",
+            "en_": "",
+            "ko": "먼저 우유부터 사야겠다!",
+            "words": []
+        },
+        {
+            "tag": "lv2,tayo",
+            "en": "I'm in a hurry. Can you get me to the bridge?\"",
+            "en_": "",
+            "ko": "내가 급한데 다리까지 가 주겠니?",
+            "words": []
+        },
+        {
+            "tag": "lv1,tayo",
+            "en": "It's so jammed.",
+            "en_": "",
+            "ko": "길이 너무 막히잖아",
+            "words": []
+        },
+        {
+            "tag": "lv2,tayo",
+            "en": "I have to find a faster route with this.",
+            "en_": "",
+            "ko": "이걸로 빠른 길을 찾아야겠다",
+            "words": []
+        },
+        {
+            "tag": "lv2,tayo",
+            "en": "I got a little scratched earlier this afternoon.",
+            "en_": "",
+            "ko": "이건 아까 낮에 긁힌 건데..",
+            "words": []
+        },
+        {
+            "tag": "lv2,tayo",
+            "en": "I can paint it for you.",
+            "en_": "",
+            "ko": "그럼 내가 금방 다시 칠해 줄게",
+            "words": []
+        },
+        {
+            "tag": "lv1,tayo",
+            "en": "Really? Can I?",
+            "en_": "",
+            "ko": "네? 그래도 돼요?",
+            "words": []
+        },
+        {
+            "tag": "lv2,tayo",
+            "en": "I actually wanted to be pretty like you. ",
+            "en_": "",
+            "ko": "사실 저도 언니처럼 예뻐지고 싶었거든요",
+            "words": []
+        },
+        {
+            "tag": "lv2,tayo",
+            "en": "It's time to say goodbye to you.",
+            "en_": "",
+            "ko": "이제 너랑도 헤어질 시간이구나",
+            "words": []
+        },
+        {
+            "tag": "lv2,tayo",
+            "en": "You are looking for a family, right?",
+            "en_": "",
+            "ko": "너 가족을 찾고 있다고 했지?",
+            "words": []
+        },
+        {
+            "tag": "lv3,tayo",
+            "en": "If you don't mind, do you wanna join us and be part of our family?",
+            "en_": "",
+            "ko": "혹시 괜찮으면 우리 가족이 돼 주지 않을래?",
+            "words": []
+        },
+        {
+            "tag": "lv3,tayo",
+            "en": "What are you talking about? You helped a lot today.",
+            "en_": "",
+            "ko": "무슨 소리! 오늘도 정말 큰 힘이 됐다고 ",
+            "words": []
+        },
+        {
+            "tag": "lv1,tayo",
+            "en": "So this is the present?",
+            "en_": "",
+            "ko": "이게 그 선물이구나?",
+            "words": []
+        },
+        {
+            "tag": "lv1,tayo",
+            "en": "You've come just in time.",
+            "en_": "",
+            "ko": "마침 잘 왔어",
+            "words": []
+        },
+        {
+            "tag": "lv3,tayo",
+            "en": "It's a gift for you to welcome her into our family.",
+            "en_": "",
+            "ko": "너가 우리 가족이 된 기념으로 주는 선물이야",
+            "words": []
+        },
+        {
+            "tag": "lv1,tayo",
+            "en": "It looks great on you.",
+            "en_": "",
+            "ko": "진짜 잘 어울린다!",
+            "words": []
+        },
+        {
+            "tag": "lv3,tayo",
+            "en": "A welcome gift for becoming a family. I'm so touched.",
+            "en_": "",
+            "ko": "가족이 된 선물이라니 정말 감동이야!",
+            "words": []
+        },
+        {
+            "tag": "lv2,tayo",
+            "en": "I've never received a present like that.",
+            "en_": "",
+            "ko": "난 저런 선물 받아 본 적 없는데",
+            "words": []
+        },
+        {
+            "tag": "lv3,tayo",
+            "en": "Why are they making such a big fuss about it?",
+            "en_": "",
+            "ko": "다들 왜 저렇게 호들갑이야?",
+            "words": [
+                [
+                    "fuss",
+                    "호들갑,법석,야단"
+                ]
+            ],
+            "pattern": ""
+        },
+        {
+            "tag": "lv1,tayo",
+            "en": "Why did you stop it?",
+            "en_": "",
+            "ko": "왜 멈춘 거야?",
+            "words": []
+        },
+        {
+            "tag": "lv2,tayo",
+            "en": "I think you need more practice.",
+            "en_": "",
+            "ko": "넌 연습 좀 많이 해야겠다",
+            "words": []
+        },
+        {
+            "tag": "lv1,tayo",
+            "en": "Don't feel so bad.",
+            "en_": "",
+            "ko": "실망하지 마",
+            "words": []
+        },
+        {
+            "tag": "lv1,tayo",
+            "en": "It's only your first try.",
+            "en_": "",
+            "ko": "처음에는 다 그런 거야(처음 이잖아)",
+            "words": []
+        }
+    ]
+}
