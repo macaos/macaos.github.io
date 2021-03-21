@@ -1,0 +1,386 @@
+{
+	"info": {
+		"cover": "aaa.png",
+		"titleen": "I was driving at about 40 miles per hour.",
+		"titleko": "나는 40마일로 운전하고 있었어요",
+		"descko": "엄마의 생일선물을 고민하는 남자친구를 위해 여자친구가 제안한 방법은?",
+		"descen": "How about baking a birthday cake for her?"
+	},
+	"sentense": [
+		{
+			"tag": "lv2,cc04",
+			"en": "There's no one here by that name.",
+			"en_": "",
+			"ko": "그런 이름 가진 사람 여기 없는데요.",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc04",
+			"en": "He asked for it.",
+			"en_": "",
+			"ko": "그 자식 스스로 무덤을 팠군.(자업자득)",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc04",
+			"en": "I can barely hear you.",
+			"en_": "",
+			"ko": "전화 감이 머네요.",
+			"words": [
+				[
+					"barely",
+					"간신히, 가까스로, 겨우"
+				]
+			]
+		},
+		{
+			"tag": "lv2,cc04",
+			"en": "So Sam’s coming in tonight at 8, right?",
+			"en_": "",
+			"ko": "그래, 샘이 오늘 밤 8시에 오는 거 맞지?",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc04",
+			"en": "He's on the beam.",
+			"en_": "",
+			"ko": "그는 매우 정확하다.",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc04",
+			"en": "It would be great to meet up again sometime.",
+			"en_": "",
+			"ko": "다음에 다시 만나면 좋겠어요.",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc04",
+			"en": "I fee the same way.",
+			"en_": "",
+			"ko": "저도 똑같이 느꼈어요.",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc04",
+			"en": "I'm touched.",
+			"en_": "",
+			"ko": "감동받았어.",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc04",
+			"en": "My battery’s dead.",
+			"en_": "",
+			"ko": "배테리가 다 됐어요.",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc04",
+			"en": "If you can't beat them, join them.",
+			"en_": "",
+			"ko": "그들을 이길 수가 없다면 그들과 손을 잡아라.",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc04",
+			"en": "The world is as you take it.",
+			"en_": "",
+			"ko": "세상은 마음먹기 나름이다.",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc04",
+			"en": "I think it's a cop out.",
+			"en_": "",
+			"ko": "나는 그것을 책임 회피라고 생각해.",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc04",
+			"en": "Talk is cheap.",
+			"en_": "",
+			"ko": "말은 쉽죠.",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc04",
+			"en": "I am sorry to say that I don't agree with you.",
+			"en_": "",
+			"ko": "내가 당신에게 동의하지 않는다고 말하게 되어 유감이네요",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc02,cc04",
+			"en": "It takes time.",
+			"en_": "",
+			"ko": "시간이 걸립니다",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc04",
+			"en": "I want a position with more responsibility.",
+			"en_": "",
+			"ko": "좀더 책임 있는 지위에 있고 싶습니다.",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc04",
+			"en": "I have to be careful what I do.",
+			"en_": "",
+			"ko": "저는 뭘 하든 조심해야 돼요.",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc04",
+			"en": "I think you should get some fresh air",
+			"en_": "",
+			"ko": "바깥 공기를 좀 쐬는 게 좋을 것 같은데",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc04",
+			"en": "Far from it!",
+			"en_": "",
+			"ko": "전혀 아니에요.(천만해)",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc04",
+			"en": "He assumed to be deaf.",
+			"en_": "",
+			"ko": "그는 못들은 척 하고 있었다.",
+			"words": [
+				[
+					"assume",
+					"~라 가정하다, 간주하다, ~을 추측하다"
+				],
+				[
+					"deaf",
+					"귀가먹은, 청각 장애가 있는, 청각 장애인"
+				]
+			]
+		},
+		{
+			"tag": "lv2,cc04",
+			"en": "I blacked out.",
+			"en_": "",
+			"ko": "(술 너무 마셔서) 필름이 끊겼어.",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc04",
+			"en": "It is humid.",
+			"en_": "",
+			"ko": "습하네요 (습기가 많은 날씨)",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc04",
+			"en": "How come You don't like me?",
+			"en_": "",
+			"ko": "어째서(왜) 넌 날 좋아하지 않는거야?",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc04",
+			"en": "You shall no longer use this car",
+			"en_": "",
+			"ko": "더 이상 이 차 몰지마",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc04",
+			"en": "Look who's here.",
+			"en_": "",
+			"ko": "아니 이게 누구야.",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc04",
+			"en": "I am here to see your boss",
+			"en_": "",
+			"ko": "너의 상사 보러 왔다",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc04",
+			"en": "He is chubby.",
+			"en_": "",
+			"ko": "그는 통통하다.",
+			"words": [
+				[
+					"chubby",
+					"통통한, 토실토실한"
+				]
+			]
+		},
+		{
+			"tag": "lv2,cc04",
+			"en": "Stop complaining.",
+			"en_": "",
+			"ko": "(포기 하지말고) 계속 해 봐요.",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc04",
+			"en": "It works!",
+			"en_": "",
+			"ko": "효과 있어요!",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc04",
+			"en": "That movie really sucked.",
+			"en_": "",
+			"ko": "그 영화 진짜 별로였어요",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc04",
+			"en": "I wasn't born yesterday.",
+			"en_": "",
+			"ko": "나 그렇게 만만한 사람 아니야.",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc04",
+			"en": "You must be crazy to do such a thing",
+			"en_": "",
+			"ko": "그런 짓을 하다니 미쳤군요",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc04",
+			"en": "She was as pleased as punch.",
+			"en_": "",
+			"ko": "굉장히 기뻐하더군.",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc04",
+			"en": "The job interview is just around the corner.",
+			"en_": "",
+			"ko": "면접이 얼마 남지 않았네.",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc04",
+			"en": "I burned my boats behind me.",
+			"en_": "",
+			"ko": "나는 배수의 진을 쳤다.",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc04",
+			"en": "Stick around.",
+			"en_": "",
+			"ko": "옆에 계속 있어.",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc04",
+			"en": "He has been around.",
+			"en_": "",
+			"ko": "그는 세상 물정에 밝아요.",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc04",
+			"en": "She’s very high maintenance.",
+			"en_": "",
+			"ko": "손 많이 가는 스타일이에요",
+			"words": [
+				[
+					"maintenance",
+					"지속,유지,보수관리"
+				]
+			],
+			"pattern": ""
+		},
+		{
+			"tag": "lv2,cc04",
+			"en": "You're very annoying.",
+			"en_": "",
+			"ko": "너 때문에 짜증이 난다.",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc04",
+			"en": "I wonder if he'll call.",
+			"en_": "",
+			"ko": "그 사람이 과연 전화 할까?",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc04",
+			"en": "His bark is worse than his bite.",
+			"en_": "",
+			"ko": "그는 겉으로는 사나워 보여도 알고 보면 따뜻한 사람이에요.",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc04",
+			"en": "Is it okay if I spend the night?",
+			"en_": "",
+			"ko": "밤새우고 와도 괜찮아요?",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc04",
+			"en": "Do whatever you want.",
+			"en_": "",
+			"ko": "당신 마음대로 하세요.",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc04",
+			"en": "Behave yourself.",
+			"en_": "",
+			"ko": "예의를 갖추세요.",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc04",
+			"en": "What if the plane does crash?",
+			"en_": "",
+			"ko": "만약 그 비행기가 추락하면 어쩌지",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc04",
+			"en": "You flatter me.",
+			"en_": "",
+			"ko": "저를 우쭐하게 만들어주시네요 (보통은 감사의 의미)",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc04",
+			"en": "Don't make me laugh.",
+			"en_": "",
+			"ko": "나 좀 웃기지 마요",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc04",
+			"en": "What a nerve!",
+			"en_": "",
+			"ko": "뻔뻔 하군요 (간댕이가 부었군)",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc04",
+			"en": "Get it over with.",
+			"en_": "",
+			"ko": "(질질 끌지 말고) 확 끝내요.",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc04",
+			"en": "I've had it!",
+			"en_": "",
+			"ko": "나 참을만큼 참았어! (이젠 못참겠어!)",
+			"words": []
+		}
+	]
+}

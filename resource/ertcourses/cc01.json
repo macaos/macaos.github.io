@@ -1,0 +1,248 @@
+{
+	"info": {
+		"cover": "aaa.png",
+		"titleen": "I was driving at about 40 miles per hour.",
+		"titleko": "나는 40마일로 운전하고 있었어요",
+		"descko": "엄마의 생일선물을 고민하는 남자친구를 위해 여자친구가 제안한 방법은?",
+		"descen": "How about baking a birthday cake for her?"
+	},
+	"sentense": [
+		{
+			"tag": "lv1,cc01",
+			"en": "It's really bad.",
+			"en_": "",
+			"ko": "아주 나빠요",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc01",
+			"en": "Too expensive.",
+			"en_": "",
+			"ko": "너무 비싸네",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc01",
+			"en": "I haven't read the book yet.",
+			"en_": "",
+			"ko": "아직 그 책 안 읽었어요",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc01",
+			"en": "There's none left.",
+			"en_": "",
+			"ko": "아무것도 남아있지 않다",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc01",
+			"en": "Does anyone want to drink someting?",
+			"en_": "",
+			"ko": "뭔가 마시고 싶은 사람 있어?",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc01",
+			"en": "I'm just looking around.",
+			"en_": "",
+			"ko": "그냥 둘러보고 있어요.",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc01",
+			"en": "Let's go over it one more time.",
+			"en_": "",
+			"ko": "자 한번 더 살펴 보지요",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc01",
+			"en": "Be punctual!",
+			"en_": "",
+			"ko": "시간좀 맞춰줘!",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc01",
+			"en": "Don't bug me today! I'm tired.",
+			"en_": "",
+			"ko": "오늘 귀찮게 하지마, 나 피곤해.",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc01",
+			"en": "This sounds good.",
+			"en_": "This sounds ",
+			"ko": "좋을 것 같다",
+			"words": [
+				[
+					"This sounds~",
+					"~처럼 생각되다"
+				]
+			],
+			"pattern": "This sounds~"
+		},
+		{
+			"tag": "lv2,cc01",
+			"en": "How do you think I feel?",
+			"en_": "",
+			"ko": "내가 어떻게 느낄 것 같아?",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc01",
+			"en": "Stay out of my business.",
+			"en_": "",
+			"ko": "내 일에 참견하지 마",
+			"words": [
+				[
+					"stay out of~",
+					"~ 을 피하다(=avoid)"
+				]
+			],
+			"pattern": ""
+		},
+		{
+			"tag": "lv2,cc01",
+			"en": "I really want the book, so I'll wait for it.",
+			"en_": "",
+			"ko": "난 그 책이 꼭 필요해요, 그러니까 기다릴게요.",
+			"words": [],
+			"pattern": ""
+		},
+		{
+			"tag": "lv2,cc01",
+			"en": "Is this which you are looking for?",
+			"en_": "",
+			"ko": "이게 네가 찾던 거야?",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc01",
+			"en": "Take a guess.",
+			"en_": "",
+			"ko": "맞춰봐요",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc01",
+			"en": "Why don't you take a break?",
+			"en_": "Why don't you ",
+			"ko": "좀 쉬는 것이 어때요?",
+			"words": [
+				[
+					"Why don't you~",
+					"~하지 않을래?"
+				]
+			],
+			"pattern": "Why don't you~"
+		},
+		{
+			"tag": "lv2,cc01",
+			"en": "Do you want to go for a cup of coffee?",
+			"en_": "",
+			"ko": "커피 마시러 갈래요?",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc01",
+			"en": "So, I've been working on a book of poetry.",
+			"en_": "",
+			"ko": "그래서, 난 시집을 쓰고 있어.",
+			"words": [],
+			"pattern": ""
+		},
+		{
+			"tag": "lv2,cc01",
+			"en": "I'm sorry for being so late.",
+			"en_": "I'm sorry",
+			"ko": "늦어서 죄송해요.",
+			"words": [],
+			"pattern": "I'm sorry"
+		},
+		{
+			"tag": "lv1,cc01",
+			"en": "I just wanted to go",
+			"en_": "",
+			"ko": "난 단지 가려고 했어",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc01",
+			"en": "Do you feel like eating out tonigh?",
+			"en_": "",
+			"ko": "오늘밤 외식하고 싶니?",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc01",
+			"en": "How did he take the news?",
+			"en_": "",
+			"ko": "그 소식 듣고 반응이 어땠어요?",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc01",
+			"en": "That's a nice surprise!",
+			"en_": "",
+			"ko": "이거 뜻밖인데요",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc01",
+			"en": "Have fun!",
+			"en_": "",
+			"ko": "재미있게 즐겨!",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc01",
+			"en": "Look on the bright side.",
+			"en_": "",
+			"ko": "긍정적으로 생각해봐요.",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc01",
+			"en": "What time is convenient for you?",
+			"en_": "",
+			"ko": "몇 시쯤이 편하세요?",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc01",
+			"en": "I'm looking forward to it.",
+			"en_": "",
+			"ko": "기대하고 있어요",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc01",
+			"en": "She is at home in French.",
+			"en_": "",
+			"ko": "그 여자는 프랑스어에 능통하다.",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc01",
+			"en": "I'm nevours about my test results.",
+			"en_": "",
+			"ko": "시험결과 때문에 긴장돼",
+			"words": []
+		},
+		{
+			"tag": "lv3,cc01",
+			"en": "You'd better hurry.",
+			"en_": "You'd better ",
+			"ko": "서두르는 편이 좋겠다.",
+			"words": [
+				[
+					"You'd better~",
+					"~하는 편이 좋다"
+				]
+			],
+			"pattern": "You'd better~"
+		}
+	]
+}

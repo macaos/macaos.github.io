@@ -1,0 +1,237 @@
+{
+	"info": {
+		"cover": "aaa.png",
+		"titleen": "I was driving at about 40 miles per hour.",
+		"titleko": "나는 40마일로 운전하고 있었어요",
+		"descko": "엄마의 생일선물을 고민하는 남자친구를 위해 여자친구가 제안한 방법은?",
+		"descen": "How about baking a birthday cake for her?"
+	},
+	"sentense": [
+		{
+			"tag": "lv1,cc03",
+			"en": "I wasn’t expecting anyone today.",
+			"en_": "",
+			"ko": "오늘 손님이 올거라고는 생각하지 않았어요.",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc03",
+			"en": "I am going to make it",
+			"en_": "",
+			"ko": "나는 해낼꺼야",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc03",
+			"en": "I'm going to quit my job.",
+			"en_": "",
+			"ko": "나는 일을 그만 둘 생각이아",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc03",
+			"en": "The rain is picking up.",
+			"en_": "",
+			"ko": "빗방울이 굵어지고 있어.",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc03",
+			"en": "Who is going to pay for this?",
+			"en_": "",
+			"ko": "이건 누가 지불할 거죠?",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc03",
+			"en": "My dad is probably going to give her a bag.",
+			"en_": "",
+			"ko": "아버지가 아마 그녀에게 가방을 사 드릴꺼야.",
+			"words": [],
+			"pattern": ""
+		},
+		{
+			"tag": "lv2,cc03",
+			"en": "How come you can't go?",
+			"en_": "How come ",
+			"ko": "왜 갈수 없니?",
+			"words": [
+				[
+					"How come~",
+					"(도대체 왜)~않니?"
+				]
+			],
+			"pattern": "How come~"
+		},
+		{
+			"tag": "lv2,cc03",
+			"en": "What is the best way to solve this problem?",
+			"en_": "",
+			"ko": "이 문제를 푸는 가장 좋은 방법은 무엇인가요?",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc03",
+			"en": "Enjoy your meal.",
+			"en_": "",
+			"ko": "맛있게 드세요",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc03",
+			"en": "He’s bad with directions.",
+			"en_": "",
+			"ko": "그는 방향 감각이 없어요",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc03",
+			"en": "Things will work out all right.",
+			"en_": "",
+			"ko": "다 잘될거야",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc03",
+			"en": "Give it a try.",
+			"en_": "",
+			"ko": "노력해 보세요 (혹은 한번 시도해 보세요)",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc03",
+			"en": "That's as far as you can go.",
+			"en_": "",
+			"ko": "그게 당신 한계예요.",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc03",
+			"en": "I feel great today.",
+			"en_": "",
+			"ko": "오늘 정말 기분이 좋아요.",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc03",
+			"en": "I wonder if he wants to come.",
+			"en_": "",
+			"ko": "그 사람이 오고 싶어 할까?",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc03",
+			"en": "I have to make the deadline.",
+			"en_": "I have to ",
+			"ko": "마감시간에 맞추어야한다",
+			"words": [],
+			"pattern": "I have to~"
+		},
+		{
+			"tag": "lv1,cc03",
+			"en": "That's it.",
+			"en_": "",
+			"ko": "바로 그거야",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc03",
+			"en": "Better than nothing.",
+			"en_": "",
+			"ko": "없는 것 보다는 낫지요",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc03",
+			"en": "I have no time.",
+			"en_": "",
+			"ko": "나는 시간이 없어요(바쁘네요)",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc03",
+			"en": "Why don't we eat out tonigt?",
+			"en_": "",
+			"ko": "우리 오늘 외식할까요?",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc03",
+			"en": "Welcome home!",
+			"en_": "",
+			"ko": "집에 온것을 환영합니다",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc03",
+			"en": "Can I ask a something?",
+			"en_": "",
+			"ko": "뭐 좀 물어볼 수 있을까요?",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc03",
+			"en": "I was getting tired of city life.",
+			"en_": "",
+			"ko": "난 도시생활에 지쳐가고 있었어.",
+			"words": [],
+			"pattern": ""
+		},
+		{
+			"tag": "lv3,cc03",
+			"en": "I have to make more of a contribution to the project.",
+			"en_": "I have to ",
+			"ko": "이 프로젝트에 좀더 공헌을 해야 합니다",
+			"words": [],
+			"pattern": "I have to~"
+		},
+		{
+			"tag": "lv1,cc03",
+			"en": "Thank you for coming.",
+			"en_": "",
+			"ko": "와주셔서 감사해요.",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc03",
+			"en": "Not really.",
+			"en_": "",
+			"ko": "그렇지는 않아",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc03",
+			"en": "This is urgent.",
+			"en_": "",
+			"ko": "긴급입니다",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc03",
+			"en": "I’ll catch up with you.",
+			"en_": "",
+			"ko": "곧 따라갈게요.",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc03",
+			"en": "I used to be a high-school teacher.",
+			"en_": "I used to ",
+			"ko": "나는 전에는 고등학교 선생 이었다.",
+			"words": [
+				[
+					"I used to~",
+					"옛날에는 ~이었다"
+				]
+			],
+			"pattern": "I used to~"
+		},
+		{
+			"tag": "lv2,cc03",
+			"en": "What do you think of it?",
+			"en_": "",
+			"ko": "이것에 대해서 뭐라고 생각 하세요?",
+			"words": []
+		}
+	]
+}

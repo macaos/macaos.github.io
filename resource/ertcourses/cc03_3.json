@@ -1,0 +1,226 @@
+{
+	"info": {
+		"cover": "aaa.png",
+		"titleen": "I was driving at about 40 miles per hour.",
+		"titleko": "나는 40마일로 운전하고 있었어요",
+		"descko": "엄마의 생일선물을 고민하는 남자친구를 위해 여자친구가 제안한 방법은?",
+		"descen": "How about baking a birthday cake for her?"
+	},
+	"sentense": [
+		{
+			"tag": "lv2,cc03",
+			"en": "That’s what I hate about working here.",
+			"en_": "",
+			"ko": "여기서 일하는 게 싫은 이유가 바로 그거예요!",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc03",
+			"en": "Is there another exit?",
+			"en_": "",
+			"ko": "다른 출구가 있습니까?",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc03",
+			"en": "I left the bank and moved to the country.",
+			"en_": "",
+			"ko": "은행을 그만두고 시골로 이사했어.",
+			"words": [],
+			"pattern": ""
+		},
+		{
+			"tag": "lv1,cc03",
+			"en": "That is what I heard",
+			"en_": "",
+			"ko": "그게 바로 내가 들은 거야",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc03",
+			"en": "Shall I open the window?",
+			"en_": "",
+			"ko": "창문을 열까요?",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc03",
+			"en": "Can I help you?",
+			"en_": "Can I  ",
+			"ko": "도와드릴까요?",
+			"words": [],
+			"pattern": "Can I~ "
+		},
+		{
+			"tag": "lv1,cc03",
+			"en": "It’s a long story.",
+			"en_": "",
+			"ko": "말하자면 길어요",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc03",
+			"en": "Get some rest.",
+			"en_": "",
+			"ko": "좀 쉬어요.",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc03",
+			"en": "My mom is baking cookies this afternoon.",
+			"en_": "",
+			"ko": "우리 엄마는 오늘 오후에 쿠키를 구울 거야.",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc03",
+			"en": "Speaking Korean?",
+			"en_": "",
+			"ko": "한국말해요?",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc03",
+			"en": "Are you ready?",
+			"en_": "",
+			"ko": "준비 되었습니까?",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc03",
+			"en": "It's my turn.",
+			"en_": "",
+			"ko": "이번에 내 차례입니다",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc03",
+			"en": "Help yourself.",
+			"en_": "",
+			"ko": "마음껏 드세요",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc03",
+			"en": "Grow up!",
+			"en_": "",
+			"ko": "좀 철 좀 들어라.",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc03",
+			"en": "Would you please pass me the salt?",
+			"en_": "Would you  ",
+			"ko": "이 편지를 부쳐 주시겠습니까?",
+			"words": [],
+			"pattern": "Would you~ "
+		},
+		{
+			"tag": "lv1,cc03",
+			"en": "I haven't got all day.",
+			"en_": "",
+			"ko": "좀 서둘러 주시겠어요?",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc03",
+			"en": "Well done.",
+			"en_": "",
+			"ko": "잘 했어요",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc03",
+			"en": "Are you going to study for your test?",
+			"en_": "",
+			"ko": "너 시험공부할 거니?",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc03",
+			"en": "I have to make a choice.",
+			"en_": "I have to ",
+			"ko": "나는 선택을 해야 한다",
+			"words": [],
+			"pattern": "I have to~"
+		},
+		{
+			"tag": "lv1,cc03",
+			"en": "I am short changed.",
+			"en_": "",
+			"ko": "잔돈이 모자라는데요",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc03",
+			"en": "I have a flat tire.",
+			"en_": "",
+			"ko": "타이어가 펑크났어요.",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc03",
+			"en": "Who is your course instructor?",
+			"en_": "",
+			"ko": "누가 과목을 담당하시나요?",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc03",
+			"en": "I don’t remember the password.",
+			"en_": "",
+			"ko": "비밀번호를 잊어버렸어요.",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc03",
+			"en": "Can't be better than this.",
+			"en_": "",
+			"ko": "이것보다 더 좋을 순 없지요",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc03",
+			"en": "I will be in touch.",
+			"en_": "",
+			"ko": "제가 연락드릴께요.",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc03",
+			"en": "Did you finish the reports?",
+			"en_": "",
+			"ko": "보고서 다 끝냈나요?",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc03",
+			"en": "I am single.",
+			"en_": "",
+			"ko": "나는 미혼입니다",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc03",
+			"en": "Can I have a word with you?",
+			"en_": "",
+			"ko": "잠깐 이야기 좀 할 수 있을까요?",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc03",
+			"en": "Do you mind if I use this?",
+			"en_": "Do you mind if I ",
+			"ko": "이거 써도 돼요?",
+			"words": [],
+			"pattern": "Do you mind if I~"
+		},
+		{
+			"tag": "lv1,cc03",
+			"en": "Give it a rest.",
+			"en_": "",
+			"ko": "내버려둬.",
+			"words": []
+		}
+	]
+}

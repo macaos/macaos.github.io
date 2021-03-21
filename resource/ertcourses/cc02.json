@@ -1,0 +1,153 @@
+{
+	"info": {
+		"cover": "aaa.png",
+		"titleen": "I was driving at about 40 miles per hour.",
+		"titleko": "나는 40마일로 운전하고 있었어요",
+		"descko": "엄마의 생일선물을 고민하는 남자친구를 위해 여자친구가 제안한 방법은?",
+		"descen": "How about baking a birthday cake for her?"
+	},
+	"sentense": [
+		{
+			"tag": "lv1,cc02",
+			"en": "Charge it please.",
+			"en_": "",
+			"ko": "신용카드로 결제해주세요.",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc02",
+			"en": "Where do you live?",
+			"en_": "",
+			"ko": "어디에 사세요?",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc02",
+			"en": "What do you think?",
+			"en_": "",
+			"ko": "무엇이라고 생각하세요?",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc02",
+			"en": "Let's try.",
+			"en_": "",
+			"ko": "한번 해보지요",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc02",
+			"en": "Get in the line.",
+			"en_": "",
+			"ko": "줄을 서세요",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc02",
+			"en": "Are you free tomorrow?",
+			"en_": "",
+			"ko": "내일 시간 괜찮아요?",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc02",
+			"en": "It's airport policy.",
+			"en_": "",
+			"ko": "공항 규정입니다.",
+			"words": [],
+			"pattern": ""
+		},
+		{
+			"tag": "lv1,cc02,cc04",
+			"en": "It takes time.",
+			"en_": "",
+			"ko": "시간이 걸립니다",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc02",
+			"en": "What do you mean?",
+			"en_": "",
+			"ko": "무슨 의미지요?",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc02",
+			"en": "Are you serious?",
+			"en_": "",
+			"ko": "진심이에요?",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc02",
+			"en": "It's all your fault.",
+			"en_": "",
+			"ko": "모든게 네 잘못이야",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc02",
+			"en": "Would you like some?",
+			"en_": "",
+			"ko": "좀 드셔보실래요?",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc02",
+			"en": "Nice meeting you.",
+			"en_": "",
+			"ko": "만나서 반가었어요 (만났다가 헤어질 때)",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc02",
+			"en": "Keep in touch.",
+			"en_": "",
+			"ko": "계속 연락해요.",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc02",
+			"en": "What’s today's special?",
+			"en_": "",
+			"ko": "오늘 특선 요리가 뭐지요?",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc02",
+			"en": "I'm all set.",
+			"en_": "",
+			"ko": "준비 끝!",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc02",
+			"en": "Do I look all right?",
+			"en_": "",
+			"ko": "제가 괜찮아 보여요?",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc02",
+			"en": "Then how about a bag?",
+			"en_": "",
+			"ko": "그러면 가방은 어때?",
+			"words": [],
+			"pattern": ""
+		},
+		{
+			"tag": "lv1,cc02",
+			"en": "I will miss you.",
+			"en_": "",
+			"ko": "널 그리워 할거야",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc02",
+			"en": "Just a moment.",
+			"en_": "",
+			"ko": "잠깐 만요",
+			"words": []
+		}
+	]
+}

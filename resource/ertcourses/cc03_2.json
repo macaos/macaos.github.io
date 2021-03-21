@@ -1,0 +1,250 @@
+{
+	"info": {
+		"cover": "aaa.png",
+		"titleen": "I was driving at about 40 miles per hour.",
+		"titleko": "나는 40마일로 운전하고 있었어요",
+		"descko": "엄마의 생일선물을 고민하는 남자친구를 위해 여자친구가 제안한 방법은?",
+		"descen": "How about baking a birthday cake for her?"
+	},
+	"sentense": [
+		{
+			"tag": "lv2,tayo,cc03",
+			"en": "I actually wanted to be pretty like you.",
+			"en_": "",
+			"ko": "사실 나도 너처럼 예뻐지고 싶었거든",
+			"words": []
+		},
+		{
+			"tag": "lv3,cc03",
+			"en": "You'd better watch out.",
+			"en_": "You'd better ",
+			"ko": "조심하는 것이 좋겠다.",
+			"words": [
+				[
+					"You'd better~",
+					"~하는 편이 좋다"
+				]
+			],
+			"pattern": "You'd better~"
+		},
+		{
+			"tag": "lv2,cc03",
+			"en": "I'm going to study harder next year.",
+			"en_": "",
+			"ko": "내년에는 좀더 열심히 공부 할 생각이다",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc03",
+			"en": "Did the book I ordered come in?",
+			"en_": "",
+			"ko": "제가 주문한 책이 왔나요?",
+			"words": [],
+			"pattern": ""
+		},
+		{
+			"tag": "lv2,cc03",
+			"en": "I already gave her one last year.",
+			"en_": "",
+			"ko": "그녀에게 작년에 이미 하나 사 줬어.",
+			"words": [],
+			"pattern": ""
+		},
+		{
+			"tag": "lv1,cc03",
+			"en": "What brings you here.",
+			"en_": "",
+			"ko": "어떻게 오셨지요?",
+			"words": []
+		},
+		{
+			"tag": "lv3,cc03",
+			"en": "I’m just about to send those faxes.",
+			"en_": "",
+			"ko": "저는 그 팩스를 보내려던 참이에요.",
+			"words": [
+				[
+					"I’m (just) about to~",
+					"~ 하려던 참이다"
+				]
+			],
+			"pattern": ""
+		},
+		{
+			"tag": "lv1,cc03",
+			"en": "Why are you here?",
+			"en_": "",
+			"ko": "여기는 왜 왔어?",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc03",
+			"en": "Today we're here to discuss opening a new branch.",
+			"en_": "",
+			"ko": "오늘 우리는 여기 새로운 지점을 여는 것에 대해 논의하기 위해 왔습니다.",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc03",
+			"en": "Could you get me another beer?",
+			"en_": "Could you  ",
+			"ko": "나한테 맥주 한잔 더 줄래요?",
+			"words": [],
+			"pattern": "Could you~ "
+		},
+		{
+			"tag": "lv1,cc03",
+			"en": "After you.",
+			"en_": "",
+			"ko": "먼저 가시지요",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc03",
+			"en": "I hope you can make it.",
+			"en_": "I hope  ",
+			"ko": "네가 그것을 만들 수 있으면 좋겠다.",
+			"words": [],
+			"pattern": "I hope~ "
+		},
+		{
+			"tag": "lv1,cc03",
+			"en": "Any good ideas?",
+			"en_": "",
+			"ko": "어떤 좋은 생각이라도?",
+			"words": []
+		},
+		{
+			"tag": "lv3,cc03",
+			"en": "Let’s all chip in and buy him a nice present.",
+			"en_": "",
+			"ko": "우리 돈을 모아서 그 사람한테 좋은 선물 사주자.",
+			"words": [
+				[
+					"chip",
+					"조각,부스러기,토막"
+				]
+			],
+			"pattern": ""
+		},
+		{
+			"tag": "lv1,cc03",
+			"en": "I am on a diet.",
+			"en_": "",
+			"ko": "나 다이어트 중이야.",
+			"words": []
+		},
+		{
+			"tag": "lv3,cc03",
+			"en": "You'd better be careful.",
+			"en_": "You'd better ",
+			"ko": "주의하는 것이 좋겠어.",
+			"words": [
+				[
+					"You'd better~",
+					"~하는 편이 좋다"
+				]
+			],
+			"pattern": "You'd better~"
+		},
+		{
+			"tag": "lv2,cc03",
+			"en": "Who wants to go now?",
+			"en_": "",
+			"ko": "지금 가고 싶은 사람 누구야?",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc03",
+			"en": "Can I have a wet towel?",
+			"en_": "",
+			"ko": "물수건 좀 주시겠어요?",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc03",
+			"en": "Keep it to yourself.",
+			"en_": "",
+			"ko": "이거 비밀이에요.",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc03",
+			"en": "Can you show me the specials?",
+			"en_": "",
+			"ko": "특별한 것들을 제게 보여주실 수 있나요?",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc03",
+			"en": "I still love you.",
+			"en_": "",
+			"ko": "난 널 아직도 사랑해.",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc03",
+			"en": "Where can I park my car?",
+			"en_": "",
+			"ko": "제 차를 어디에 주차할 수 있나요?",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc03",
+			"en": "Please be quiet.",
+			"en_": "",
+			"ko": "조용히 해 주세요.",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc03",
+			"en": "Check, please.",
+			"en_": "",
+			"ko": "계산서 좀 주세요",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc03",
+			"en": "It's freezing.",
+			"en_": "",
+			"ko": "대박 춥네 (꽁꽁 얼어붙는다는 뜻에서 출발)",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc03",
+			"en": "What was your impression of him?",
+			"en_": "",
+			"ko": "그 사람 인상이 어땠어요?",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc03",
+			"en": "Make that two, please.",
+			"en_": "",
+			"ko": "그것을 2 개로 나눠 주세요",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc03",
+			"en": "Know your place.",
+			"en_": "",
+			"ko": "분수를 알아라.(주제 파악 좀 해라)",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc03",
+			"en": "I haven't seen you in months. What's new?",
+			"en_": "",
+			"ko": "오랜만이군. 별일 없었어?",
+			"words": [],
+			"pattern": ""
+		},
+		{
+			"tag": "lv1,cc03",
+			"en": "What does that mean?",
+			"en_": "",
+			"ko": "그게 무슨 말이야?",
+			"words": []
+		}
+	]
+}

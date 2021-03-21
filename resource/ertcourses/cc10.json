@@ -1,0 +1,340 @@
+{
+	"info": {
+		"cover": "aaa.png",
+		"titleen": "I was driving at about 40 miles per hour.",
+		"titleko": "나는 40마일로 운전하고 있었어요",
+		"descko": "엄마의 생일선물을 고민하는 남자친구를 위해 여자친구가 제안한 방법은?",
+		"descen": "How about baking a birthday cake for her?"
+	},
+	"sentense": [
+		{
+			"tag": "lv2,cc10",
+			"en": "Are there any clubs and bars around here?",
+			"en_": "",
+			"ko": "이 근처에 술집이나 바가 있습니까?",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc10",
+			"en": "Is it done well?",
+			"en_": "",
+			"ko": "잘 끝났어?",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc10",
+			"en": "Did you ace your finals last semester?",
+			"en_": "",
+			"ko": "지난 학기 기말시험 잘 봤어?",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc10",
+			"en": "No way.",
+			"en_": "",
+			"ko": "말도 안돼!,설마!",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc10",
+			"en": "It's the cream of the crop.",
+			"en_": "",
+			"ko": "그건 최고중의 최고다.",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc10",
+			"en": "She is calm, collected and meticulous.",
+			"en_": "",
+			"ko": "그 여자는 사람이 차분하고 꼼꼼하다.",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc10",
+			"en": "Stop blowing your own horn!",
+			"en_": "",
+			"ko": "쓸데없는 소리하지 마!",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc10",
+			"en": "That'll be the day!",
+			"en_": "",
+			"ko": "그런 일은 절대 안 일어나.",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc10",
+			"en": "Couldn't be better than this.",
+			"en_": "",
+			"ko": "이것보다 좋을 순 없죠.",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc10",
+			"en": "Is this in addition?",
+			"en_": "",
+			"ko": "추가로 하시는 겁니까?",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc10",
+			"en": "Either will do.",
+			"en_": "",
+			"ko": "둘다 돼요.",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc10",
+			"en": "What makes you say that?",
+			"en_": "",
+			"ko": "무슨 근거로 그렇게 말하세요?",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc10",
+			"en": "I have had enough. I quit.",
+			"en_": "",
+			"ko": "난 이제 진저리가 나요. 그만 둘래요",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc10",
+			"en": "I don't know how and I don't have enough time.",
+			"en_": "",
+			"ko": "나는 어떻게 굽는줄도 모르고 시간도 충분치 않아.",
+			"words": [],
+			"pattern": ""
+		},
+		{
+			"tag": "lv2,cc10",
+			"en": "I am happy with what I have",
+			"en_": "",
+			"ko": "나는 내가 가진 것으로 행복해",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc10",
+			"en": "I can´t believe you did that",
+			"en_": "",
+			"ko": "네가 그렇게 했다는 것을 믿을 수가 없어",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc10",
+			"en": "Oh, dear!",
+			"en_": "",
+			"ko": "아니 저런",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc10",
+			"en": "This sounds scary.",
+			"en_": "This sounds ",
+			"ko": "무서울 것 같다",
+			"words": [
+				[
+					"This sounds~",
+					"~처럼 생각되다"
+				]
+			],
+			"pattern": "This sounds~"
+		},
+		{
+			"tag": "lv2,cc10",
+			"en": "Nice talking to you.",
+			"en_": "",
+			"ko": "좋은 대화였어요 (만났다가 헤어질 때)",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc10",
+			"en": "I have a small farm there.",
+			"en_": "",
+			"ko": "거기에 작은 농장을 마련했어.",
+			"words": [],
+			"pattern": ""
+		},
+		{
+			"tag": "lv1,cc10",
+			"en": "Our thoughts are compatible.",
+			"en_": "",
+			"ko": "당신하고는 말이 통하는군요.",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc10",
+			"en": "I am interested in going to Europe",
+			"en_": "",
+			"ko": "나는 유럽가는 것에 관심이 있어",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc10",
+			"en": "I picked two buckets of tomatoes last week!",
+			"en_": "",
+			"ko": "저는 지난 달에 토마토를 두 통이나 땄어요!",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc10",
+			"en": "You mean it's impossible?",
+			"en_": "",
+			"ko": "불가능하다는 말입니까?",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc10",
+			"en": "Can I get refund?",
+			"en_": "",
+			"ko": "환불할 수 있어요?",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc10",
+			"en": "Take a chance.",
+			"en_": "",
+			"ko": "운에 맡기고 해보세요.",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc10",
+			"en": "I am going to have to sit up tonight",
+			"en_": "",
+			"ko": "나 오늘 밤새야 할꺼야",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc10",
+			"en": "I'd better bring in the laundry.",
+			"en_": "",
+			"ko": "빨래를 걷는 게 좋겠네요.",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc10",
+			"en": "I feel a little dizzy.",
+			"en_": "",
+			"ko": "약간 현기증이 난다",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc10",
+			"en": "Tell her I'll call her when I get home.",
+			"en_": "",
+			"ko": "집에 도착하면 전화 한다고 그녀에게 전해줘요",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc10",
+			"en": "Why didn't I think of that?",
+			"en_": "",
+			"ko": "왜 그걸 생각 못했지?",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc10",
+			"en": "That should help.",
+			"en_": "",
+			"ko": "그게 도움이 될 겁니다.",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc10",
+			"en": "Don't ever do that again!",
+			"en_": "",
+			"ko": "다시는 그런 짓 하지마! (강조할 때)",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc10",
+			"en": "No matter what people say, it is the truth.",
+			"en_": "",
+			"ko": "사람들이 뭐라고 해도 그것은 진실이다.",
+			"words": []
+		},
+		{
+			"tag": "lv3,cc10",
+			"en": "I work at the university as a financial specialist.",
+			"en_": "",
+			"ko": "저는 재정 전문가로 대학에서 일하고 있어요.",
+			"words": []
+		},
+		{
+			"tag": "lv3,cc10",
+			"en": "The bottome line is that we have to improve the quality of our products.",
+			"en_": "",
+			"ko": "결론은 우리 상품의 질을 높여야만 한다는 것이다",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc10",
+			"en": "This is not much.",
+			"en_": "",
+			"ko": "약소합니다",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc10",
+			"en": "It's your turn.",
+			"en_": "",
+			"ko": "당신 차례입니다",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc10",
+			"en": "I am ready to go out",
+			"en_": "",
+			"ko": "전 나갈 준비가 됐어요",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc10",
+			"en": "I brown bagged it today.",
+			"en_": "",
+			"ko": "나 오늘 도시락 싸 가지고 왔어.",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc10",
+			"en": "Everything is all abroad.",
+			"en_": "",
+			"ko": "모든 것이 다 들통 났다.",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc10",
+			"en": "Let me think about it.",
+			"en_": "",
+			"ko": "제가 생각해 보죠 (의미없이 대화 중 음~ 하는 용도)",
+			"words": []
+		},
+		{
+			"tag": "lv2,cc10",
+			"en": "Why don't you sit down?",
+			"en_": "Why don't you ",
+			"ko": "앉지 그래요",
+			"words": [
+				[
+					"Why don't you~",
+					"~하지 않을래?"
+				]
+			],
+			"pattern": "Why don't you~"
+		},
+		{
+			"tag": "lv1,cc10",
+			"en": "Lucky you!",
+			"en_": "",
+			"ko": "자네 운이 좋았어",
+			"words": []
+		},
+		{
+			"tag": "lv1,cc10",
+			"en": "You said it.",
+			"en_": "",
+			"ko": "지당하신 말씀",
+			"words": []
+		}
+	]
+}
