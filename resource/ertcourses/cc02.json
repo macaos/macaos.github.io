@@ -8,10 +8,10 @@
 	},
 	"sentense": [
 		{
-			"tag": "lv1,cc02",
-			"en": "Charge it please.",
+			"tag": "lv1,life",
+			"en": "Would you please be quiet?",
 			"en_": "",
-			"ko": "신용카드로 결제해주세요.",
+			"ko": "조용히 좀 해줄래요?",
 			"words": []
 		},
 		{
@@ -32,7 +32,7 @@
 			"tag": "lv1,cc02",
 			"en": "Let's try.",
 			"en_": "",
-			"ko": "한번 해보지요",
+			"ko": "우리 한번 해보자.",
 			"words": []
 		},
 		{
