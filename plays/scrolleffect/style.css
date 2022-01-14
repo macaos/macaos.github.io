@@ -1,0 +1,42 @@
+.items {
+    font-size: 30px;
+    padding: 20px;
+}
+
+.items li {
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.items {
+    transition: transform 2s cubic-bezier(0.04, 0.72, 0.09, 0.99);
+}
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+    .items {
+        padding: 20px;
+        /* background-color: blue; */
+    }
+}
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+    .items {
+        padding: 40px;
+    }
+}
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+    .items {
+        padding: 80px;
+    }
+}
+
+/* // Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    .items {
+        padding: 100px;
+    }
+}
